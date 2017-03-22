@@ -7,7 +7,7 @@
 
 # Site settings
 title: 200 Word RPG Challenge
-email: davidschirduan@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   The 200 Word RPG Challenge page for 2017 entrants. Find more details at the Technical Grimoire (schirduans.com)
 baseurl: "" # the subpath of your site, e.g. /blog
