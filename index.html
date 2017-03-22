@@ -6,17 +6,7 @@ layout: default
 
   <h1 class="page-heading">2017 Entries</h1>
   <p>Entries are listed below in a random order. Click Here for an alphabetical listing.</p>
-  
-{% assign posts = site.posts | sample:3 %}
-{% for post in posts %}
-<li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-{% endfor %}
+ 
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -33,3 +23,39 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+
+<script type="text/javascript">
+
+    var randomIndexUsed = [];
+    var counter = 0;
+    var numberOfPosts = 5;
+
+    while (counter < numberOfPosts)
+    {
+        var randomIndex;
+        var postHREF;
+        var postTitle;
+
+        randomIndex = Math.floor(Math.random() * postsHREF.length);
+
+        if (randomIndexUsed.indexOf(randomIndex) == "-1")
+        {
+            postHREF = postsHEF[randomIndex];
+            postTitle = postsTitle[randomIndex];
+
+            if (counter == (numberOfPosts - 1))
+            {
+                document.write('<p><a href="' + postHREF + '">' + postTitle + '</a></p>');
+            }
+            else
+            {
+                document.write('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
+            }
+
+            randomIndexUsed.push(randomIndex);
+
+            counter++;
+        }
+    }
+
+</script>
