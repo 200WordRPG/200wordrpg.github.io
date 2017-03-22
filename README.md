@@ -1,87 +1,92 @@
-# Hydejack
+# The Minimal theme
 
-Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme, stolen by [`@qwtel`](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com). You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+[![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
-## Features
-Unlike Hyde, it's very opinionated about how you are going to use it.
+*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
 
-Features include:
+![Thumbnail of minimal](thumbnail.png)
 
-* Touch-enabled sidebar / drawer for mobile, including fallback when JS is disabled.
-* Github Pages compatible tag support based on [this post][tag].
-* Customizable link color and sidebar image, per-site, per-tag and per-post.
-* Optional author section at the bottom of each post.
-* Optional comment section powered by Disqus.
-* Layout for posts grouped by year
-* Wide array of social media icons on sidebar.
-* Math blocks via [KaTeX](https://khan.github.io/KaTeX/).
+## Usage
 
-## Download
-Hydejack is developed on and hosted with GitHub. Head to the [GitHub repository](https://github.com/qwtel/hydejack) for downloads, bug reports, and feature requests.
+To use the Minimal theme:
 
-## Sidebar
-I love the original Hyde theme, but unfortunately the layout isn't as great on small screens.
-Since the sidebar moves to the top, the user has to scroll down just to read the title of a blog post.
+1. Add the following to your site's `_config.yml`:
 
-By using a drawer component I was able to retain the original two column layout. It's possible to move the drawer via touch input (with the help of a little JavaScript).
+    ```yml
+    theme: jekyll-theme-minimal
+    ```
 
-Since the background image contributes to the feel of the page I'm letting it peek over the edge a bit. This also provides a hint to the user that an interaction is possible.
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-## Manual
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
-### Configuration
-You can configure important aspects of the theme via [`_config.yml`](https://github.com/qwtel/hydejack/blob/master/_config.yml). This includes:
 
-* the blog description in the sidebar
-* the (optional) author description and photo
-* default image and link color of the blog
-* the github and twitter usernames
 
-### How to Change the Image and Color of a Post
-In the manifest of a blog post, simply add an url as `image` and a CSS color as `color`:
+## Customizing
 
-~~~yml
-layout: post
-title: Introducing Hydejack
-image: http://qwtel.com/hydejack/public/img/hyde.jpg
-color: '#949667'
-~~~
+### Configuration variables
 
-### How to Add a New Tag
-Tags are possible, but they are not meant to be used #instagram #style: #food #goodfood #happy #happylife #didimentionfood #yougetthepoint. Each tag requires some setup work. I tend to think of it as categories that can be combined.
+Minimal will respect the following variables, if set in your site's `_config.yml`:
 
-1.  Add an entry to `_data/tags.yml`, where the key represents a slug and provide at least a `name` value and optionally `image`, `color` and `description`.
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
 
-    Example `/_data/tags.yml`:
+Additionally, you may choose to set the following optional variables:
 
-    ~~~yml
-    mytag:
-      name: My Tag
-    ~~~
+```yml
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
 
-2.  Make a new file in the `tag` folder, using the same name you've used as the key / slug and change the `tag` and `permalink` entries.
+### Stylesheet
 
-    Example `/tag/mytag.md`:
+If you'd like to add your own custom styles:
 
-    ~~~yml
-    layout: blog-by-tag
-    tag: mytag
-    permalink: /tag/mytag/
-    ~~~
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
 
-3.  Tag your blog posts using the `tags` key (color and image will only depend on the first tag).
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-    ~~~yml
-    layout: post
-    title: Introducing My New Tag
-    tags: [mytag, othertag]
-    ~~~
+### Layouts
 
-4. (optional) Add the tag to the sidebar, by adding it to `sidebar_tags` in `_config.yml`.
-   They will appear in the listed order.
+If you'd like to change the theme's HTML layout:
 
-   ~~~yml
-   sidebar_tags: [mytag, othertag]
-   ~~~
+1. [Copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+2. Create a file called `/_layouts/default.html` in your site
+3. Paste the default layout content copied in the first step
+4. Customize the layout as you'd like
 
-[tag]: http://www.minddust.com/post/tags-and-categories-on-github-pages/
+## Roadmap
+
+See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
+
+## Project philosophy
+
+The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+
+## Contributing
+
+Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](CONTRIBUTING.md) for instructions on how to contribute.
+
+### Previewing the theme locally
+
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
+
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
+### Running tests
+
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
