@@ -1,65 +1,29 @@
 <head>
-  <meta charset="utf-8">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-  
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  
-  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>  
-  
-  <script type="text/javascript">
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
 
-    function generateRandomPosts()
-    {
-        $.getJSON("/search.json", function(data) {
-            console.log("[search.json loaded for random posts]");
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
-            var postsCount = data.length;
-            var posts = data;
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
 
-            var randomIndexUsed = [];
-            var counter = 0;
-            var numberOfPosts = postsCount;
-
-            var divRandomPosts = $("#random_posts");
-
-
-            while (counter < numberOfPosts)
-            {
-                var randomIndex = Math.floor(Math.random() * postsCount);
-
-                if (randomIndexUsed.indexOf(randomIndex) == "-1")
-                {
-                    var postHREF = posts[randomIndex].href;
-                    var postTitle = posts[randomIndex].title;
-
-                    if (counter == (numberOfPosts - 1))
-                    {
-                        divRandomPosts.append('<h2><a href="' + postHREF + '">' + postTitle + '</a> </h2>');
-                    }
-                    else
-                    {
-                        divRandomPosts.append('<h2><a href="' + postHREF + '">' + postTitle + '</a></h2>');
-                    }
-
-                    randomIndexUsed.push(randomIndex);
-
-                    counter++;
-                }
-            }
-        });
-    }
-
-    $(document).ready(function() {
-        generateRandomPosts();
-    });
-
-</script>
-
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>
