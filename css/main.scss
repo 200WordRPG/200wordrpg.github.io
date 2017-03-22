@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: "Lucida Console", Monaco, monospace;
+$base-font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -50,3 +50,12 @@ $on-laptop:        800px;
         "base",
         "layout"
 ;
+
+h1: {
+background-color:green;
+}
+
+pre, code: {
+font-family: "Lucida Console", Monaco, monospace;
+}
+
