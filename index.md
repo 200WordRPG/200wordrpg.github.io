@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](PAGE_test).
+[Link to another page](test1).
 
 There should be whitespace between paragraphs.
 
@@ -22,7 +22,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### [](#header-3)Header 3
 
-```js
+```
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
@@ -30,7 +30,7 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
+```
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
