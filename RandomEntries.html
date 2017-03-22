@@ -2,55 +2,6 @@
 layout: default
 ---
   
-  <script type="text/javascript">
-
-    function generateRandomPosts()
-    {
-        $.getJSON("/search.json", function(data) {
-            console.log("[search.json loaded for random posts]");
-
-            var postsCount = data.length;
-            var posts = data;
-
-            var randomIndexUsed = [];
-            var counter = 0;
-            var numberOfPosts = 50;
-
-            var divRandomPosts = $("#random_posts");
-
-
-            while (counter < numberOfPosts)
-            {
-                var randomIndex = Math.floor(Math.random() * postsCount);
-
-                if (randomIndexUsed.indexOf(randomIndex) == "-1")
-                {
-                    var postHREF = posts[randomIndex].href;
-                    var postTitle = posts[randomIndex].title;
-
-                    if (counter == (numberOfPosts - 1))
-                    {
-                        divRandomPosts.append('<h2><a href="' + postHREF + '">' + postTitle + '</a> </h2>');
-                    }
-                    else
-                    {
-                        divRandomPosts.append('<h2><a href="' + postHREF + '">' + postTitle + '</a></h2>');
-                    }
-
-                    randomIndexUsed.push(randomIndex);
-
-                    counter++;
-                }
-            }
-        });
-    }
-
-    $(document).ready(function() {
-        generateRandomPosts();
-    });
-
-</script>
-
 <div class="home">
 
   <h1 class="page-heading">50 Random Entries</h1>

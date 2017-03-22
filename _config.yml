@@ -8,8 +8,7 @@
 # Site settings
 title: 200 Word RPG Challenge
 description: > # this means to ignore newlines until "baseurl:"
-  Organized by David Schirduan at 
-  Technical Grimoire • schirduans.com
+  Website for the 200 Word RPG Chalenge. View amazing entries and create your own.
 baseurl: "" 
 
 
