@@ -306,18 +306,10 @@ tbody tr:nth-child(odd) th {
 
 .profile {
     padding: 2%;
-    background-repeat:no-repeat;
-    background-size: cover; 
-    background-position:center;
+    
 	color: black;
-    .img-circle {
-        height: auto;
-        width: 20%;
-        border-radius: 50%;
-        display: block;
-        margin: 1rem 1rem 1rem;
-        display: inline;
-    }
+	background-color: darkgrey;
+
     h3 {
         height: auto;
         margin-right: 4vw;
@@ -332,11 +324,7 @@ tbody tr:nth-child(odd) th {
         text-align: center;
         color: #BDBDBD;
     }
-    .social {
-        margin-left: 25vw;
-        height: auto;
-        width: 100%;
-    }
+
     @media (min-width: 38em) {
         position: fixed;
         width: 20%;

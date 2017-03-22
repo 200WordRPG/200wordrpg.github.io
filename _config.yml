@@ -1,35 +1,9 @@
 name:               "200 Word RPG Challenge"
-description:        ""
-
-
-url:                ""
-author:             "Technical Grimoire"
-email:              ""
-gravatar_hash:      ""
-twitter:            ""
-email:              ""
-github:             ""
-pinterest:          ""
-linkedin:           ""
-facebook:           ""
-
-disqus_shortname:   ""
-
-background:         ""
-
-paginate:           5
-paginate_path:      "/page:num/"
+description:        "What can you do with 200 words?"
 
 baseurl:            ""
-permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
-
-nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
 
 sass:
   style:            :compressed
@@ -47,6 +21,3 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
-
-gems:
-  - jekyll-paginate
