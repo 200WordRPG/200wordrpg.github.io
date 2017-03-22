@@ -1,0 +1,32 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+    {% include headcontents.html %}
+
+    <meta property="og:title" content="200 Word RPG Challenge" />
+    <meta property="og:description" content="A small but difficult game design contest. What can you do with 200 words?" />
+    <title itemprop="name">{{ site.title }}</title>
+
+</head>
+
+<body>
+    <div class="wrapper">
+
+        {% include header.html %}
+
+        <section>
+
+            {{ content }}
+
+        </section>
+
+        {% include footer.html %}
+
+    </div>
+
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+</body>
+
+</html>

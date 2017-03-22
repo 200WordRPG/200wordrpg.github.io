@@ -1,0 +1,278 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+#warning {
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+  text-align: center;
+}
+
+#content {
+  flex-grow: 1;
+}
+
+/* Center prize Text*/
+td {
+  text-align: center;
+}
+
+/* SPOILER TEXT */
+details p{
+  margin-left: 1.2rem;
+}
+
+summary {
+  cursor: pointer;
+  font-size: 1.2em;
+  &::after {
+    padding-left: 10px;
+  }
+  &::-webkit-details-marker {
+    display: none
+  }
+}
+
+summary:hover{
+  color: #4fb1ba;
+}
+
+h3 {
+  line-height: 1.4;
+}
+
+img.prize {
+  height:175px;
+    padding:1px;
+    border:1px solid #021a40;
+}
+
+#Titletext {
+  color: 090909;
+  font-size: 28px;
+  background-color: white;
+  font: 28px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  border:none;
+  font-weight: bold;
+}
+
+textarea {
+  font-family: Fira Mono, monospace;
+  color:#090909;
+  font-size:14px;
+  background-color: #f8f8f8;
+  width: 100%;
+}
+
+h1 a:hover {
+  color:#069 !important;
+  text-decoration: underline !important;
+}
+
+h2 a:hover {
+  color:#069 !important;
+  text-decoration: underline !important; 
+}
+
+h3 a:hover {
+  color:#069 !important;
+  text-decoration: underline !important;
+}
+
+#random_winners {
+font-size: 1.2em;
+font-weight: bold; 
+}
+
+#centeredText {
+text-align: center;
+}
+
+#entries {
+text-align: center;
+width:33%;
+border-bottom: 1px solid lightgrey;
+}
+
+@media screen and (max-width: 800px) {
+	#entries {
+	text-align: center;
+	width:100%;
+	display:block;
+	border-bottom: 1px solid lightgrey;
+	}
+}
+	
+img {
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+text-align: center;
+background-color: #fff;
+background: #fff;
+}
+
+#random_finalists {
+font-size: 1.2em;
+font-weight: bold;
+}
+
+#discuss {
+    background-color: white; 
+    color: black;
+    padding: 8px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    transition-duration: 0.4s;
+}
+
+#discuss:hover{
+    background-color: #BBB; 
+}
+
+.button {
+    background-color: #555555; 
+    border: 3px solid white;
+    color: white;
+    padding: 8px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    transition-duration: 0.4s;
+}
+
+.button:hover{
+    background-color: black; 
+    color: white;
+}
+
+
+header {
+text-align: center;
+z-index: 1;
+background-color: white;
+}
+
+.highlighter-rouge{
+width:100%;
+}
+
+
+hr {
+  background:#090909;
+}
+
+body {
+  background-color: #fff;
+  padding:5px;
+  color:#090909;
+  font-weight:400;
+  font-size:15px;
+}
+
+code, pre {
+  font-family: Fira Mono, monospace;
+  color:#090909;
+  font-size:14px;
+}
+
+pre {
+  background: #fff;
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+
+/* super-search
+Author: Kushagra Gour (http://kushagragour.in)
+MIT Licensed
+*/
+
+.super-search-btn {
+	position: relative;
+	right: 10px;
+	top: 15px;
+	fill: #DDD;
+}
+
+.super-search-btn:hover {
+	fill: #090909;
+}
+
+.super-search {
+	position: relative;
+	background-color: rgba(255, 255, 255, 0.85);
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: 1;
+	transition: 0.2s ease;
+	visibility: hidden;
+	opacity: 0;
+	width: 100%;
+}
+.super-search__close-btn {
+	fill: #DDD;
+	position: relative;
+	right: 10px;
+	top: 15px;
+	z-index: 1;
+}
+.super-search__input {
+	border: 2;
+	font-size: 30px;
+	border-left: none;
+	border-right: none;
+	color: #000;
+	width: 100%;
+	padding: 10px 31px;
+	text-align: center;
+	transform: translateY(-100%);
+	transition: 0.15s ease-out 150ms;
+}
+.is-active .super-search__input {
+	transform: translateY(0);
+}
+.super-search__results {
+	text-align: center;
+	list-style: none;
+	padding: 0;
+	overflow-x: hidden;
+	height: calc(100% - 110px);
+	transition: 0.2s ease;
+}
+.super-search__results.is-hidden {
+	opacity: 0;
+	transform: translateY(-1vh);
+}
+
+.super-search__results > li > a {
+	display: block;
+	position: relative;
+	background-color: #f9f9f9;
+	color: #39c;
+	padding: 17px;
+	margin: 12px 14px;
+	box-shadow: 0 3px 4px rgba(0,0,0,0.1);
+}
+.super-search__result-date {
+	color: #090909;
+	position: absolute;
+	right: 12px;
+}
+.super-search.is-active {
+	opacity: 1;
+	visibility: visible;
+}

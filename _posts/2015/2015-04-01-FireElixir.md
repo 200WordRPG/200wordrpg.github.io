@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Fire Elixir"
+date: 2015-04-01
+author: "Jackie Tremaine"
+link: "http://www.daylands.blogspot.com/"
+categories: 2015 rpg
+---
+![]({{site.url}}/2015images/FireElixir.jpg)

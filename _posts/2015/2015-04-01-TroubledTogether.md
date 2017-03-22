@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Troubled Together"
+date: 2015-04-01
+author: "Ville Pelkonen"
+link: "no link"
+categories: 2015 rpg
+---
+![]({{site.url}}/2015images/TroubledTogether.jpg)

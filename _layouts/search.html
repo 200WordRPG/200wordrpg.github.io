@@ -1,0 +1,44 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+    {% include headcontents.html %}
+
+    <meta property="og:title" content="200WordRPG Search" />
+    <meta property="og:description" content="What can you do with 200 words?" />
+    <title itemprop="name">{{ site.title }}</title>
+
+</head>
+
+<body>
+    <div class="wrapper">
+
+        {% include header.html %}
+
+        <section>
+
+            <div class="super-search" id="js-super-search">
+                <input type="text" placeholder="Enter Search Terms" class="super-search__input" id="js-super-search__input">
+                <ul class="super-search__results" id="js-super-search__results"></ul>
+            </div>
+
+            {{ content }}
+
+        </section>
+
+        {% include footer.html %}
+
+    </div>
+    <script src="{{ '/assets/js/super-search.js' | relative_url }}"></script>
+    <script>
+        superSearch({
+            searchFile: '/feed.xml',
+            searchSelector: '#js-super-search', // CSS Selector for search container element.
+            inputSelector: '#js-super-search__input', // CSS selector for <input>
+            resultsSelector: '#js-super-search__results' // CSS selector for results container
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,162 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+    {% include headcontents.html %}
+
+    <meta property="og:title" content="200WordRPG Wordcounter" />
+    <meta property="og:description" content="Check your Wordcount" />
+    <title itemprop="name">200 RPG Wordcounter</title>
+
+</head>
+
+<body>
+    <div class="wrapper">
+
+        {% include header.html %}
+
+        <section>
+            <h1>Wordcounter</h1>
+
+            {{ content }}
+
+            <hr>
+
+            <textarea id="Titletext" rows="1" maxlength="45" data-gramm_editor="false">Your Title Here (up to 45 characters)</textarea>
+            <br/>
+            <textarea id="text" rows="30" data-gramm_editor="false">
+  
+DELETE EVERYTHING in this box and paste your entry to check the wordcount.
+                
+                
+WORD RULES:
+  "Kitten 43 d66" is 3 words. 
+  (Any combination of letters and numbers counts as a word, so long as a letter comes FIRST, followed by numbers or letters. 2d4 is two words because it starts with a number.)
+
+  "role-playing should've" is 2 words.
+  (Each word may contain one apostrophe or one hyphen.)
+
+  "I_want~cheese+pizza#for/lunch       Mom!" is 7 words.
+  (Words can be separated by any character, extra white space doesn't matter.)
+
+  "23,765,987 45.99" is 2 words.
+  (Numbers may contain any number of decimals or commas)
+
+  The bunny image below is 0 words.
+  (Symbol combinations don't count as words.)
+
+  Here's the regular expression we are using to determine what counts as a word: 
+  [0-9]+[0-9,\.]*|[&0-9a-zA-Z\xC0-\xFF]+[-']?[0-9a-zA-Z\xC0-\xFF]*
+
+                
+     / \
+    / _ \
+   | / \ |
+   ||   || _______
+   ||   || |\     \
+   ||   || ||\     \
+   ||   || || \    |
+   ||   || ||  \__/
+   ||   || ||   ||
+    \\_/ \_/ \_//
+   /   _     _   \
+  /               \
+  |    @     @    |
+  |   \  ___  /   |                           
+ /     \ \_/ /     \
+/  -----  |  --\    \
+|     \__/|\__/ \   |
+\       |_|_|       /
+ \_____       _____/
+       \     /
+       |     |
+             </textarea>
+            <h1> Wordcount:
+                <span id="wordCount">145</span>
+            </h1>
+
+        </section>
+
+        {% include footer.html %}
+
+
+    </div>
+
+
+    <script>
+        counter = function () {
+            var value = $('#text').val();
+            var wordCount = 0;
+
+            if (value.length == 0) {
+                $('#wordCount').html(0);
+                return;
+            }
+
+            //CLEAN MS CRAP
+
+            var regex = /[\u2018\u2019\u201A\u201C\u201D\u201E\u2026\u2013\u2014\u02C6\u2039\u203A\u02DC\u00A0]+/gi;
+            var MSCruft = value.match(regex);
+
+            if (Array.isArray(MSCruft) && MSCruft.length > 0) {
+
+                // smart single quotes and apostrophe
+                value = value.replace(/[\u2018\u2019\u201A]/g, "\'");
+                // smart double quotes
+                value = value.replace(/[\u201C\u201D\u201E]/g, "\"");
+                // ellipsis
+                value = value.replace(/\u2026/g, "...");
+                // dashes
+                value = value.replace(/[\u2013\u2014]/g, "-");
+                // circumflex
+                value = value.replace(/\u02C6/g, "^");
+                // open angle bracket
+                value = value.replace(/\u2039/g, "<");
+                // close angle bracket
+                value = value.replace(/\u203A/g, ">");
+                // spaces
+                value = value.replace(/[\u02DC\u00A0]/g, " ");
+
+                $('#text').val(value);
+
+            }
+
+            //Check for Emoji's and non-ascii chars     
+
+            regex = /[^\x00-\xFF]+/gi;
+            var emojiKill = value.match(regex);
+
+            if (Array.isArray(emojiKill) && emojiKill.length > 0) {
+
+                wordCount =
+                    '<a target="_blank" href="https://en.wikipedia.org/wiki/List_of_Unicode_characters#Basic_Latin">ASCII</a> CHARACTERS ONLY! <br/>None of these:<br/>' +
+                    emojiKill.join(' ');
+
+            } else {
+
+                regex = /[0-9]+[0-9,\.]*|[&0-9a-zA-Z\xC0-\xFF]+[-']?[0-9a-zA-Z\xC0-\xFF]*/gi;
+                var words = value.match(regex);
+
+                if (Array.isArray(words) && words.length > 0) {
+                    wordCount = words.length;
+                }
+
+            }
+
+            $('#wordCount').html(wordCount);
+
+        };
+
+        $(document).ready(function () {
+            $('#text').change(counter);
+            $('#text').keydown(counter);
+            $('#text').keypress(counter);
+            $('#text').keyup(counter);
+            $('#text').blur(counter);
+            $('#text').focus(counter);
+        });
+    </script>
+
+</body>
+
+</html>

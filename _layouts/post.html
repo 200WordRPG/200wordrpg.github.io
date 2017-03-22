@@ -1,0 +1,86 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+        {% include headcontents.html %}
+
+
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.author }}" />
+    <title>{{ page.title }}</title>
+
+    <script type="text/javascript">
+        function generateRandomPost() {
+            $.getJSON("/allposts.json", function (data) {
+                console.log("[allposts.json loaded for random entries]");
+
+                var postsCount = data.length;
+                var posts = data;
+                var divRandomButton = $("#random_button");
+                var randomIndex1 = Math.floor(Math.random() * postsCount);
+                var randomIndex2 = Math.floor(Math.random() * postsCount);
+                var randomIndex3 = Math.floor(Math.random() * postsCount);
+
+                while (randomIndex1 == randomIndex2 || randomIndex2 == randomIndex3 || randomIndex1 ==
+                    randomIndex3) {
+                    randomIndex2 = Math.floor(Math.random() * postsCount);
+                    randomIndex3 = Math.floor(Math.random() * postsCount);
+                }
+
+                divRandomButton.append('<a id="random_button" href="' + posts[randomIndex1].href +
+                    '" class="button">' + posts[randomIndex1].title + '</a>');
+                divRandomButton.append('<br/><a id="random_button" href="' + posts[randomIndex2].href +
+                    '" class="button">' + posts[randomIndex2].title + '</a>');
+                divRandomButton.append('<br/><a id="random_button" href="' + posts[randomIndex3].href +
+                    '" class="button">' + posts[randomIndex3].title + '</a>');
+
+            });
+        }
+
+        $(document).ready(function () {
+            generateRandomPost();
+        });
+    </script>
+
+</head>
+
+<body>
+    <div class="wrapper">
+
+        {% include header.html %}
+
+        <section>
+
+            <h1 itemprop="name">{{ page.title }} • {{ page.categories | join: " " }}</h1>
+            <h3>{{ page.author }} •
+                <span id="entry-link">{{ page.link }}</span>
+            </h3>
+
+            {{ content }}
+            
+            <div align="middle" style="vertical-align:middle;display:block;">
+
+                <a href="//www.reddit.com/submit" class="button" id="discuss" onclick="window.location = '//www.reddit.com/r/200wordrpg/submit?title={{page.title}}&url=' + encodeURIComponent(window.location); return false"
+                    target="_blank">
+
+                    <img src="{{site.url}}/assets/images/reddit_alien.png" style="height:60px;">
+                    <h3>Discuss this Entry</h3>
+                </a>
+            </div>
+
+            <hr>
+           <h2>Read another Entry</h2>
+            <div id="random_button" align="middle"></div>
+
+        </section>
+
+        {% include footer.html %}
+
+    </div>
+
+    <script async src="/assets/js/add-links.js"></script>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+</body>
+
+</html>
