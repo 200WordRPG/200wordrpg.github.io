@@ -1,0 +1,53 @@
+body {
+  /* Prevent side-scrolling on mobile */
+  overflow-x: hidden;
+  position: relative;
+
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+a {
+  position: relative;
+  padding-bottom: 0.15rem;
+  border-bottom: 0.18rem solid transparent;
+
+  &:hover, &:focus {
+    text-decoration: none;
+    border-bottom: 0.18rem solid;
+  }
+
+  &.menu {
+    &:hover, &:focus {
+      border-bottom: none;
+    }
+  }
+}
+
+.sr-only {
+  display: unset;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+body::before {
+  content: '';
+  background: #e8e8e8;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 0.5rem;
+  z-index: 2;
+}
+
+body, main {
+  position: relative;
+  overflow-x: hidden;
+}

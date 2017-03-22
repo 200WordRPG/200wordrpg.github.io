@@ -1,0 +1,13 @@
+.sidebar-social > ul > li {
+  margin-bottom: 0.5rem;
+  display: inline-block;
+
+  > a {
+    display: inline-block;
+    font-size: 1.4rem;
+    line-height: 2.6rem;
+    text-align: center;
+    width: 2.6rem;
+    height: 2.6rem;
+  }
+}

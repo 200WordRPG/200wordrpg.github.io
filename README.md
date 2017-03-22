@@ -1,118 +1,87 @@
-# Hyde
+# Hydejack
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme, stolen by [`@qwtel`](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com). You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
 
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
+## Features
+Unlike Hyde, it's very opinionated about how you are going to use it.
 
+Features include:
 
-## Contents
+* Touch-enabled sidebar / drawer for mobile, including fallback when JS is disabled.
+* Github Pages compatible tag support based on [this post][tag].
+* Customizable link color and sidebar image, per-site, per-tag and per-post.
+* Optional author section at the bottom of each post.
+* Optional comment section powered by Disqus.
+* Layout for posts grouped by year
+* Wide array of social media icons on sidebar.
+* Math blocks via [KaTeX](https://khan.github.io/KaTeX/).
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Sticky sidebar content](#sticky-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+## Download
+Hydejack is developed on and hosted with GitHub. Head to the [GitHub repository](https://github.com/qwtel/hydejack) for downloads, bug reports, and feature requests.
 
+## Sidebar
+I love the original Hyde theme, but unfortunately the layout isn't as great on small screens.
+Since the sidebar moves to the top, the user has to scroll down just to read the title of a blog post.
 
-## Usage
+By using a drawer component I was able to retain the original two column layout. It's possible to move the drawer via touch input (with the help of a little JavaScript).
 
-Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+Since the background image contributes to the feel of the page I'm letting it peek over the edge a bit. This also provides a hint to the user that an interaction is possible.
 
+## Manual
 
-## Options
+### Configuration
+You can configure important aspects of the theme via [`_config.yml`](https://github.com/qwtel/hydejack/blob/master/_config.yml). This includes:
 
-Hyde includes some customizable options, typically applied via classes on the `<body>` element.
+* the blog description in the sidebar
+* the (optional) author description and photo
+* default image and link color of the blog
+* the github and twitter usernames
 
+### How to Change the Image and Color of a Post
+In the manifest of a blog post, simply add an url as `image` and a CSS color as `color`:
 
-### Sidebar menu
+~~~yml
+layout: post
+title: Introducing Hydejack
+image: http://qwtel.com/hydejack/public/img/hyde.jpg
+color: '#949667'
+~~~
 
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
+### How to Add a New Tag
+Tags are possible, but they are not meant to be used #instagram #style: #food #goodfood #happy #happylife #didimentionfood #yougetthepoint. Each tag requires some setup work. I tend to think of it as categories that can be combined.
 
-```
----
-layout: page
-title: About
----
-```
+1.  Add an entry to `_data/tags.yml`, where the key represents a slug and provide at least a `name` value and optionally `image`, `color` and `description`.
 
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
+    Example `/_data/tags.yml`:
 
+    ~~~yml
+    mytag:
+      name: My Tag
+    ~~~
 
-### Sticky sidebar content
+2.  Make a new file in the `tag` folder, using the same name you've used as the key / slug and change the `tag` and `permalink` entries.
 
-By default Hyde ships with a sidebar that affixes it's content to the bottom of the sidebar. You can optionally disable this by removing the `.sidebar-sticky` class from the sidebar's `.container`. Sidebar content will then normally flow from top to bottom.
+    Example `/tag/mytag.md`:
 
-```html
-<!-- Default sidebar -->
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    ...
-  </div>
-</div>
+    ~~~yml
+    layout: blog-by-tag
+    tag: mytag
+    permalink: /tag/mytag/
+    ~~~
 
-<!-- Modified sidebar -->
-<div class="sidebar">
-  <div class="container">
-    ...
-  </div>
-</div>
-```
+3.  Tag your blog posts using the `tags` key (color and image will only depend on the first tag).
 
+    ~~~yml
+    layout: post
+    title: Introducing My New Tag
+    tags: [mytag, othertag]
+    ~~~
 
-### Themes
+4. (optional) Add the tag to the sidebar, by adding it to `sidebar_tags` in `_config.yml`.
+   They will appear in the listed order.
 
-Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
+   ~~~yml
+   sidebar_tags: [mytag, othertag]
+   ~~~
 
-![Hyde in red](https://f.cloud.github.com/assets/98681/1831229/42b0b354-7384-11e3-8462-31b8df193fe5.png)
-
-There are eight themes available at this time.
-
-![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
-
-To use a theme, add anyone of the available theme classes to the `<body>` element in the `default.html` layout, like so:
-
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
-
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
-
-### Reverse layout
-
-![Hyde with reverse layout](https://f.cloud.github.com/assets/98681/1831230/42b0d3ac-7384-11e3-8d54-2065afd03f9e.png)
-
-Hyde's page orientation can be reversed with a single class.
-
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
-
-
-## Development
-
-Hyde has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+[tag]: http://www.minddust.com/post/tags-and-categories-on-github-pages/

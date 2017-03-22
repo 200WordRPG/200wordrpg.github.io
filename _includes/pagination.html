@@ -1,0 +1,23 @@
+<h2 class="sr-only">Pagination</h2>
+<nav class="pagination" role="navigation">
+  <ul>
+    <li class="pagination-item older" >
+      {% if paginator.next_page %}
+      <a rel="next" href="{{ site.baseurl }}/page-{{paginator.next_page}}">Older</a>
+      {% else %}
+      <span>Older</span>
+      {% endif %}
+    </li>
+    <li class="pagination-item newer" >
+      {% if paginator.previous_page %}
+        {% if paginator.page == 2 %}
+        <a rel="prev" href="{{ site.baseurl }}/">Newer</a>
+        {% else %}
+        <a rel="prev" href="{{ site.baseurl }}/page-{{paginator.previous_page}}">Newer</a>
+        {% endif %}
+      {% else %}
+      <span>Newer</span>
+      {% endif %}
+    </li>
+  </ul>
+</nav>

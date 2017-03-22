@@ -1,0 +1,92 @@
+// Code
+//
+// Inline and block-level code snippets. Includes tweaks to syntax highlighted
+// snippets from Pygments/Rouge and Gist embeds.
+
+code,
+pre {
+  font-family: $code-font-family;
+}
+
+code {
+  padding: .25em .5em;
+  font-size: .85rem;
+  // Could be mistaken for a link if the user choses a similar link-color, so better no colored inline code.
+  // color: $code-color;
+  background-color: #f9f9f9;
+  // No border radius to prevent repaint on code scroll
+  // border-radius: 3px;
+}
+
+pre {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  display: block;
+  line-height: 1.4;
+  background-color: #f9f9f9;
+
+  /* Prevent code linebreaks and allow side-scrolling (much better readability on mobile) */
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+
+  /* Make code same width as regular text, and scroll the full page width on mobile */
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+
+pre code {
+  padding: 0;
+  font-size: .75rem;
+  color: inherit;
+  background-color: transparent;
+}
+
+// Pygments via Jekyll
+.highlight {
+  // padding: 1rem;
+  margin-bottom: 1rem;
+  // font-size: .8rem;
+  // line-height: 1.4;
+  // background-color: #f9f9f9;
+  // border-radius: .25rem;
+
+  // pre {
+  //   margin-bottom: 0;
+  //   overflow-x: auto;
+  // }
+
+  // .lineno {
+  //   display: inline-block; // Ensures the null space also isn't selectable
+  //   padding-right: .75rem;
+  //   padding-left: .25rem;
+  //   color: #999;
+  //   // Make sure numbers aren't selectable
+  //   -webkit-user-select: none;
+  //      -moz-user-select: none;
+  //           user-select: none;
+  // }
+}
+
+
+// Gist via GitHub Pages
+// .gist .gist-file {
+//   font-family: Menlo, Monaco, "Courier New", monospace !important;
+// }
+// .gist .markdown-body {
+//   padding: 15px;
+// }
+// .gist pre {
+//   padding: 0;
+//   background-color: transparent;
+// }
+// .gist .gist-file .gist-data {
+//   font-size: .8rem !important;
+//   line-height: 1.4;
+// }
+// .gist code {
+//   padding: 0;
+//   color: inherit;
+//   background-color: transparent;
+//   border-radius: 0;
+// }
