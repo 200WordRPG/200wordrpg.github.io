@@ -1,20 +1,21 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "200 Word RPG Challenge"
+description:        ""
+
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
-gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+author:             "Technical Grimoire"
+email:              ""
+gravatar_hash:      ""
+twitter:            ""
+email:              ""
+github:             ""
+pinterest:          ""
+linkedin:           ""
+facebook:           ""
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   ""
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         ""
 
 paginate:           5
 paginate_path:      "/page:num/"
