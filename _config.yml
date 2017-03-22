@@ -16,3 +16,15 @@ baseurl: ""
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      author: "anonymous"
+      date: "2000-01-01"
+      categories: "rpg"

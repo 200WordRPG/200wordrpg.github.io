@@ -7,11 +7,15 @@ layout: default
   <h1 class="page-heading">2016 details</h1>
   <p>Entries are listed below in a random order. Click Here for an alphabetical listing.</p>
   
+  {% for post in site.categories.projects %}
+  <h1>{{ post.title }}</h1>
+  {{ post.content }}
+{% endfor %}
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.2016 %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.author }} • {{post.categories}}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
