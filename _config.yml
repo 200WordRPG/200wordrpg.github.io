@@ -1,23 +1,21 @@
-name:               "200 Word RPG Challenge"
-description:        "What can you do with 200 words?"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-baseurl:            ""
+# Site settings
+title: 200 Word RPG Challenge
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  The 200 Word RPG Challenge page for 2017 entrants. Find more details at the Technical Grimoire (schirduans.com)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  200wordrpg
 
-markdown:           kramdown
+# Build settings
+markdown: kramdown
 
-sass:
-  style:            :compressed
-
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+theme: jekyll-theme-minimal

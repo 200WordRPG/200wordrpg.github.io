@@ -1,50 +1,37 @@
-# Ink
+## Welcome to GitHub Pages
 
-Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com) 
+You can use the [editor on GitHub](https://github.com/200WordRPG/200wordrpg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-![Screenshot](https://s32.postimg.org/gdtp6pw1x/ink.png)
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Installation 
+### Markdown
 
-##### Setup on your local machine
- * Clone or download the repository
- * You should have [ruby](https://www.ruby-lang.org/en/) installed in your system
- * Install bundler which helps in specifying and installing dependencies of any Ruby project ```gem install bundler```
- * Go to the root of the repo and run this - ```bundle install```
- * Then - ```bundle exec jekyll serve```
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-##### Make it your own
- * Fork the repository
- * Follow the configuration step
- * Host your site/blog with **Ink**
+```markdown
+Syntax highlighted code block
 
-# Configuration 
- * Change the following in ```_config.yml```
- ```
-    name:               "Ink"
-    description:        "A minimalistic jekyll theme for humans"
-    url:                ""
-    author:             "thinker3197"
-    email:              "jhondoe@abc.com"
-    gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-    twitter:            "jhondoe"
-    email:              "jhondoe@abc.com"
-    github:             "jhondoe"
-    pinterest:          "jhondoe"
-    linkedin:           "jhondoe"
-    facebook:           "jhondoe"
-    
- ```
- * Set the number of posts that appear in each page by changing the ```paginate``` option in ```_config.yml``` file. Default value is 5.
- * Add more navigation menus in the ```nav``` section in ```_config.yml```. 
- * Add your custom url in ```url``` option. Example : http://thinker3197.github.io/blog. Consult the ```gh-pages``` branch to see the basic setup for a blog.
- * Add your custom background by adding a custom background link in the ```background``` option in ```_config.yml```.
- 
-# Licensce
+# Header 1
+## Header 2
+### Header 3
 
-Open sourced under [MIT LICENSE](https://github.com/thinker3197/ink/blob/master/LICENSE) 
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
+**Bold** and _Italic_ and `Code` text
 
+[Link](url) and ![Image](src)
+```
 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/200WordRPG/200wordrpg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

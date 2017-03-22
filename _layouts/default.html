@@ -1,22 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
-{% include head.html %}
+<html>
 
-<body class="preload">
-    <div class="top"></div>
-    <div class="profile">
-        <img src="http://schirduans.com/david/wp-content/uploads/2016/08/animatedLogo.gif" class="img-circle" />
-        <h3>{{ site.name }}</h3>
-        <p>{{ site.description }}</p>
-        
-    </div>
-    <div class="posts">
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
         {{ content }}
+      </div>
     </div>
-</body>
-<script type="text/javascript">
-    window.onload = function(){
-        document.getElementsByTagName("BODY")[0].classList.remove("preload");
-    }
-</script>
+
+    {% include footer.html %}
+
+  </body>
+
 </html>
