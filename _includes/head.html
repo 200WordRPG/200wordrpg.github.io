@@ -13,7 +13,7 @@
   
     <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>  
 
-	<script type="text/javascript">
+<script type="text/javascript">
 
     function generateRandomPosts()
     {
@@ -25,10 +25,11 @@
 
             var randomIndexUsed = [];
             var counter = 0;
-            var numberOfPosts = 50;
+            var numberOfPosts = 5;
 
             var divRandomPosts = $("#random_posts");
 
+            divRandomPosts.append('<h2>other posts</h2><hr />');
 
             while (counter < numberOfPosts)
             {
@@ -41,11 +42,11 @@
 
                     if (counter == (numberOfPosts - 1))
                     {
-                        divRandomPosts.append('<h2><a href="' + postHREF + '">' + postTitle + '</a> </h2>');
+                        divRandomPosts.append('<p><a href="' + postHREF + '">' + postTitle + '</a></p>');
                     }
                     else
                     {
-                        divRandomPosts.append('<h2><a href="' + postHREF + '">' + postTitle + '</a></h2>');
+                        divRandomPosts.append('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
                     }
 
                     randomIndexUsed.push(randomIndex);
@@ -55,7 +56,12 @@
             }
         });
     }
-	</script>
+
+    $(document).ready(function() {
+        generateRandomPosts();
+    });
+
+</script>
 
 
 
