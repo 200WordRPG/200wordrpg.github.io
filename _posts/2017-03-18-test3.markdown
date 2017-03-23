@@ -2,7 +2,7 @@
 layout: post
 title:  "Test7"
 date:   2017-03-21 22:35:00 -0500
-categories: 2017Entries
+categories: 2017 rpg
 ---
 This is a test of the 200 word thingy
 
