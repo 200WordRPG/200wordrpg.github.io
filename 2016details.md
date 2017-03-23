@@ -7,7 +7,7 @@ The 200 Word RPG Challenge puts your writing and editing skills to the test!
 _What can you do with only 200 words?_
 
 **This year’s challenge is complete!**
-Check out the entries [here](/2016entries).
+Check out the entries [here](2016entries).
 
 ## Categories
 
