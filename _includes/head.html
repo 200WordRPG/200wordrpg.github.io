@@ -11,9 +11,9 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   
-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>  
+  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 
-<!--<script type="text/javascript">
+  <script type="text/javascript">
 
     function generateRandomPosts()
     {
@@ -25,11 +25,11 @@
 
             var randomIndexUsed = [];
             var counter = 0;
-            var numberOfPosts = 25;
+            var numberOfPosts = 5;
 
             var divRandomPosts = $("#random_posts");
 
-            divRandomPosts.append('<h2></h2>');
+            divRandomPosts.append('<h2>other posts</h2><hr />');
 
             while (counter < numberOfPosts)
             {
@@ -46,7 +46,7 @@
                     }
                     else
                     {
-                        divRandomPosts.append('<p><a href="' + postHREF + '">' + postTitle + '</a></p>');
+                        divRandomPosts.append('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
                     }
 
                     randomIndexUsed.push(randomIndex);
@@ -61,6 +61,6 @@
         generateRandomPosts();
     });
 
-</script> -->
+</script>
 
 </head>

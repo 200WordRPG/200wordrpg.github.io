@@ -8,6 +8,7 @@ layout: default
   <p>Entries are listed below in a random order. Click Here for an alphabetical listing.</p>
   
   <ul class="post-list">
+   {% assign sorted_2016_posts = site.categories.2016 | sort: 'title', 'last' %}
     {% for post in site.categories.2016 %}
       <li>
         <span class="post-meta">{{ post.author }} • {{post.categories}}</span>
@@ -18,6 +19,5 @@ layout: default
       </li>
     {% endfor %}
   </ul> 
- 
 
 </div>
