@@ -1,29 +1,5 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: 200 Word RPG Challenge
-description: > # this means to ignore newlines until "baseurl:"
-  Website for the 200 Word RPG Chalenge. View amazing entries and create your own.
-baseurl: "" 
-
-
-# Build settings
-markdown: kramdown
-
-theme: jekyll-theme-minimal
-
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: "post"
-      author: "anonymous"
-      date: "2000-01-01"
+title: Minimal theme
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: 
