@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Create a role-playing game in 200 words or less.
+# Create a role-playing game<br/>in 200 words or less.
 
 ### Why 200 Words?
 
@@ -14,4 +14,4 @@ Visual presentation can be a large and scary problem. Very few people are master
 
 ### Encourage the Community
 
-Not only does this give experienced designers a chance to flex their muscles, but it encourages new designers to show what they can do. Our biggest hope is that designers will find a submission that resonates with them, reach out to the author, and turn a little blurb into a larger collaborative project. That's why all submissions are protected under the [Creative Commons license]({{site.baseurl}}/licensing.md).
+Not only does this give experienced designers a chance to flex their muscles, but it encourages new designers to show what they can do. Our biggest hope is that designers will find a submission that resonates with them, reach out to the author, and turn a little blurb into a larger collaborative project. That's why all submissions are protected under the [Creative Commons license]({{site.baseurl}}/licensing).
