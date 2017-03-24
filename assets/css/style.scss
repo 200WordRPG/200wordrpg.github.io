@@ -3,10 +3,19 @@
 
 @import "jekyll-theme-minimal";
 
-#random_posts {
+#random_winners #random_finalists {
 font-size: 1.5em;
 font-weight: bold; 
 }
+
+header {
+text-align: center;
+}
+
+.highlighter-rouge{
+width:100%;
+}
+
 
 hr {
   background:#090909;

@@ -4,12 +4,9 @@
     {% for post in site.posts %}
     {
       "title"    : "{{ post.title }}",
+      "author"   : "{{ post.author }}",
+      "categories"   : "{{ post.categories }}",
       "href"     : "{{ post.url }}",
-      "date"     : {
-         "day"   : "{{ post.date | date: "%d" }}",
-         "month" : "{{ post.date | date: "%B" }}",
-         "year"  : "{{ post.date | date: "%Y" }}"
-      }
     }
     {% unless forloop.last %},{% endunless %}
     {% endfor %}

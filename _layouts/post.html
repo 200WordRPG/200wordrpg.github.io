@@ -1,26 +1,78 @@
 <!doctype html>
-<html>
-  <head>
+	<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://ogp.me/ns/fb#">
+	  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+	
     <title>{{ site.title | default: site.github.repository_name }}</title>
-
+	
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-			<script>
-  (function() {
-    var cx = '005842344559578349529:mwhk4l-bo5s';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
+	
+	<meta property="og:image" content="{{site.baseurl}}/logo.gif" />
+	<meta property="og:image:type" content="image/gif">
+
+		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+	<script type="text/javascript">
+
+    function generateRandomPosts()
+    {
+        $.getJSON("/search.json", function(data) {
+            console.log("[search.json loaded for random posts]");
+
+            var postsCount = data.length;
+            var posts = data;
+
+            var randomIndexUsed = [];
+            var counter = 0;
+            var numberOfPosts = postsCount;
+			
+            var divRandomWinners = $("#random_winners");
+            var divRandomFinalists = $("#random_finalists");
+
+            while (counter < numberOfPosts)
+            {
+                var randomIndex = Math.floor(Math.random() * postsCount);
+
+                if (randomIndexUsed.indexOf(randomIndex) == "-1")
+                {
+                    var postHREF = posts[randomIndex].href;
+                    var postTitle = posts[randomIndex].title;
+                    var postAuthor = posts[randomIndex].author;
+                    var postCategories = posts[randomIndex].categories;
+
+                    if (postCategories.includes("winner"))
+                    {
+                        divRandomWinners.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
+                    }
+                    else if (postCategories.includes("finalist"))
+                    {
+                        divRandomFinalists.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
+                    } 
+					else 
+					{
+					//do nothing
+					}
+
+                    randomIndexUsed.push(randomIndex);
+
+                    counter++;
+                }
+            }
+        });
+    }
+
+    $(document).ready(function() {
+        generateRandomPosts();
+    });
+
 </script>
+	
   </head>
   <body>
     <div class="wrapper">
@@ -28,18 +80,17 @@
         <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
 		<a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/logo.gif" style="width:315px"></a>
 		
-        <h3><a href="{{site.baseurl}}/random">Random Entries</a><h3>
-
-	    <h3><a href="http://schirduans.com/david/2015/04/200-word-rpg-challenge">2015</a><h3>
-
-	    <h3>2016 • <a href="{{site.baseurl}}/2016details">Details</a> • <a href="{{site.baseurl}}/2016entries">Entries</a> • <a href="{{site.baseurl}}/2016winners">Winners</a><h3>
-
-		<h3>2017 • <a href="{{site.baseurl}}/2017details">Details</a> • <a href="{{site.baseurl}}/2017entries">Entries</a><h3>
-
-	    <h3><a href="{{site.baseurl}}/downloads">Downloads</a><h3>
 		
-<gcse:search></gcse:search>
-
+		
+        <h3><a href="{{site.baseurl}}/">Home</a><h3>
+		
+	    <h3><a href="{{site.baseurl}}/winners">Winners</a><h3>
+	    <h3><a href="{{site.baseurl}}/2017entries">2017 Entries</a><h3>
+	    <h3><a href="{{site.baseurl}}/2016entries">2016 Entries</a><h3>
+	    <h3><a href="{{site.baseurl}}/2015entries">2015 Entries</a><h3>
+	    <h3><a href="{{site.baseurl}}/judges">Judges</a> • <a href="{{site.baseurl}}/prizes">Prizes</a><h3>
+	    <h3><a href="{{site.baseurl}}/downloads">Downloads</a><h3>
+       
       </header>
       <section>
 	  
@@ -50,34 +101,22 @@
 
       </section>
       <footer>
-	  <hr>
-	  	  <p>Organized by <a href="http://schirduans.com/david/">David Schirduan</a></p>
 
+	  	  <p>Organized by <a href="http://schirduans.com/david/">David Schirduan</a> and by</p>
+		  <p>Other people to list soon!</p>
 	 
 	<div>
+	
 	  <a rel="license" href="{{site.baseurl}}/licensing"><img align="middle" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All entries are protected under the <a rel="license" href="{{site.baseurl}}/licensing">Creative Commons Attribution 4.0 International License</a>.
 	  </div>
 	  
 	  
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+       
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
 
-  {% if site.google_analytics %}
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-    </script>
-  {% endif %}
   </body>
 </html>
