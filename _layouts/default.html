@@ -41,11 +41,11 @@
 
                     if (counter == (numberOfPosts - 1))
                     {
-                        divRandomPosts.append(' <a href="' + postHREF + '">' + postTitle + '</a> •');
+                        divRandomPosts.append(' <a href="' + postHREF + '">' + postTitle + '</a></h2>');
                     }
                     else
                     {
-                        divRandomPosts.append(' <a href="' + postHREF + '">' + postTitle + ' •');
+                        divRandomPosts.append(' <a href="' + postHREF + '">' + postTitle + '</a> •');
                     }
 
                     randomIndexUsed.push(randomIndex);
@@ -53,8 +53,6 @@
                     counter++;
                 }
             }
-			            divRandomPosts.append('</h2>');
-
         });
     }
 
