@@ -28,8 +28,6 @@
 
             var divRandomPosts = $("#random_posts");
 
-            divRandomPosts.append('<h2>');
-
             while (counter < numberOfPosts)
             {
                 var randomIndex = Math.floor(Math.random() * postsCount);
@@ -41,11 +39,11 @@
 
                     if (counter == (numberOfPosts - 1))
                     {
-                        divRandomPosts.append(' <a href="' + postHREF + '">' + postTitle + '</a></h2>');
+                        divRandomPosts.append('<a href="' + postHREF + '">' + postTitle + '</a>');
                     }
                     else
                     {
-                        divRandomPosts.append(' <a href="' + postHREF + '">' + postTitle + '</a> •');
+                        divRandomPosts.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
                     }
 
                     randomIndexUsed.push(randomIndex);

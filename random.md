@@ -4,8 +4,6 @@ layout: default
 
 # Random Entries
 
-Here are 50 randomly chosen entries. Refresh the page for another random 50. Enjoy!
+Here are 50 randomly chosen entries. Enjoy!
 
-<div id="random_posts">
-
-</div>
+## <div id="random_posts"></div>
