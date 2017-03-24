@@ -4,7 +4,7 @@ layout: default
 
 # 2016 Entries
 
-Here are the entries from the 2016 Challenge, listed in alphabetical order. Enjoy!
+All of the entries from the 2016 Challenge. Enjoy!
 
 <h2>
   {% for post in site.categories.2016 %}

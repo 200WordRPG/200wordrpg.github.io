@@ -4,12 +4,17 @@
 @import "jekyll-theme-minimal";
 
 #random_posts {
-font-size: 1.5em 
+font-size: 1.5em;
+font-weight: bold; 
+}
+
+hr {
+  background:#090909;
 }
 
 body {
   background-color: #fff;
-  padding:50px;
+  padding:5px;
   color:#090909;
   font-weight:400;
   font-size:15px;
