@@ -6,4 +6,4 @@ layout: default
 
 Here are 50 randomly chosen entries. Refresh the page for another random 50. Enjoy!
 
-{% include {{site.baseurl}}/randomentries.html %}
+{% include_relative /randomentries.html %}
