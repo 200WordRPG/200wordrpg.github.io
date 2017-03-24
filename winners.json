@@ -1,7 +1,7 @@
 ---
 ---
 [
-    {% for post in site.categories.winners %}
+    {% for post in site.categories.winner %}
     {
       "title"    : "{{ post.title }}",
       "href"     : "{{ post.url }}",
