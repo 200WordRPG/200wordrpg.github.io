@@ -28,7 +28,7 @@
 
             var divRandomPosts = $("#random_posts");
 
-            divRandomPosts.append('<h2>other posts</h2><hr />');
+            divRandomPosts.append('<h2>');
 
             while (counter < numberOfPosts)
             {
@@ -41,11 +41,11 @@
 
                     if (counter == (numberOfPosts - 1))
                     {
-                        divRandomPosts.append('<p><a href="' + postHREF + '">' + postTitle + '</a></p>');
+                        divRandomPosts.append(' <a href="' + postHREF + '">' + postTitle + '</a> •');
                     }
                     else
                     {
-                        divRandomPosts.append('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
+                        divRandomPosts.append(' <a href="' + postHREF + '">' + postTitle + ' •');
                     }
 
                     randomIndexUsed.push(randomIndex);
@@ -53,6 +53,8 @@
                     counter++;
                 }
             }
+			            divRandomPosts.append('</h2>');
+
         });
     }
 
