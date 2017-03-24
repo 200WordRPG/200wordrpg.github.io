@@ -6,7 +6,22 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 15px/1.5 "Lucida Console", Monaco, monospace;
   color:#090909;
   font-weight:400;
+  font-size:15;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#090909;
+  font-size:14px;
+}
+
+pre {
+  background: #fff;
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
