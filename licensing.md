@@ -3,8 +3,7 @@ layout: default
 ---
 
 # Creative Commons and You
-A
-ll entries are protected under the [Creative Commons Attribution 4.0 International license](
+All entries are protected under the [Creative Commons Attribution 4.0 International license](
 https://creativecommons.org/licenses/by/4.0/). That means that anyone can remix, modify, expand, or build upon these entries, and even make money off of them! This can include hacks, expansions, adventures, re-skins, and more.
 
 Of course the license does offer some protection for the original creators:
