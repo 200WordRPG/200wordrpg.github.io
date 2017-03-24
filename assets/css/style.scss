@@ -3,12 +3,16 @@
 
 @import "jekyll-theme-minimal";
 
+#random_posts {
+font-size: 1.5em 
+}
+
 body {
   background-color: #fff;
   padding:50px;
   color:#090909;
   font-weight:400;
-  font-size:15;
+  font-size:15px;
 }
 
 code, pre {
