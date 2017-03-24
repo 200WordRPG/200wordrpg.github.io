@@ -6,4 +6,6 @@ layout: default
 
 Here are 50 randomly chosen entries. Refresh the page for another random 50. Enjoy!
 
-{% include_relative /randomentrieslist.html %}
+<div id="random_posts">
+
+</div>
