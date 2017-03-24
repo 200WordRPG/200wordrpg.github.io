@@ -20,22 +20,20 @@
 
 	<script type="text/javascript">
 
-    function generateRandomPosts()
+    function generateRandomWinners()
     {
-        $.getJSON("/search.json", function(data) {
-            console.log("[search.json loaded for random posts]");
+        $.getJSON("/winners.json", function(data) {
+            console.log("[winners.json loaded for random winners]");
 
             var postsCount = data.length;
             var posts = data;
 
             var randomIndexUsed = [];
             var counter = 0;
-            var numberOfPosts = postsCount;
 			
             var divRandomWinners = $("#random_winners");
-            var divRandomFinalists = $("#random_finalists");
 
-            while (counter < numberOfPosts)
+            while (counter < postsCount)
             {
                 var randomIndex = Math.floor(Math.random() * postsCount);
 
@@ -43,21 +41,8 @@
                 {
                     var postHREF = posts[randomIndex].href;
                     var postTitle = posts[randomIndex].title;
-                    var postAuthor = posts[randomIndex].author;
-                    var postCategories = posts[randomIndex].categories;
 
-                    if (postCategories.includes("winner"))
-                    {
-                        divRandomWinners.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
-                    }
-                    /*else if (postCategories.includes("finalist"))
-                    {
-                        divRandomFinalists.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
-                    } 
-					else 
-					{
-					//do nothing
-					}*/
+                    divRandomWinners.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
 
                     randomIndexUsed.push(randomIndex);
 
@@ -68,7 +53,8 @@
     }
 
     $(document).ready(function() {
-        generateRandomPosts();
+        generateRandomWinners();
+        //generateRandomFinalists();
     });
 
 </script>

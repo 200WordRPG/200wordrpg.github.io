@@ -1,11 +1,9 @@
 ---
 ---
 [
-    {% for post in site.posts %}
+    {% for post in site.categories.finalists %}
     {
       "title"    : "{{ post.title }}",
-      "author"   : "{{ post.author }}",
-      "categories"   : "{{ post.categories }}",
       "href"     : "{{ post.url }}",
     }
     {% unless forloop.last %},{% endunless %}
