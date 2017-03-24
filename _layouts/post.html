@@ -16,60 +16,6 @@
 	<meta property="og:image" content="{{site.baseurl}}/logo.gif" />
 	<meta property="og:image:type" content="image/gif">
 
-		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-
-	<script type="text/javascript">
-
-    function generateRandomPosts()
-    {
-        $.getJSON("/search.json", function(data) {
-            console.log("[search.json loaded for random posts]");
-
-            var postsCount = data.length;
-            var posts = data;
-
-            var randomIndexUsed = [];
-            var counter = 0;
-            var numberOfPosts = postsCount;
-			
-            var divRandomWinners = $("#random_winners");
-            var divRandomFinalists = $("#random_finalists");
-
-            while (counter < numberOfPosts)
-            {
-                var randomIndex = Math.floor(Math.random() * postsCount);
-
-                if (randomIndexUsed.indexOf(randomIndex) == "-1")
-                {
-                    var postHREF = posts[randomIndex].href;
-                    var postTitle = posts[randomIndex].title;
-                    var postAuthor = posts[randomIndex].author;
-                    var postCategories = posts[randomIndex].categories;
-
-                    if (postCategories.includes("winner"))
-                    {
-                        divRandomWinners.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
-                    }
-                    else if (postCategories.includes("finalist"))
-                    {
-                        divRandomFinalists.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
-                    } 
-					else 
-					{
-					//do nothing
-					}
-
-                    randomIndexUsed.push(randomIndex);
-
-                    counter++;
-                }
-            }
-        });
-    }
-
-    $(document).ready(function() {
-        generateRandomPosts();
-    });
 
 </script>
 	
@@ -80,16 +26,13 @@
         <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
 		<a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/logo.gif" style="width:315px"></a>
 		
-		
-		
-        <h3><a href="{{site.baseurl}}/">Home</a><h3>
-		
-	    <h3><a href="{{site.baseurl}}/winners">Winners</a><h3>
-	    <h3><a href="{{site.baseurl}}/2017entries">2017 Entries</a><h3>
-	    <h3><a href="{{site.baseurl}}/2016entries">2016 Entries</a><h3>
-	    <h3><a href="{{site.baseurl}}/2015entries">2015 Entries</a><h3>
-	    <h3><a href="{{site.baseurl}}/judges">Judges</a> • <a href="{{site.baseurl}}/prizes">Prizes</a><h3>
-	    <h3><a href="{{site.baseurl}}/downloads">Downloads</a><h3>
+        <h3><a href="{{site.baseurl}}/">Home</a></h3>
+	    <h3><a href="{{site.baseurl}}/winners">Winners</a></h3>
+	    <h3><a href="{{site.baseurl}}/2017entries">2017 Entries</a><br>
+	    <h3><a href="{{site.baseurl}}/2016entries">2016 Entries</a><br>
+	    <h3><a href="{{site.baseurl}}/2015entries">2015 Entries</a></h3>
+	    <h3><a href="{{site.baseurl}}/judges">Judges</a> • <a href="{{site.baseurl}}/prizes">Prizes</a><br>
+	    <a href="{{site.baseurl}}/downloads">Downloads</a></h3>
        
       </header>
       <section>
