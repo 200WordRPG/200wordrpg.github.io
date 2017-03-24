@@ -6,4 +6,6 @@ layout: default
 
 Here are 50 randomly chosen entries. Enjoy!
 
-## <div id="random_posts"></div>
+<div id="random_posts">
+## 
+</div>
