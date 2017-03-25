@@ -7,5 +7,5 @@ link: "http://www.mortaine.com/blog"
 categories: 2015 rpg winner
 ---
 
-<embed src="{{ site.url }}/pdfs/EscapePodOne.pdf" width="100%" height="100%" />
+![]({{ site.url }}/2015images/0004.jpg")
 
