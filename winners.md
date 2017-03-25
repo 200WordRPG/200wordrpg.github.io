@@ -2,14 +2,15 @@
 layout: default
 ---
 
-# 2016 Challenge Winners
-
+# All Winners
+Challenge winners from the all prior challenges have been listed below. Enjoy!
 
 <div id="random_winners"></div>
 
 <hr>
 
-# 2016 Finalists
+# All Finalists
+Finalists from all prior challenges have been listed below. Enjoy!
 
 
 <div id="random_finalists"></div>
