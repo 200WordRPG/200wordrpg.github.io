@@ -9,8 +9,13 @@ font-weight: bold;
 }
 
 img {
-vertical-align: middle;
-horizontal-align: middle;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+text-align: center;
 }
 
 #random_finalists {
