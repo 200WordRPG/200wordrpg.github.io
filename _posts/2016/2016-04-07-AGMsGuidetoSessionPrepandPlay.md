@@ -54,4 +54,4 @@ Thanks: You guys.
 
 ## Judge Comments
  
-This supplement really caught my eye because of the way it chooses to approach session prep. The use of dice to determine small, easily-achievable goals gives the whole process the air of a minigame, and I could see myself using it before running a game. A nice, stress-light way to get stuff done. _- [Jacqueline Bryk]_({{site.baseurl}}/judges)
+This supplement really caught my eye because of the way it chooses to approach session prep. The use of dice to determine small, easily-achievable goals gives the whole process the air of a minigame, and I could see myself using it before running a game. A nice, stress-light way to get stuff done. - [_Jacqueline Bryk_]({{site.baseurl}}/judges)

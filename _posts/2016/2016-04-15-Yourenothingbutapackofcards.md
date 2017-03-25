@@ -57,4 +57,4 @@ Author did not add any comments.
 
 ## Judge Comments
 
-As I understand it, A Red and Pleasant Land is a good system for random encounters, and this captures a sense of dark whimsy that I think fits the game well. _- [Stephanie Bryant]_({{site.baseurl}}/judges)
+As I understand it, A Red and Pleasant Land is a good system for random encounters, and this captures a sense of dark whimsy that I think fits the game well. - [_Stephanie Bryant_]({{site.baseurl}}/judges)

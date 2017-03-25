@@ -52,4 +52,4 @@ Author did not add any comments.
 
 ## Judge Comments
 
-A quick, solid idea generator. This would be an invaluable tool for GMs of various levels of experience who have problems with improv or just want to add a little more depth to their plots. _- [Jacqueline Bryk]_({{site.baseurl}}/judges)
+A quick, solid idea generator. This would be an invaluable tool for GMs of various levels of experience who have problems with improv or just want to add a little more depth to their plots. - [_Jacqueline Bryk_]({{site.baseurl}}/judges)

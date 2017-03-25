@@ -54,4 +54,4 @@ Thanks to Jon Cole for inspiring me with his workshops. This supplement would ne
 
 ## Judge Comments
 
-I frequently have a hard time coming up with interesting characters that don't feel like someone else's tropes. I like bouncing ideas off of other people, so I love "I see." I also get into character more easily by introducting my body, so I love "Quoth." Actually having reasons to travel together is important too. Interesting and useful character building technique. _- [Sarah Judd]_({{site.baseurl}}/judges)
+I frequently have a hard time coming up with interesting characters that don't feel like someone else's tropes. I like bouncing ideas off of other people, so I love "I see." I also get into character more easily by introducting my body, so I love "Quoth." Actually having reasons to travel together is important too. Interesting and useful character building technique. - [_Sarah Judd_]({{site.baseurl}}/judges)

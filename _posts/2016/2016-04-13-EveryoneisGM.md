@@ -17,4 +17,4 @@ Author did not add any comments.
 
 ## Judge Comments
 
-Cute. People like playing meta. _- [Sarah Judd]_({{site.baseurl}}/judges)
+Cute. People like playing meta. - [_Sarah Judd_]({{site.baseurl}}/judges)

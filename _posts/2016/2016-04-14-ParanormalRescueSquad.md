@@ -61,4 +61,4 @@ Author did not add any comments.
 
 ## Judge Comments
 
-Paranormal Rescue squad does some nice things with characterisation and improv, leaving plenty of room for players to sketch out a dangerous and unknown conspiracy and discover it organically through play. I think it'd make a great 500w game. _- [Grant Howitt]_({{site.baseurl}}/judges)
+Paranormal Rescue squad does some nice things with characterisation and improv, leaving plenty of room for players to sketch out a dangerous and unknown conspiracy and discover it organically through play. I think it'd make a great 500w game. - [_Grant Howitt_]({{site.baseurl}}/judges)

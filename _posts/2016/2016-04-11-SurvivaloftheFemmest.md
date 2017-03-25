@@ -29,4 +29,4 @@ This came to me in a hypnagogic hallucination where an androgynous young adult t
 
 ## Judge Comments
 
-This deserves to be a semi-finalist at very least due to its innovative subversion of standard masculine sci-fi/fantasy tropes. Players triumph against their enemies through traditionally feminine ideals and graces, which are never put down or made fun of. Unique, charming, and definitely made me want to play at least one session. _- [Jacqueline Bryk]_({{site.baseurl}}/judges)
+This deserves to be a semi-finalist at very least due to its innovative subversion of standard masculine sci-fi/fantasy tropes. Players triumph against their enemies through traditionally feminine ideals and graces, which are never put down or made fun of. Unique, charming, and definitely made me want to play at least one session. - [_Jacqueline Bryk_]({{site.baseurl}}/judges)

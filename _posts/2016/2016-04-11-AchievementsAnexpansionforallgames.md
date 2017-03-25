@@ -27,4 +27,4 @@ Extra Credits on Video Game Achievements https://www.youtube.com/watch?v=hFM4eIA
 
 ## Judge Comments
 
-Achievements ports, well, achievements from video game systems over to the tabletop. What makes it interesting is that it’s the players creating the achievements, rather than the game or game master, flagging for one another the types of fiction, actions, and playstyles they want to see and conveying the relative importance (or challenge) of each achievement. _- [Marshall Miller]_({{site.baseurl}}/judges)
+Achievements ports, well, achievements from video game systems over to the tabletop. What makes it interesting is that it’s the players creating the achievements, rather than the game or game master, flagging for one another the types of fiction, actions, and playstyles they want to see and conveying the relative importance (or challenge) of each achievement. - [_Marshall Miller_]({{site.baseurl}}/judges)

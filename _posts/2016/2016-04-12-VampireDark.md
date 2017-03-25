@@ -36,4 +36,4 @@ If we are the sickness then what is the cure?
 This supplement relies on (a) the system of Cthulhu Dark, which it adapts to particular purpose, and (b) the themes and cultural presence of Vampire: The Masquerade, a role-playing game first released by White Wolf in 1991.
 
 ## Judge Comments
-Again, there's that Vampire-horror, this time blended with Cthulhu Dark. Good pick for system for this setting. _- [Stephanie Bryant]_({{site.baseurl}}/judges)
+Again, there's that Vampire-horror, this time blended with Cthulhu Dark. Good pick for system for this setting. - [_Stephanie Bryant_]({{site.baseurl}}/judges)

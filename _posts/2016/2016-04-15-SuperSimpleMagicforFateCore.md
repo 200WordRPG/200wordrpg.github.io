@@ -32,4 +32,4 @@ Author did not add any comments.
 
 ## Judge Comments
 
-Breaks down simply what's fun/unfun about magic and similar _- [Kat Kuhl]_({{site.baseurl}}/judges)
+Breaks down simply what's fun/unfun about magic and similar - [_Kat Kuhl_]({{site.baseurl}}/judges)

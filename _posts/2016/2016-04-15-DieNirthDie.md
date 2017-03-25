@@ -29,4 +29,4 @@ I would really like to credit, for providing inspiration: Avery Mcdaldno (<em>Th
 
 ## Judge Comments
 
-Die, Niruth, Die! tells the tale of a great dragon’s life from birth to death. The game makes great use of dominoes to create a timeline from the “bones” of the dragon and the available themes really nail dragon lore. The rules lay out really clear procedures with a satisfying and well-defined beginning and end. _- [Marshall Miller]_({{site.baseurl}}/judges)
+Die, Niruth, Die! tells the tale of a great dragon’s life from birth to death. The game makes great use of dominoes to create a timeline from the “bones” of the dragon and the available themes really nail dragon lore. The rules lay out really clear procedures with a satisfying and well-defined beginning and end. - [_Marshall Miller_]({{site.baseurl}}/judges)

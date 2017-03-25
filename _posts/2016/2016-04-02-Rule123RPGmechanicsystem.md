@@ -35,4 +35,4 @@ Author did not add any comments.
 
 ## Judge Comments
 
-I've actually been looking for a ridiculously simple dice mechanic for a while that still offers something interesting to play with, and this works for me. I'd like to see it developed a little bit to see skills, traits or character stuff worked in (and the examples are a little screwy - remembering a phone number from 5 years ago, I'd argue, is a near-impossible task) but it's a solid core for running a game when you're drunk, and I like that. _- [Grant Howitt]_({{site.baseurl}}/judges)
+I've actually been looking for a ridiculously simple dice mechanic for a while that still offers something interesting to play with, and this works for me. I'd like to see it developed a little bit to see skills, traits or character stuff worked in (and the examples are a little screwy - remembering a phone number from 5 years ago, I'd argue, is a near-impossible task) but it's a solid core for running a game when you're drunk, and I like that. - [_Grant Howitt_]({{site.baseurl}}/judges)

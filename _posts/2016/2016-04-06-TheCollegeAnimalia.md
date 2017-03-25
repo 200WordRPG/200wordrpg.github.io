@@ -25,4 +25,4 @@ Author did not add any comments.
 
 ## Judge Comments
 
-The College Animals describes a delightfully bizarre mix of magic and mystery. There, ensorceled animals have created an academic cargo cult with predictably unpredictable consequences. _- [Marshall Miller]_({{site.baseurl}}/judges)
+The College Animals describes a delightfully bizarre mix of magic and mystery. There, ensorceled animals have created an academic cargo cult with predictably unpredictable consequences. - [_Marshall Miller_]({{site.baseurl}}/judges)

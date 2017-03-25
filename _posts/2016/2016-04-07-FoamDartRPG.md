@@ -37,6 +37,6 @@ for Solo RPGs I use this mechanic instead. The rules with picture of the target 
 
 ## Judge Comments
 
-I could see games where this technique might add to the immersion, and certainly several where it would add to the fun. _- [Sarah Judd]_({{site.baseurl}}/judges)
+I could see games where this technique might add to the immersion, and certainly several where it would add to the fun. - [_Sarah Judd_]({{site.baseurl}}/judges)
 
-Non-Expanding Recreational Foam is one of my favourite things, and this is a fun mechanic for using it in a game. I can see the players messing about at a late-night session with this one and having a lot of fun, and it makes a break from entirely removing skill from proceedings as most systems do. _- [Grant Howitt]_({{site.baseurl}}/judges)
+Non-Expanding Recreational Foam is one of my favourite things, and this is a fun mechanic for using it in a game. I can see the players messing about at a late-night session with this one and having a lot of fun, and it makes a break from entirely removing skill from proceedings as most systems do. - [_Grant Howitt_]({{site.baseurl}}/judges)

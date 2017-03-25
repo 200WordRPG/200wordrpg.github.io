@@ -32,4 +32,4 @@ Author did not add any comments.
 
 ## Judge Comments
 
-Stop Hiding Your Crush - love it will play. captures sleepover party fun. established characters makes this effervescent. _- [Kat Kuhl]_({{site.baseurl}}/judges)
+Stop Hiding Your Crush - love it will play. captures sleepover party fun. established characters makes this effervescent. - [_Kat Kuhl_]({{site.baseurl}}/judges)

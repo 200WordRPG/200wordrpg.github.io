@@ -31,4 +31,4 @@ I wanted to explore the thing that is the end of most stories in an RPG; charact
 
 ## Judge Comments
 
-Nos Morituri is a game that revels in its visceral brutality. Set in the gladiatorial arenas of Rome, the game sets up its characters and knocks them down. It’s a competitive game but not in the way you might imagine -- the competition doesn’t stem from the game's mechanics but from the players’ description of their gladiator's bold entrance and agonizing death. The game really appeals to my sense of melodrama and one-upmanship.  _- [Marshall Miller]_({{site.baseurl}}/judges)
+Nos Morituri is a game that revels in its visceral brutality. Set in the gladiatorial arenas of Rome, the game sets up its characters and knocks them down. It’s a competitive game but not in the way you might imagine -- the competition doesn’t stem from the game's mechanics but from the players’ description of their gladiator's bold entrance and agonizing death. The game really appeals to my sense of melodrama and one-upmanship.  - [_Marshall Miller_]({{site.baseurl}}/judges)

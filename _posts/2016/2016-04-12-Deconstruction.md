@@ -52,6 +52,6 @@ Why do these lies sustain us?
 Philosopher Jacques Derrida is commonly understood to be the progenitor of deconstruction - but as he said, it is the reading rather than the writing of an idea that is important.
 
 ## Judge Comments
-Deconstruction is a fascinating rpg. It's exploring the power of words. I love using words and misunderstandings of them and how that shapes a culture as a world-building concept. I haven't seen anything like it. _- [Sarah Judd]_({{site.baseurl}}/judges)
+Deconstruction is a fascinating rpg. It's exploring the power of words. I love using words and misunderstandings of them and how that shapes a culture as a world-building concept. I haven't seen anything like it. - [_Sarah Judd_]({{site.baseurl}}/judges)
 
-Would play - scrabble pieces are tangibly fun. teaches an element of worldbuilding oft forgotten. deliberate mispronunciations = easy enjoyment. accessible to many age groups/backgrounds. _- [Kat Kuhl]_({{site.baseurl}}/judges)
+Would play - scrabble pieces are tangibly fun. teaches an element of worldbuilding oft forgotten. deliberate mispronunciations = easy enjoyment. accessible to many age groups/backgrounds. - [_Kat Kuhl_]({{site.baseurl}}/judges)

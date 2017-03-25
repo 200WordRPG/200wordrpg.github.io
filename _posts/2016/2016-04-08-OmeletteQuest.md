@@ -37,4 +37,4 @@ This could also be played on a larger scale with more time, like capture the fla
 
 ## Judge Comments
 
-I loved this game because it's truly all-ages. You could play this at a drunken convention party or with a bunch of kids in a schoolyard. The rules are simple, the concept is engaging, and it involves a lot of simple physical exercise--something most of us could use more of. _- [Jacqueline Bryk]_({{site.baseurl}}/judges)
+I loved this game because it's truly all-ages. You could play this at a drunken convention party or with a bunch of kids in a schoolyard. The rules are simple, the concept is engaging, and it involves a lot of simple physical exercise--something most of us could use more of. - [_Jacqueline Bryk_]({{site.baseurl}}/judges)

@@ -93,4 +93,4 @@ Author did not add any comments.
 
 ## Judge Comments
 
-The title is a little dry, but this is a sound way of generating interesting word seeds out of easily-understood concepts. I could see myself using this to blast out a setting for a one-shot game, either collaboratively or on my lonesome. _- [Grant Howitt]_({{site.baseurl}}/judges)
+The title is a little dry, but this is a sound way of generating interesting word seeds out of easily-understood concepts. I could see myself using this to blast out a setting for a one-shot game, either collaboratively or on my lonesome. - [_Grant Howitt_]({{site.baseurl}}/judges)

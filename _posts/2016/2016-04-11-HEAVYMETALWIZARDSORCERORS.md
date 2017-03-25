@@ -44,4 +44,4 @@ Nanowar of Steel - pretty much their entire discography
 
 ## Judge Comments
 
-I picked this because after reading through over 80 entries, it was one of the ones that completely stuck out in my mind as "I want to play this!"  _- [Stephanie Bryant]_({{site.baseurl}}/judges)
+I picked this because after reading through over 80 entries, it was one of the ones that completely stuck out in my mind as "I want to play this!"  - [_Stephanie Bryant_]({{site.baseurl}}/judges)

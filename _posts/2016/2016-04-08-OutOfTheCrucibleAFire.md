@@ -36,4 +36,4 @@ Out Of The Crucible, A Fire was inspired by Niamh Schönherr's Tea Ceremony, as 
 
 ## Judge Comments
 
-Fun camping activity. succinct. mission debrief done in character. builds naturally, could be a really cool night. will play. _- [Kat Kuhl]_({{site.baseurl}}/judges)
+Fun camping activity. succinct. mission debrief done in character. builds naturally, could be a really cool night. will play. - [_Kat Kuhl_]({{site.baseurl}}/judges)

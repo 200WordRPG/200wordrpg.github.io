@@ -34,4 +34,4 @@ This entry is dedicated to Rich Howard, Darcy Ross, and any other gaming geek wh
 
 ## Judge Comments
 
-A good little underwater adventure. Could easily be tweaked to a modern fantasy in addition to high fantasy settings. _- [Stephanie Bryant]_({{site.baseurl}}/judges)
+A good little underwater adventure. Could easily be tweaked to a modern fantasy in addition to high fantasy settings. - [_Stephanie Bryant_]({{site.baseurl}}/judges)

@@ -36,4 +36,4 @@ Welcome to my love letter to the bizarre cult movie, "Buckaroo Banzai Across the
 
 ## Judge Comments
 
-Bangarang comes at you fast -- you can feel the urgency and excitement in rules! The game has a really clear procedure, leading you through the three scenes and straight to the Showdown without putting any speed bumps in your way! I love the silly, over-the-top premise and scenes are just perfect the genre. _- [Marshall Miller]_({{site.baseurl}}/judges)
+Bangarang comes at you fast -- you can feel the urgency and excitement in rules! The game has a really clear procedure, leading you through the three scenes and straight to the Showdown without putting any speed bumps in your way! I love the silly, over-the-top premise and scenes are just perfect the genre. - [_Marshall Miller_]({{site.baseurl}}/judges)

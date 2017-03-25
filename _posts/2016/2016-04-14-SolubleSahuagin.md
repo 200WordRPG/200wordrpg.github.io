@@ -47,4 +47,4 @@ That's a lot of inspiration for 200 words. Frankly, I'll be happy if one of thes
 
 ## Judge Comments
 
-What a great set of weird and unique monsters! A good tool for GMs who want to add a little bit of strangeness to their game. Could fit into most settings, would be best in horror. I love the new monsters that aren't just "another flavor of dragon" or "mammal crosses with reptile/insect". _- [Jacqueline Bryk]_({{site.baseurl}}/judges)
+What a great set of weird and unique monsters! A good tool for GMs who want to add a little bit of strangeness to their game. Could fit into most settings, would be best in horror. I love the new monsters that aren't just "another flavor of dragon" or "mammal crosses with reptile/insect". - [_Jacqueline Bryk_]({{site.baseurl}}/judges)

@@ -27,4 +27,4 @@ This is designed for GMs to control travel to and from their world.
 
 ## Judge Comments
 
-Solid story seed. drink detail is strong. enough to work with without hampering GM creativity. _- [Kat Kuhl]_({{site.baseurl}}/judges)
+Solid story seed. drink detail is strong. enough to work with without hampering GM creativity. - [_Kat Kuhl_]({{site.baseurl}}/judges)

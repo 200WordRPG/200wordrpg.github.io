@@ -40,4 +40,4 @@ Author did not add any comments.
 
 ## Judge Comments
 
-Will play - solid game for one. less vague than many. actionable, encourages engaging with the activity and mindfullness. _- [Kat Kuhl]_({{site.baseurl}}/judges)
+Will play - solid game for one. less vague than many. actionable, encourages engaging with the activity and mindfullness. - [_Kat Kuhl_]({{site.baseurl}}/judges)

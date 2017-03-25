@@ -27,4 +27,4 @@ I wanted to create something that told a story as well as being a role-playing g
 
 ## Judge Comments
 
-Not surprisingly, I like a good "30 seconds to midnight" type of game, and the "fluff" text in this one captured the time pressure very eloquently. _- [Stephanie Bryant]_({{site.baseurl}}/judges)
+Not surprisingly, I like a good "30 seconds to midnight" type of game, and the "fluff" text in this one captured the time pressure very eloquently. - [_Stephanie Bryant_]({{site.baseurl}}/judges)
