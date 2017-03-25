@@ -4,7 +4,7 @@ title: "Walk among the Dead"
 date: 2016-04-16
 author: "Johannes Oppermann"
 link: "http://www.meetup.com/de-DE/Story-Games-Vienna/"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 Setup: You’re all here to find someone dead. You want closure with them. You can reach them using a mask. Everyone has one deceased they want to contact. 
@@ -22,3 +22,9 @@ End when everyone is dead, or someone has found closure with their deceased.
 ## Author Comments (if any)
 
 I like ghosts and ghost stories. I thought of this game after I played "Old Friends" by Jason Morningstar and Ole Peder Giaever at Fastaval. It's a mix of a séance, the myth of Orpheus and Euridice, and a murderous ghost story. 
+
+## Judge Comments
+
+Walk Among the Dead seems to have a chance to pack an emotional punch in a small package. Each player has something interesting to do to shape the game at all times. It seems like the mechanics would help create the tone. _- [Sarah Judd]_({{site.baseurl}}/judges)
+
+Walk Among the Dead is a freeform game about questioning the dead. Players take turns wearing a mask and risking their life to find closure with the one they lost while the others play [mostly] truthful ghosts whispering back. The game accommodates various group sizes and range of potential stories while maintaining focus on its premise and giving players clear instructions about what they should be doing.  _- [Marshall Miller]_({{site.baseurl}}/judges)

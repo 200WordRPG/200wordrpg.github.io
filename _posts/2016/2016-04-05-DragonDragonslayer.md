@@ -4,7 +4,7 @@ title: "Dragon/Dragonslayer"
 date: 2016-04-05
 author: "Wendy Gorman "
 link: "no link"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 This is a game for two. One of you is a Dragon, the other, a Dragonslayer.
@@ -20,3 +20,7 @@ When your battle reaches its zenith, speak of how you each find death. Tell your
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+Dragon/Dragonslayer is weirdly intimate. Like: you're holding hands with someone, and one of you is a dragon, and the other is a dragonkiller, and you slay each other and talk at length about it without breaking eye contact? That sounds very challenging to pull off, and I'll not lie, actually pretty hot. _- [Grant Howitt]_({{site.baseurl}}/judges)

@@ -4,7 +4,7 @@ title: "“Rule 1-2-3” RPG mechanic system"
 date: 2016-04-02
 author: "Tim Snider"
 link: "http://savageafterworld.blogspot.com/"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 “Rule 1-2-3” RPG mechanic system
@@ -32,3 +32,7 @@ For a Difficult task, the player rolls the d12. A 1-2-3 is a success. (A 25% pro
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+I've actually been looking for a ridiculously simple dice mechanic for a while that still offers something interesting to play with, and this works for me. I'd like to see it developed a little bit to see skills, traits or character stuff worked in (and the examples are a little screwy - remembering a phone number from 5 years ago, I'd argue, is a near-impossible task) but it's a solid core for running a game when you're drunk, and I like that. _- [Grant Howitt]_({{site.baseurl}}/judges)

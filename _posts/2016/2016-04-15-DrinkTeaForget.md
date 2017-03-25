@@ -4,7 +4,7 @@ title: "Drink Tea. Forget."
 date: 2016-04-15
 author: "M. Quintanilla"
 link: "no link"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 An introspective RPG for one.
@@ -37,3 +37,7 @@ Repeat until you’re ready to stop or until you’ve crossed every choice off t
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+Will play - solid game for one. less vague than many. actionable, encourages engaging with the activity and mindfullness. _- [Kat Kuhl]_({{site.baseurl}}/judges)

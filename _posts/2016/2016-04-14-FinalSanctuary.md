@@ -4,7 +4,7 @@ title: "Final Sanctuary"
 date: 2016-04-14
 author: "Doug Ruff"
 link: "no link"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 Who would have known that when we reached out to the stars, that they would reach back?
@@ -24,3 +24,7 @@ The sands have nearly run out, hurry, choose now! What do you save?
 ## Author Comments (if any)
 
 I wanted to create something that told a story as well as being a role-playing game.
+
+## Judge Comments
+
+Not surprisingly, I like a good "30 seconds to midnight" type of game, and the "fluff" text in this one captured the time pressure very eloquently. _- [Stephanie Bryant]_({{site.baseurl}}/judges)

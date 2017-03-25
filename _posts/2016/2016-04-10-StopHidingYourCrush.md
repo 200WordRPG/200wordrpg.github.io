@@ -4,7 +4,7 @@ title: "Stop Hiding Your Crush"
 date: 2016-04-10
 author: "Joe Mills"
 link: "Twitter: @mr_nonchalance"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 For 3-6 players about fear of rejection and the joy of revealed love.
@@ -29,3 +29,7 @@ Make your answers engaging, play with respect for boundaries, and call time out 
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+Stop Hiding Your Crush - love it will play. captures sleepover party fun. established characters makes this effervescent. _- [Kat Kuhl]_({{site.baseurl}}/judges)

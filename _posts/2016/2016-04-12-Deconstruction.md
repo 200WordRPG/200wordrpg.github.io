@@ -4,7 +4,7 @@ title: "Deconstruction"
 date: 2016-04-12
 author: "Abstract Machine"
 link: "https://akingdomis.wordpress.com/"
-categories: 2016 rpg
+categories: 2016 rpg winner
 ---
 ```
 Deconstruction
@@ -50,3 +50,8 @@ Why do these lies sustain us?
 ## Author Comments (if any)
 
 Philosopher Jacques Derrida is commonly understood to be the progenitor of deconstruction - but as he said, it is the reading rather than the writing of an idea that is important.
+
+## Judge Comments
+Deconstruction is a fascinating rpg. It's exploring the power of words. I love using words and misunderstandings of them and how that shapes a culture as a world-building concept. I haven't seen anything like it. _- [Sarah Judd]_({{site.baseurl}}/judges)
+
+Would play - scrabble pieces are tangibly fun. teaches an element of worldbuilding oft forgotten. deliberate mispronunciations = easy enjoyment. accessible to many age groups/backgrounds. _- [Kat Kuhl]_({{site.baseurl}}/judges)

@@ -4,7 +4,7 @@ title: "Entrenched"
 date: 2016-04-14
 author: "Taylor LaBresh"
 link: "riverhousegames.com"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 Entrenched: An Underwater Adventure
@@ -31,3 +31,7 @@ The Old Woman will ask what PCs found, weeping if they tell her about The Skelet
 ## Author Comments (if any)
 
 This entry is dedicated to Rich Howard, Darcy Ross, and any other gaming geek who goes out of their way to share their fascination with the ocean.
+
+## Judge Comments
+
+A good little underwater adventure. Could easily be tweaked to a modern fantasy in addition to high fantasy settings. _- [Stephanie Bryant]_({{site.baseurl}}/judges)

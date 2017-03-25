@@ -4,7 +4,7 @@ title: "Soluble Sahuagin"
 date: 2016-04-14
 author: "Kirt Dankmyer"
 link: "http://www.rpgnow.com/browse/pub/682/Ivanhoe-Unbound"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 Twelve seeds for creature creation. Number after name in parentheses is relative power, 1-10, with 10 most powerful. 1 = orc, 10 = efreet.
@@ -44,3 +44,7 @@ The title is a parody of André Brenton's "Soluble Fish." Oneperson described th
 On the gaming end of things, firstly, I was inspired by early Judges Guild supplements. Second, use of the word "opilione" is a one-word homage to Gary Gygax's prose style. That's not sarcasm; Gygax really expanded my vocabulary when I was a kid. Finally, I tried to capture Dave Arneson's wry humor and the way he spiced his fantasy with science fiction.
 
 That's a lot of inspiration for 200 words. Frankly, I'll be happy if one of these monsters shows up in someone's game. I'm curious how other people will flesh them out. I hope anyone who makes use of these posts their creations online where I can see them! 
+
+## Judge Comments
+
+What a great set of weird and unique monsters! A good tool for GMs who want to add a little bit of strangeness to their game. Could fit into most settings, would be best in horror. I love the new monsters that aren't just "another flavor of dragon" or "mammal crosses with reptile/insect". _- [Jacqueline Bryk]_({{site.baseurl}}/judges)

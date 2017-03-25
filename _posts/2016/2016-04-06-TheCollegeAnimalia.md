@@ -4,7 +4,7 @@ title: "The College Animalia"
 date: 2016-04-06
 author: "Ed Turner"
 link: "twitter.com/EddlyT"
-categories: 2016 supplement
+categories: 2016 supplement winner
 ---
 ```
 An arcane college, deep in the woods, has been abandoned for fifty years (since the Elemental Sciences building exploded).
@@ -22,3 +22,7 @@ A few will stay behind to continue their studies.
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+The College Animals describes a delightfully bizarre mix of magic and mystery. There, ensorceled animals have created an academic cargo cult with predictably unpredictable consequences. _- [Marshall Miller]_({{site.baseurl}}/judges)

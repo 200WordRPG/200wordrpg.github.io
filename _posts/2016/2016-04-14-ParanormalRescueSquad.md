@@ -4,7 +4,7 @@ title: "Paranormal Rescue Squad"
 date: 2016-04-14
 author: "Allan Dotson"
 link: "maycontainmonkeys.tumblr.com"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 Collaboratively describe a terrain, objective and, in broad strokes your team of special operatives.  
@@ -58,3 +58,7 @@ D) Danger:
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+Paranormal Rescue squad does some nice things with characterisation and improv, leaving plenty of room for players to sketch out a dangerous and unknown conspiracy and discover it organically through play. I think it'd make a great 500w game. _- [Grant Howitt]_({{site.baseurl}}/judges)

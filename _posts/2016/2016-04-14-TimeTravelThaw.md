@@ -4,7 +4,7 @@ title: "Time Travel Thaw"
 date: 2016-04-14
 author: "Armand Kossayan"
 link: "https://theyoungandthebrave.wordpress.com/"
-categories: 2016 rpg
+categories: 2016 rpg winner
 ---
 ```
 The perfidious proprietor of peril – Professor Pandemonium has traveled BACK TO THE PAST to ERASE FROM TIME the superhero team that has prevented her previous plots of pugnacity. Only our heroes can rescue themselves by following the precocious professor BACK IN TIME and stopping her pernicious plans.
@@ -20,3 +20,9 @@ A 5x10 inch piece of paper towel will take about 30 minutes to soak through. Adj
 ## Author Comments (if any)
 
 Pretty much inspired by things like Back to the Future... even if I haven't watched one of those in many years.
+
+## Judge Comments
+
+I loved this mechanic of melting ice! Depending on where you live, this might be a very fast game, as you quickly run out of powers a desert climate! _- [Stephanie Bryant]_({{site.baseurl}}/judges)
+
+Time Travel Thaw has a really innovative theme - the idea that ice is melting and wiping out what makes you you due to wibbly-wobbly timey-wimey stuff. I'm not sure how well it would work in play, but the introduction of an uncertain element to the game both lends urgency and keeps the one-shot game from spiralling out of control. I'd love to run this and amp up the enthusiasm of the players around the table. _- [Grant Howitt]_({{site.baseurl}}/judges)

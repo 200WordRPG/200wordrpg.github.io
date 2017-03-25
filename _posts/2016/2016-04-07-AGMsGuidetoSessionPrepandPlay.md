@@ -4,7 +4,7 @@ title: "A GM's Guide to Session Prep and Play"
 date: 2016-04-07
 author: "Ole Peder Giæver"
 link: "http://snarglebarf.com"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 -- A GM's Guide to Session Prep and Play --
@@ -51,3 +51,7 @@ And:
 
 Sources: Imagonem, Old Friends, AW, Sorcerer, Håken, Play With Intent.
 Thanks: You guys.
+
+## Judge Comments
+ 
+This supplement really caught my eye because of the way it chooses to approach session prep. The use of dice to determine small, easily-achievable goals gives the whole process the air of a minigame, and I could see myself using it before running a game. A nice, stress-light way to get stuff done. _- [Jacqueline Bryk]_({{site.baseurl}}/judges)

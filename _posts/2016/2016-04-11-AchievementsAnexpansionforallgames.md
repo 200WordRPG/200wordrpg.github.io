@@ -4,7 +4,7 @@ title: "Achievements - An expansion for all games"
 date: 2016-04-11
 author: "Epistolary Richard"
 link: "https://plus.google.com/u/0/104855606903841258736/"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 At the beginning of your game, each player writes three achievements: one titled 'Plot', one 'Moment', one 'Playstyle'.
@@ -24,3 +24,7 @@ Each player adds 25 points (divided any way) amongst the achievements written by
 ## Author Comments (if any)
 
 Extra Credits on Video Game Achievements https://www.youtube.com/watch?v=hFM4eIAou5M
+
+## Judge Comments
+
+Achievements ports, well, achievements from video game systems over to the tabletop. What makes it interesting is that it’s the players creating the achievements, rather than the game or game master, flagging for one another the types of fiction, actions, and playstyles they want to see and conveying the relative importance (or challenge) of each achievement. _- [Marshall Miller]_({{site.baseurl}}/judges)

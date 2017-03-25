@@ -4,7 +4,7 @@ title: "Thematic Procedural Tables"
 date: 2016-04-16
 author: "Mendel Schmiedekamp"
 link: "http://www.silvergardengames.com/"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 Thematic Procedural Tables
@@ -89,5 +89,8 @@ Elements
 ```
 ## Author Comments (if any)
 
+Author did not add any comments.
 
+## Judge Comments
 
+The title is a little dry, but this is a sound way of generating interesting word seeds out of easily-understood concepts. I could see myself using this to blast out a setting for a one-shot game, either collaboratively or on my lonesome. _- [Grant Howitt]_({{site.baseurl}}/judges)

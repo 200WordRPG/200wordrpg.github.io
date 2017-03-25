@@ -4,7 +4,7 @@ title: "The Lost Cellar of Baron Niln"
 date: 2016-04-10
 author: "Stuart Burns"
 link: "no link"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 Open any book. Take any sentence. Go letter by letter to build the cellar. 
@@ -44,3 +44,7 @@ A pressure plate reveals the late Baron’s vintage wine collection.
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+The Lost Cellar provides a nifty way of creating a random path to Baron Niln’s store of wine. By cross-referencing a random sentence with you table of landmarks, it produces a thematically consistent and reasonably variable cellar that could be the entirety of an adventure all on its own. _- [Marshall Miller]_({{site.baseurl}}/judges)

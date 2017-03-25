@@ -4,7 +4,7 @@ title: "Bangarang Bonhomie vs. CrimeCo International!"
 date: 2016-04-16
 author: "Eric Farmer"
 link: "https://plus.google.com/u/0/+EricFarmerM/posts"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 Things: 3-4 players, notecards, hands
@@ -33,3 +33,7 @@ Sequel: Title Bangarang’s next adventure. Reuse your best cards!
 ## Author Comments (if any)
 
 Welcome to my love letter to the bizarre cult movie, "Buckaroo Banzai Across the 8th Dimension, in which the hero is a country star/neurosurgeon/samurai/experimental vehicle pilot. I may be forgetting one or two. The mechanics were inspired by Wheel Tree Press' Time Cellist and Grant Howitt's Doctor Magnethands. I hope you enjoy this game of hyper-competent nonsense.
+
+## Judge Comments
+
+Bangarang comes at you fast -- you can feel the urgency and excitement in rules! The game has a really clear procedure, leading you through the three scenes and straight to the Showdown without putting any speed bumps in your way! I love the silly, over-the-top premise and scenes are just perfect the genre. _- [Marshall Miller]_({{site.baseurl}}/judges)

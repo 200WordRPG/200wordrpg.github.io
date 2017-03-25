@@ -4,7 +4,7 @@ title: "`You're nothing but a pack of cards!'"
 date: 2016-04-15
 author: "Fabien Badilla"
 link: "http://fabienfb.blogspot.com/"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 This supplement :
@@ -54,3 +54,7 @@ Joker, roll 1D6:
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+As I understand it, A Red and Pleasant Land is a good system for random encounters, and this captures a sense of dark whimsy that I think fits the game well. _- [Stephanie Bryant]_({{site.baseurl}}/judges)

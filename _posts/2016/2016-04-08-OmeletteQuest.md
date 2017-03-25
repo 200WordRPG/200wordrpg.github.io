@@ -4,7 +4,7 @@ title: "Omelette Quest"
 date: 2016-04-08
 author: "Tyler Westerfield"
 link: "no link"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 “The King demands an omelette!” the royal proclaimer cried. “But be quick, and be quiet, or you’ll sate the dragon’s diet.”
@@ -34,3 +34,7 @@ Encourage everyone to play in character.
 ## Author Comments (if any)
 
 This could also be played on a larger scale with more time, like capture the flag. Some sort of role play resolution, class system, and progression needs to be added.
+
+## Judge Comments
+
+I loved this game because it's truly all-ages. You could play this at a drunken convention party or with a bunch of kids in a schoolyard. The rules are simple, the concept is engaging, and it involves a lot of simple physical exercise--something most of us could use more of. _- [Jacqueline Bryk]_({{site.baseurl}}/judges)

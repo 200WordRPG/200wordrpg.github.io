@@ -4,7 +4,7 @@ title: "Is the Space Pope a Lizard?"
 date: 2016-04-13
 author: "Tobias Strauss"
 link: "https://cynicallittlegames.wordpress.com/"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 5-12 players
@@ -40,3 +40,7 @@ ALL HAIL THE SPACE POPE!
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+This was probably my favorite out of the list. A fun, engaging concept that I could easily see myself playing or running. The rules were clear and easy to follow, the game didn't take itself too seriously, and I loved the idea of an alien conclave. _- [Jacqueline Bryk]_({{site.baseurl}}/judges)

@@ -4,7 +4,7 @@ title: "HEAVY METAL WIZARD SORCERORS"
 date: 2016-04-11
 author: "Alessandro Dellamotta"
 link: "no link"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 In the magical world of Heavy Metal, legendary hardcore Rockers struggle against the evil hordes of Pop, spell after spell.
@@ -41,3 +41,7 @@ Inspirations:
 Merrie Melodies - Daffy Duck the Wizard
 Kazushi Hagiwara - Bastard!!
 Nanowar of Steel - pretty much their entire discography
+
+## Judge Comments
+
+I picked this because after reading through over 80 entries, it was one of the ones that completely stuck out in my mind as "I want to play this!"  _- [Stephanie Bryant]_({{site.baseurl}}/judges)

@@ -4,7 +4,7 @@ title: "First Steps - Adventuring Workshop"
 date: 2016-04-17
 author: "Jonathan Jung Johansen"
 link: "https://www.patreon.com/3xj"
-categories: 2016 supplement
+categories: 2016 supplement winner
 ---
 ```
 Play this in order. This is not a salad to be tossed at will.
@@ -51,3 +51,7 @@ Through it, you will get to know all characters around the table, imagine them, 
 Whenever a new character joins in, or at the start of every session, repeat the workshop. Everyone should use the answers to gauge what the other players care for, and let the answers influence the game world.
 
 Thanks to Jon Cole for inspiring me with his workshops. This supplement would never have existed without him.
+
+## Judge Comments
+
+I frequently have a hard time coming up with interesting characters that don't feel like someone else's tropes. I like bouncing ideas off of other people, so I love "I see." I also get into character more easily by introducting my body, so I love "Quoth." Actually having reasons to travel together is important too. Interesting and useful character building technique. _- [Sarah Judd]_({{site.baseurl}}/judges)

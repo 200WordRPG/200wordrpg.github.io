@@ -4,7 +4,7 @@ title: "Everyone is GM"
 date: 2016-04-13
 author: "Jason Sackett"
 link: "no link"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 A variant mode of play for "Everyone is John" where the players (IRL) are the Gamemaster’s Whims (In the game) and the GM (IRL) is the Players (In the game).
@@ -14,3 +14,7 @@ The Whims individually choose a type of RPG they want to run, whether horror, ta
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+Cute. People like playing meta. _- [Sarah Judd]_({{site.baseurl}}/judges)

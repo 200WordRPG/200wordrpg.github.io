@@ -4,7 +4,7 @@ title: "Die, Nirûth, Die!"
 date: 2016-04-15
 author: "Daniele Di Rubbo"
 link: "http://geeckoonthewall.blogspot.com/"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 We’re telling the story of Nirûth the Wyrm, Dragonbane of the Land.
@@ -26,3 +26,7 @@ When no one can play more bones, whoever has least bones describes and sketches 
 ## Author Comments (if any)
 
 I would really like to credit, for providing inspiration: Avery Mcdaldno (<em>The Quiet Year</em>), Ben Robbins (<em>Microscope</em>), Hannah Shaffer (<em>Questlandia</em>), Luigi Briganti (<em>Under Heaven</em>), Matthijs Holter (<em>A Thousand Years Under the Sun</em>), and Sebastian Hickey (<em>Chronicles of Skin</em>).
+
+## Judge Comments
+
+Die, Niruth, Die! tells the tale of a great dragon’s life from birth to death. The game makes great use of dominoes to create a timeline from the “bones” of the dragon and the available themes really nail dragon lore. The rules lay out really clear procedures with a satisfying and well-defined beginning and end. _- [Marshall Miller]_({{site.baseurl}}/judges)

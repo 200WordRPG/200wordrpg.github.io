@@ -4,7 +4,7 @@ title: "Foam Dart RPG"
 date: 2016-04-07
 author: "Joe England"
 link: "https://plus.google.com/u/0/+RamblinGrump/about"
-categories: 2016 supplement
+categories: 2016 supplement winner
 ---
 ```
 The Foam Dart RPG
@@ -34,3 +34,9 @@ Sample target
 
 for Solo RPGs I use this mechanic instead. The rules with picture of the target box are here: https://docs.google.com/document/d/1trlqBqu3z5IyfUQqsbiQLH_TP_O15bipmXVE151kTKw/edit
 
+
+## Judge Comments
+
+I could see games where this technique might add to the immersion, and certainly several where it would add to the fun. _- [Sarah Judd]_({{site.baseurl}}/judges)
+
+Non-Expanding Recreational Foam is one of my favourite things, and this is a fun mechanic for using it in a game. I can see the players messing about at a late-night session with this one and having a lot of fun, and it makes a break from entirely removing skill from proceedings as most systems do. _- [Grant Howitt]_({{site.baseurl}}/judges)

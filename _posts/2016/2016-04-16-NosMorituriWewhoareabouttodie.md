@@ -4,7 +4,7 @@ title: "Nos Morituri: We who are about to die"
 date: 2016-04-16
 author: "Gareth Hodges"
 link: "cosmgames.com"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 Relive the death, glory, blood and sand of the gladiatorial arenas of Ancient Rome! Nos Morituri uses a single d6.
@@ -28,3 +28,7 @@ Ave, Imperator!
 ## Author Comments (if any)
 
 I wanted to explore the thing that is the end of most stories in an RPG; character death. By making it a certainty and embracing it, players get to express themselves in a way they don't normally have control over. Also, I'm amused by the double meaning of the word 'die' in the context of roleplaying games.
+
+## Judge Comments
+
+Nos Morituri is a game that revels in its visceral brutality. Set in the gladiatorial arenas of Rome, the game sets up its characters and knocks them down. It’s a competitive game but not in the way you might imagine -- the competition doesn’t stem from the game's mechanics but from the players’ description of their gladiator's bold entrance and agonizing death. The game really appeals to my sense of melodrama and one-upmanship.  _- [Marshall Miller]_({{site.baseurl}}/judges)

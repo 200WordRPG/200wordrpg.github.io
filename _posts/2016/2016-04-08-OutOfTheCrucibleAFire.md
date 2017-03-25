@@ -4,7 +4,7 @@ title: "Out Of The Crucible, A Fire"
 date: 2016-04-08
 author: "Taylor LaBresh"
 link: "RiverhouseGames.com"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 Out Of The Crucible, A Fire
@@ -33,3 +33,7 @@ When you run out of wood, let the fire die as your characters fall asleep.
 ## Author Comments (if any)
 
 Out Of The Crucible, A Fire was inspired by Niamh Schönherr's Tea Ceremony, as well as countless hours decompressing with friends after long gaming sessions and talking about our characters.
+
+## Judge Comments
+
+Fun camping activity. succinct. mission debrief done in character. builds naturally, could be a really cool night. will play. _- [Kat Kuhl]_({{site.baseurl}}/judges)

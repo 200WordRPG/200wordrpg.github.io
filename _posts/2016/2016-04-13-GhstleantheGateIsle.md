@@ -4,7 +4,7 @@ title: "Ghæstlean, the Gate Isle"
 date: 2016-04-13
 author: "Chris Colbath"
 link: "https://serenityalways.com/blog"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 *Ghæstlean*
@@ -24,3 +24,7 @@ The only clue the traveler will ever have of meeting him is the lingering taste 
 ## Author Comments (if any)
 
 This is designed for GMs to control travel to and from their world.  
+
+## Judge Comments
+
+Solid story seed. drink detail is strong. enough to work with without hampering GM creativity. _- [Kat Kuhl]_({{site.baseurl}}/judges)

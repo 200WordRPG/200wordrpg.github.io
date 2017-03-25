@@ -4,7 +4,7 @@ title: "Survival of the Femmest"
 date: 2016-04-11
 author: "River Williamson"
 link: "https://plus.google.com/+RiverWilliamson"
-categories: 2016 rpg
+categories: 2016 rpg finalist
 ---
 ```
 Survival of the Femmest
@@ -26,3 +26,7 @@ The Crone sets the objective and dangers in an infested area, focusing on the mi
 ## Author Comments (if any)
 
 This came to me in a hypnagogic hallucination where an androgynous young adult threw a bottle of nail polish at a monster like a Belmont throws holy water.  The game grew naturally from that.
+
+## Judge Comments
+
+This deserves to be a semi-finalist at very least due to its innovative subversion of standard masculine sci-fi/fantasy tropes. Players triumph against their enemies through traditionally feminine ideals and graces, which are never put down or made fun of. Unique, charming, and definitely made me want to play at least one session. _- [Jacqueline Bryk]_({{site.baseurl}}/judges)

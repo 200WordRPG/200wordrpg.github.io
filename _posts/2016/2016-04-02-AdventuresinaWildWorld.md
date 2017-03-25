@@ -4,7 +4,7 @@ title: "Adventures in a Wild World"
 date: 2016-04-02
 author: "David Meersteiner"
 link: "no link"
-categories: 2016 supplement
+categories: 2016 supplement finalist
 ---
 ```
 Roll 2d6. For each 6 roll another 2d6.
@@ -49,3 +49,7 @@ Use dice to select a group or an item of selected groups.
 ## Author Comments (if any)
 
 Author did not add any comments.
+
+## Judge Comments
+
+A quick, solid idea generator. This would be an invaluable tool for GMs of various levels of experience who have problems with improv or just want to add a little more depth to their plots. _- [Jacqueline Bryk]_({{site.baseurl}}/judges)
