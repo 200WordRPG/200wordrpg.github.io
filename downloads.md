@@ -14,4 +14,4 @@ Originally sold for charity, the PDF can be **[downloaded here](https://drive.go
 
 ## 2015 Challenge
 
-Thanks to some hard work from [Rickard Elimää](https://plus.google.com/u/0/116235159947041206206/posts), you can download all of the entries in **[this handy-dandy PDF]**(https://drive.google.com/open?id=0B80n8S8QrXvYaE5OX01aR0h0Y2c)!
+Thanks to some hard work from [Rickard Elimää](https://plus.google.com/u/0/116235159947041206206/posts), you can download all of the entries in [**this handy-dandy PDF**](https://drive.google.com/open?id=0B80n8S8QrXvYaE5OX01aR0h0Y2c)!

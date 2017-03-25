@@ -25,7 +25,7 @@ The judges for the 2017 challenge have not yet been announced.
 
 **[Keith Mageau](https://rollingboxcars.com/):** A fellow Charlestonian, he’s currently organizing Stormcon2015 down here in the south!
 
-**[Kat Murphy](http://oneshotpodcast.com/):** co-host of One-Shot; she’s got a lot of experience with rpgs and one-shots (obviously!)	
+**[Kat Kuhl](http://oneshotpodcast.com/):** co-host of One-Shot; she’s got a lot of experience with rpgs and one-shots (obviously!)	
 
 **[Marshall Miller](http://www.finemessgames.com/):** An experienced game designer, he hosts a group of micro-games on his own site; and he’s eager to dive into this contest.
 

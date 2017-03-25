@@ -3,7 +3,12 @@
 
 @import "jekyll-theme-minimal";
 
-#random_winners div, #random_finalists div{
+#random_winners {
+font-size: 1.5em;
+font-weight: bold; 
+}
+
+#random_finalists {
 font-size: 1.5em;
 font-weight: bold; 
 }
