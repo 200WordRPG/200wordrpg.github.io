@@ -13,7 +13,7 @@ Monsters everywhere.  Weapons useless.  Cosmetics stop them.
 Creation
 Give each player two index cards and a pencil.  The players write a type of cosmetic on each card--like nail polish--and then shuffle the cards together.
 
-One player takes a card they like and writes down how the cosmetic affects the gross monsters, then reads the full card.  Another player volunteers to play the character, saying ì[Character name] will champion [cosmetic]!î and describes a special move and their awesome look.  That player repeats the process.  The final card describes what the colony seeks.
+One player takes a card they like and writes down how the cosmetic affects the gross monsters, then reads the full card.  Another player volunteers to play the character, saying ‚Äú[Character name] will champion [cosmetic]!‚Äù and describes a special move and their awesome look.  That player repeats the process.  The final card describes what the colony seeks.
 
 Bonds
 Each player explains how their champion looks up to another and how yet another let the colony down.  These bonds are negotiable; the player who receives the bond writes it down.

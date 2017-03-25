@@ -9,9 +9,9 @@ categories: 2016 rpg
 ```
 For 5+ players.
 
-THE ORGANIZER has called an intervention to confront THE SUBJECT. Everyone else is a ìLOVED ONE.î
+THE ORGANIZER has called an intervention to confront THE SUBJECT. Everyone else is a ‚ÄúLOVED ONE.‚Äù
 
-The organizer wants the subject to do or stop doing THE THING. It can be whateverógoofy or seriousóbut make sure everyoneís comfortable.
+The organizer wants the subject to do or stop doing THE THING. It can be whatever‚Äîgoofy or serious‚Äîbut make sure everyone‚Äôs comfortable.
 
 Send the subject to another room; get them an audio feed. For now, they play THE TALKING PILLOW.
 
@@ -19,11 +19,11 @@ Loved ones each flip a coin to answer these questions, yes or no. Secret until s
 
 - Currently guilty of the thing?
 - Ever been before?
-- Are you personally on the organizerís side?
+- Are you personally on the organizer‚Äôs side?
 
-The organizer produces a (literal) pillow; only the holder may speak. When a loved one (not the organizer) holds it, give them headphones: they can hear ìthe talking pillow.î
+The organizer produces a (literal) pillow; only the holder may speak. When a loved one (not the organizer) holds it, give them headphones: they can hear ‚Äúthe talking pillow.‚Äù
 
-The pillow thinks this whole thing is ridiculous. They may prompt, pry, persuade or distract. They canít be muted. And donít talk to the pillow; thatís just weird.
+The pillow thinks this whole thing is ridiculous. They may prompt, pry, persuade or distract. They can‚Äôt be muted. And don‚Äôt talk to the pillow; that‚Äôs just weird.
 
 Organizer makes sure everyone talks about their feelings at least once. Then, call the subject back. They get the pillow for one final speech.
 

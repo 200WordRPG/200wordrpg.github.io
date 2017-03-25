@@ -7,12 +7,12 @@ link: "https://twitter.com/TimJabs"
 categories: 2016 rpg
 ---
 ```
-ìThey didnít die from cold without.  They died from cold within.î - Timothy Kinney, The Cold Within
+‚ÄúThey didn‚Äôt die from cold without.  They died from cold within.‚Äù - Timothy Kinney, The Cold Within
 
 
 Each of you has been stranded.  You are waiting for rescue, but the Winter Cold is coming.  Whether you survive is up to you.
 
-Each player starts with four sticks.  These are your resources against the cold.  Every round, players choose to contribute zero to four sticks to the fire. Choose in secret.  Reveal simultaneously.  Sticks contributed are discarded  For each stick they contribute, that player rolls one D6.  Add all results - this is you fireís strength.
+Each player starts with four sticks.  These are your resources against the cold.  Every round, players choose to contribute zero to four sticks to the fire. Choose in secret.  Reveal simultaneously.  Sticks contributed are discarded  For each stick they contribute, that player rolls one D6.  Add all results - this is you fire‚Äôs strength.
 
 After the players roll, one player rolls two D6 for the Winter Cold.  If the fire exceeds or ties the cold, all players survive the night.  Begin the next night.  
 

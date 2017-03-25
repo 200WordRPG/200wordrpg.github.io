@@ -11,7 +11,7 @@ Each player writes his character name and some info about it, then all the chara
 
 Get 12 sheets and write on each one of this titles (phases):
 
-Ordinary Hero’s world (introduce the hero)
+Ordinary Heroâ€™s world (introduce the hero)
 Call to Adventure (define the destabilizing facts)
 Refusal to Go
 Meeting the mentor
@@ -20,7 +20,7 @@ Tests to overcome (introduce the ally)
 See the reward and fight for it
 The ultimate fight
 Get the reward
-Return to Hero’s world
+Return to Heroâ€™s world
 The resurrection (the last twist, biggest challenge)
 Enjoy (or hate?) the reward, back to Ordinary World
 

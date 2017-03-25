@@ -7,9 +7,9 @@ link: "no link"
 categories: 2016 supplement
 ---
 ```
-A variant mode of play for "Everyone is John" where the players (IRL) are the Gamemasterís Whims (In the game) and the GM (IRL) is the Players (In the game).
+A variant mode of play for "Everyone is John" where the players (IRL) are the Gamemaster‚Äôs Whims (In the game) and the GM (IRL) is the Players (In the game).
 
-The Whims individually choose a type of RPG they want to run, whether horror, tactical, fantasy, scifi, etc. They conceal this from the other Whims and the Players. Each Whim has 2-3 skills as a Gamemaster, ie ìvoicing NPCsî or ìsetting detailsî. The goal of the Whims is to covertly transform the game into their preferred type while resisting the changes of the other Whimsówhoever makes the most changes that match their preferred game wins. The goal of the Players is to push and test the GMís game and engage in a little catharsis.
+The Whims individually choose a type of RPG they want to run, whether horror, tactical, fantasy, scifi, etc. They conceal this from the other Whims and the Players. Each Whim has 2-3 skills as a Gamemaster, ie ‚Äúvoicing NPCs‚Äù or ‚Äúsetting details‚Äù. The goal of the Whims is to covertly transform the game into their preferred type while resisting the changes of the other Whims‚Äîwhoever makes the most changes that match their preferred game wins. The goal of the Players is to push and test the GM‚Äôs game and engage in a little catharsis.
 ```
 ## Author Comments (if any)
 

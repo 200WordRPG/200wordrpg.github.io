@@ -8,7 +8,7 @@ categories: 2016 rpg
 ---
 ```
 Two players, 1d6 for each. The vertical board of areas from +3 to -3. At 0 Black Gate. Your pawn at +3, mine at -3.Mission track: 7 challenges with levels (CL) 1 to 7.
-We are lovers, family, friends or rivals. Let’s sketch background.
+We are lovers, family, friends or rivals. Letâ€™s sketch background.
  
 You're alive. I tell you what mission you have to accomplish.
 I describe the challenge. Tell me how you're beating it, but if you roll less than CL, it costs you: fall one area, I describe what happened.
@@ -26,4 +26,4 @@ When you/we achieve 7th challenge, the mission is done. - time for final. If it 
 ```
 ## Author Comments (if any)
 
-Main inspirations: The Song of Bêlit, S/Lay w/Me. Thanks to Aleksandra Sontowska for help.
+Main inspirations: The Song of BÃªlit, S/Lay w/Me. Thanks to Aleksandra Sontowska for help.

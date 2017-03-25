@@ -18,7 +18,7 @@ The Old Growth. Each oval borders two squares.
 Everyone names the AREAS. 
 
 Characters sharing an AREA may cooperate or sabotage, 
-adding or subtracting 1 on each other’s rolls. 
+adding or subtracting 1 on each otherâ€™s rolls. 
 
 Enter an unoccupied oval. Take turns...
 Roll a d6. 
@@ -40,7 +40,7 @@ Uninvolved players judge relevance.
    <8>   Succeed. Gain or STRENGTHEN a POSSESSION. 
    <9+> Succeed. Gain or STRENGTHEN a SKILL. 
 
-While you’re in The Old Growth, the player on right narrates great DANGER.
+While youâ€™re in The Old Growth, the player on right narrates great DANGER.
 
 When successful against that DANGER, roll another d6. You narrate... 
    <1>  Death. 

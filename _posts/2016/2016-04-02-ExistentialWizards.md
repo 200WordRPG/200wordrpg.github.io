@@ -12,7 +12,7 @@ Philosophers, poets, junkies seeing the pearlescent pus of being.
 
 You looked behind the muddied veil of reality: no true forms, no hidden rainbows... only hungry Void.
 
-You weren’t the first. You won’t be the last. You haven’t killed yourself, that’s a start.
+You werenâ€™t the first. You wonâ€™t be the last. You havenâ€™t killed yourself, thatâ€™s a start.
 
 Now, go fix the trouble you made.
 

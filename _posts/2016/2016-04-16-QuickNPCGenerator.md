@@ -16,7 +16,7 @@ How do they know the player characters?
 What immediate trouble or danger are they in?
 What do they want from the player characters? What are they willing to do in order to get it?
 Name at least two other people that they have strong feelings for, or who have strong feelings for them. Explain why this is the case.
-What interesting and dramatic thing will they do soon (or will happen to them) if the player characters don’t intervene somehow?
+What interesting and dramatic thing will they do soon (or will happen to them) if the player characters donâ€™t intervene somehow?
 What information do they know that would be of great interest to the player characters?
 Why should the players care about what happens to this NPC?
 What things are they really good at?

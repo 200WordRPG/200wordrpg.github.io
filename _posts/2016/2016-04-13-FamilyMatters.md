@@ -17,7 +17,7 @@ Each candidate starts with 3 Favour (tokens), 2 loyal (red) and 2 disloyal (blac
  
 -1st Round-
 The Donna, going clockwise, asks the candidates about a past incident where all candidates present were involved. The candidates then, in order, tell their part of the story, focusing on their loyalty. (Snide remarks and comments are encouraged.)
-Judging the others’ performance and Donna’s reaction, the candidates now put a card face down in front of them. The Donna chooses the best tales (half the candidates, rounded down) and puts a Favour on their card. The rest are contested. All cards remain face down in front of the candidates.
+Judging the othersâ€™ performance and Donnaâ€™s reaction, the candidates now put a card face down in front of them. The Donna chooses the best tales (half the candidates, rounded down) and puts a Favour on their card. The rest are contested. All cards remain face down in front of the candidates.
  
 -2nd Round-
 Repeat, but anti-clockwise.

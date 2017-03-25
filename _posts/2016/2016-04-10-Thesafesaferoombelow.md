@@ -7,19 +7,19 @@ link: "https://www.tipeee.com/khelren"
 categories: 2016 rpg
 ---
 ```
-It’s a cellar, maybe a bunker. Inside, we’re safe. We have food. Water. Air. Maybe a little privacy. Outside… We don’t talk about the outside.
+Itâ€™s a cellar, maybe a bunker. Inside, weâ€™re safe. We have food. Water. Air. Maybe a little privacy. Outsideâ€¦ We donâ€™t talk about the outside.
 
 This is a 2-players game.
-One player is the bunker’s owner; the other their guest, lucky to be alive.
+One player is the bunkerâ€™s owner; the other their guest, lucky to be alive.
 
 
 Setup
-The owner decides how’s the outside. What really happened? Write it down secretly.
+The owner decides howâ€™s the outside. What really happened? Write it down secretly.
 Write what is needed to survive outside, if something is needed, but play honestly: there is a clue about it in the bunker.
-Announce “something” that allows you to be in charge and to prevent any escape.
+Announce â€œsomethingâ€ that allows you to be in charge and to prevent any escape.
 
-The guest then announces how they think they’ve been dragged down here.
-Announce which “skill” you have that would be useful to escape or to survive outside.
+The guest then announces how they think theyâ€™ve been dragged down here.
+Announce which â€œskillâ€ you have that would be useful to escape or to survive outside.
 Tell the owner what makes you fear them.
 
 

@@ -11,14 +11,14 @@ Its field trip day and you know what that means! Another day of trying to surviv
 
 
 
-One person plays Ms. Frazzle and acts as the narrator for the game’s events.
+One person plays Ms. Frazzle and acts as the narrator for the gameâ€™s events.
 Her Objective: Finish a grade school lesson for at least one student.
-Power: Magical Iguana interference – once per fieldtrip make a student(s) reroll their dice.
+Power: Magical Iguana interference â€“ once per fieldtrip make a student(s) reroll their dice.
 
 Everyone else plays a Student.
 Their Objective: Survive the fieldtrip.
-Power: Catchphrase – Once per game each student can say their catch phrase to avoid dying.
-Power: Teamwork – Twice per game the class can have two students each roll a d8 and add their rolls together to complete a task.
+Power: Catchphrase â€“ Once per game each student can say their catch phrase to avoid dying.
+Power: Teamwork â€“ Twice per game the class can have two students each roll a d8 and add their rolls together to complete a task.
 
 
 

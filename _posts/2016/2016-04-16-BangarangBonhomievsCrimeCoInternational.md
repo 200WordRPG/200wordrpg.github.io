@@ -13,13 +13,13 @@ Hypercompetent: Each player writes 4 radical Occupations (e.g., samurai, neurosu
 
 Nonsense: Each player writes 2 silly Crimes (e.g., steal Dollywood, delete the alphabet). Shuffle [Crime] cards. 
 
-Intro: ìYou are all [Occupation], sworn to battle CrimeCo International. Bangarangís been captured! Time to get to work.î
+Intro: ‚ÄúYou are all [Occupation], sworn to battle CrimeCo International. Bangarang‚Äôs been captured! Time to get to work.‚Äù
 
 Montage: Each player draws 2 [Occupation] and adds those to their character. Introduce the team in a cool montage sequence: show off their skills and give them names!
 
-Turn Order: Pick a player to Lead. They narrate the scene and the opposition. The Leader draws a [Crime] - thatís CrimeCoís goal. The other players narrate their characters Crime-fighting actions!
+Turn Order: Pick a player to Lead. They narrate the scene and the opposition. The Leader draws a [Crime] - that‚Äôs CrimeCo‚Äôs goal. The other players narrate their characters Crime-fighting actions!
 
-Resolution: When the scene reaches a climax, the Lead player and the player to their right battle best-of-3 Rock, Paper, Scissors. Narrate each success, failure and stalemate. Should stalemates ìwinî, the player to the Leaderís left Interferes; drawing an [Occupation] and [Crime] and describing the new Interference. End the Scene; play order rotates. 
+Resolution: When the scene reaches a climax, the Lead player and the player to their right battle best-of-3 Rock, Paper, Scissors. Narrate each success, failure and stalemate. Should stalemates ‚Äúwin‚Äù, the player to the Leader‚Äôs left Interferes; drawing an [Occupation] and [Crime] and describing the new Interference. End the Scene; play order rotates. 
 
 Scenes:
 1. Accidental Encounter with CrimeCo!
@@ -28,7 +28,7 @@ Scenes:
 
 Showdown!: Rescue Bangarang and Montage your victory!
 
-Sequel: Title Bangarangís next adventure. Reuse your best cards!
+Sequel: Title Bangarang‚Äôs next adventure. Reuse your best cards!
 ```
 ## Author Comments (if any)
 

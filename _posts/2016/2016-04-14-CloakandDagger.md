@@ -7,7 +7,7 @@ link: "https://tapastic.com/episode/94988"
 categories: 2016 rpg
 ---
 ```
-You and some acquaintances have gathered in the parlor and hear a strange recording. One of you has arranged a macabre game of Twenty Questions--and one of you has a secret beyond that unlocked door they’d kill to keep!
+You and some acquaintances have gathered in the parlor and hear a strange recording. One of you has arranged a macabre game of Twenty Questions--and one of you has a secret beyond that unlocked door theyâ€™d kill to keep!
 
 Goals:
 
@@ -34,7 +34,7 @@ In addition to normal Actions, the Mastermind may Dim The Lights at end of turn.
 By Crook: 1 player is thrown into the manor for 2 turns.
 
 By Hook: A Trap activates, target rolls d10 under lowest stat or die.
-Game ends when door opens, either by player at 0 San (opener loses 3 Inn.), or by choice (must be announced previous turn). Player with lowest Inn. has their secret revealed--that player’s Enemy (if alive) wins!
+Game ends when door opens, either by player at 0 San (opener loses 3 Inn.), or by choice (must be announced previous turn). Player with lowest Inn. has their secret revealed--that playerâ€™s Enemy (if alive) wins!
 
 
 Name

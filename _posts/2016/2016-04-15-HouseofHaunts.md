@@ -23,7 +23,7 @@ Players decide which leader they will follow, forming groups.
 
 Leaders explain the actions of their group attempting to survive the room.
 
-The judge will listen to each leader’s explanation. Based on creativity, common sense, and problem solving, the judge will give each leader’s group a sanity bonus or penalty, between +3 and -3. 
+The judge will listen to each leaderâ€™s explanation. Based on creativity, common sense, and problem solving, the judge will give each leaderâ€™s group a sanity bonus or penalty, between +3 and -3. 
 
 Players roll a 6 sided die. Their character loses sanity equal to the roll.
 

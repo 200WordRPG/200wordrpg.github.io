@@ -11,7 +11,7 @@ Find the Truth and write investigation news article in 6 steps.
 
 Select an article about an unsolved case in the daily press.
 
-Each player create a character who seeks the Truth about the article (journalist, family, victim, activist, …)
+Each player create a character who seeks the Truth about the article (journalist, family, victim, activist, â€¦)
 
 Each player gets 3 token.
 - Contact (someone who can help)

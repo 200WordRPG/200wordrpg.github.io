@@ -10,7 +10,7 @@ categories: 2016 rpg
 No loot, no problem
 
 EACH
-What…?
+Whatâ€¦?
   is your speciality
   is your temperament
   mutation made you an outcast
@@ -19,7 +19,7 @@ What…?
 Why should you be captain?
 
 TOGETHER
-What is your spacecraft’s…?
+What is your spacecraftâ€™sâ€¦?
   special weapon
   weakness
   name
@@ -29,18 +29,18 @@ Elect the captain
 ROUND
 Tell something (event, your action, ambiance...) related to the current chapter.
 Roll a dice, the previous player interprets an unexpected:
-    1-2: problem (spotted, malfunction, mutation triggered, hurt, misunderstanding…)
-    5-6: advantage (ally, tool, secret, knowledge, position, luck…)
+    1-2: problem (spotted, malfunction, mutation triggered, hurt, misunderstandingâ€¦)
+    5-6: advantage (ally, tool, secret, knowledge, position, luckâ€¦)
 The next player takes his turn.
 
 Change chapter when you wish.
 
 Chapters:
-A - The target you found (cover, type, design, defence, potential booty, activity, location…)
-B - The way you board the target (violently, stealthy, deception…) 
-C - How you loot and what (approach, recovery, carriage…)
+A - The target you found (cover, type, design, defence, potential booty, activity, locationâ€¦)
+B - The way you board the target (violently, stealthy, deceptionâ€¦) 
+C - How you loot and what (approach, recovery, carriageâ€¦)
 D - Roll a dice:
-   1: The target’s boss and his team intervene
+   1: The targetâ€™s boss and his team intervene
    2: The loot is not what it seemed and is a threat
    3: One of you is a traitor and triggers his trap
    4: A space horror has colonized the target and attacks

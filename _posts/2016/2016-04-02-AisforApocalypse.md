@@ -9,9 +9,9 @@ categories: 2016 rpg
 ```
 A is for Apocalypse is a roleplaying game for one or more players. It is a simple game of letters.
 
-One player begins by saying ìA is for Apocalypseî,and then they describe the nature of the apocalypse. It could be a world-spanning catastrophe, a small domestic one or even an internal one. Use no more than one sentence. Talk for no more than one breath.
+One player begins by saying ‚ÄúA is for Apocalypse‚Äù,and then they describe the nature of the apocalypse. It could be a world-spanning catastrophe, a small domestic one or even an internal one. Use no more than one sentence. Talk for no more than one breath.
 
-The second player (or the first, if playing alone), responds with ìB is for Butî and explains how they have, at least at first, survived the onslaught.
+The second player (or the first, if playing alone), responds with ‚ÄúB is for But‚Äù and explains how they have, at least at first, survived the onslaught.
 
 Players then proceed like this through the alphabet, starting each new sentence with a subsequent letter. Each odd letter introduces a new fact about the apocalypse or a situation within it, an outside effect applying pressure upon the protagonist. The even letters describe how the protagonist resists or overcomes this struggle. 
 

@@ -22,17 +22,17 @@ Background: How they grew up.
 Drive: What they want to do. Why they want to do it.
 Treasure: The thing or person they have that matters to them most.
 
-Each Counterpart chooses a Hero. When the Heroes enter a new dimension, the Counterparts play alternate versions of the Hero they’ve chosen.
+Each Counterpart chooses a Hero. When the Heroes enter a new dimension, the Counterparts play alternate versions of the Hero theyâ€™ve chosen.
 
 Gameplay:
 The session starts with an establishing scene where the Heroes find a portal to a different dimension.
 
 To decide which dimension, roll a d4:
 
-1: Success. Each Counterpart has accomplished their Hero’s Drive.
-2: Failure. Each Counterpart has failed or given up on achieving their Hero’s Drive.
-3: New Past. Each Counterpart changes a key detail of their Hero’s Background.
-4: Tragedy. Each Counterpart has lost their Hero’s Treasure.
+1: Success. Each Counterpart has accomplished their Heroâ€™s Drive.
+2: Failure. Each Counterpart has failed or given up on achieving their Heroâ€™s Drive.
+3: New Past. Each Counterpart changes a key detail of their Heroâ€™s Background.
+4: Tragedy. Each Counterpart has lost their Heroâ€™s Treasure.
 
 The Heroes and Counterparts roleplay a scene where they meet. Introduce a conflict based on the differences between these characters. Decide together on a resolution.
 

@@ -14,9 +14,9 @@ RULES
 1. Separate card deck into Diamonds (RESULT) and Clubs (ACTION).
 2. Shuffle decks separately. Place face down in two stacks.
 3. Choose an adventure start:
- “Opens the door into the depths…”
- “Heads into enemy headquarters…”
- “Enters the desolate space station…”
+ â€œOpens the door into the depthsâ€¦â€
+ â€œHeads into enemy headquartersâ€¦â€
+ â€œEnters the desolate space stationâ€¦â€
 4. Go clockwise while cards remain:
  a. Reveal Diamond card.
  b. Look up RESULT cue.

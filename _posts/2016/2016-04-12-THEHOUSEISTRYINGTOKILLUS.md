@@ -22,9 +22,9 @@ Repeat in next two rooms moving away from Exit.
  
 PLAY:
  
-Each player's turn, Poltergeist draws three cards at random from the room’s deck.
+Each player's turn, Poltergeist draws three cards at random from the roomâ€™s deck.
  
-Taking turns, Victims walk cautiously across the room until Poltergeist says “DANGER!” and narrates one of the Hazards in hand.
+Taking turns, Victims walk cautiously across the room until Poltergeist says â€œDANGER!â€ and narrates one of the Hazards in hand.
  
 Victim decides to STOP, DODGE, or RUN.  
 
@@ -35,7 +35,7 @@ If RUN is correct, Take 3 more steps, end turn. Incorrect: Flip coin... HEADS-Fa
 
 Turn Ends= discard used hazards, reshuffle unused.  
 Five Wounds= incapacitated/dead
-Cross threshold= use next room’s deck
+Cross threshold= use next roomâ€™s deck
 Exit = Survival!
 
 ```

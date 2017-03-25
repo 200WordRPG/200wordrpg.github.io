@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Emperor’s death by the hands of his wives"
+title: "The Emperorâ€™s death by the hands of his wives"
 date: 2016-04-12
 author: "Nick Wedig"
 link: "http://nickwedig.libraryofhighmoon.com/"
@@ -13,7 +13,7 @@ Emperor Terenghast conquers many kingdoms, forcing noblewomen to marry him again
 
 
 
-One player plays Terenghast and his entire empire.  The other players play Terenghast’s wives conspiring to assassinate him.
+One player plays Terenghast and his entire empire.  The other players play Terenghastâ€™s wives conspiring to assassinate him.
 
 
 Ladies, your trust level starts at 6.  
@@ -22,10 +22,10 @@ Decide:
 How does the emperor oppress your friends and family?
 What factor complicates your assassination plans?
 What skill have you mastered?
-What’s your part of the assassination plan?
+Whatâ€™s your part of the assassination plan?
 
 
-When you attempt something risky or sneaky, Terenghast’s player names a potential negative consequence, and so do you.  Roll 3d6. 
+When you attempt something risky or sneaky, Terenghastâ€™s player names a potential negative consequence, and so do you.  Roll 3d6. 
 
 When you use the skill you have mastered, you may reroll any 1s you choose.
 

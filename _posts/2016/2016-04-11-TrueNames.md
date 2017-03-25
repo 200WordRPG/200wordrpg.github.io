@@ -7,23 +7,23 @@ link: "no link"
 categories: 2016 rpg
 ---
 ```
-You and some other demons have a most sinister tea party. Youíre plotting to learn their names, to gain control over them. Careful! They had the same idea...
+You and some other demons have a most sinister tea party. You‚Äôre plotting to learn their names, to gain control over them. Careful! They had the same idea...
 
-Secretly write your 10-letter name. Your name has no triplets of vowels or consonants (for balance, yís a vowel).
+Secretly write your 10-letter name. Your name has no triplets of vowels or consonants (for balance, y‚Äôs a vowel).
 
 Examples: Bartolomew, Tzyarkaist, Qqaqaaqaqq
 
-You keep different papers for each demon. On your turn, write a letter of your name and its position thatís unknown to one demon on their scrap and show them. If itís:
-- A vowel, plus ìconsonantî/ìvowelî: They write one from their name you donít know, if possible (not its position).
+You keep different papers for each demon. On your turn, write a letter of your name and its position that‚Äôs unknown to one demon on their scrap and show them. If it‚Äôs:
+- A vowel, plus ‚Äúconsonant‚Äù/‚Äúvowel‚Äù: They write one from their name you don‚Äôt know, if possible (not its position).
 - A consonant, plus a letter you think/know they have: They write a position it occurs in if possible.
-- Anything plus your guess for their name and round number, they say if youíre right.
+- Anything plus your guess for their name and round number, they say if you‚Äôre right.
 
-You are bound to be truthful and use pen when doing the above, but you may speak or pass pencil notes unhindered. Pen magic gives more info than it gleans; youíll need to... ugh... cooperate.
+You are bound to be truthful and use pen when doing the above, but you may speak or pass pencil notes unhindered. Pen magic gives more info than it gleans; you‚Äôll need to... ugh... cooperate.
 
 Whenever:
 - Someone learns your name, gain -2 points
 - You learn a name, gain 1 point
-- You know every demonís name, gain 100 points, and the game ends.
+- You know every demon‚Äôs name, gain 100 points, and the game ends.
 ```
 ## Author Comments (if any)
 

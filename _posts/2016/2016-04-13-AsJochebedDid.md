@@ -10,8 +10,8 @@ categories: 2016 rpg
 For four to six players, takes about one hour.
 Characters have placed their newborn babies in woven arks of bulrushes (c.f. Exodus 2) and set them adrift into a river.
 The game is played in five rounds.  During a round, players take turns narrating events.  In turn one, explain why the action was necessary and what the character hopes will happen.  In turn two, explain what happens to the newborn.  In turn three, explain who draws the baby from the water.  In turn four, explain how they react to the baby.  In turn five, explain how the baby grows up.
-Starting in round two, during each playerís turn in each remaining round, another player should interject a possible narrative complication.  One player should not repeatedly ìcomplicateî the same other playerís story; everyone should engage with everyone else.  The complication can be accepted or opposed.
-Players start with a 12î long piece of string.  For opposed complications, opponents cut a piece from their string in secret ñ and then compare cut pieces.  The longest cut piece gains narrative ascendancy; the cut pieces are discarded.  No more string means no more influence.
+Starting in round two, during each player‚Äôs turn in each remaining round, another player should interject a possible narrative complication.  One player should not repeatedly ‚Äúcomplicate‚Äù the same other player‚Äôs story; everyone should engage with everyone else.  The complication can be accepted or opposed.
+Players start with a 12‚Äù long piece of string.  For opposed complications, opponents cut a piece from their string in secret ‚Äì and then compare cut pieces.  The longest cut piece gains narrative ascendancy; the cut pieces are discarded.  No more string means no more influence.
 ```
 ## Author Comments (if any)
 

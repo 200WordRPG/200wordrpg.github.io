@@ -7,7 +7,7 @@ link: "http://www.meetup.com/de-DE/Story-Games-Vienna/"
 categories: 2016 rpg
 ---
 ```
-Setup: You’re all here to find someone dead. You want closure with them. You can reach them using a mask. Everyone has one deceased they want to contact. 
+Setup: Youâ€™re all here to find someone dead. You want closure with them. You can reach them using a mask. Everyone has one deceased they want to contact. 
 
 Take turns: Say your name. Say who you are. Say who you lost. What were they to you? Say what you need from them. 
 
@@ -21,4 +21,4 @@ End when everyone is dead, or someone has found closure with their deceased.
 ```
 ## Author Comments (if any)
 
-I like ghosts and ghost stories. I thought of this game after I played "Old Friends" by Jason Morningstar and Ole Peder Giaever at Fastaval. It's a mix of a séance, the myth of Orpheus and Euridice, and a murderous ghost story. 
+I like ghosts and ghost stories. I thought of this game after I played "Old Friends" by Jason Morningstar and Ole Peder Giaever at Fastaval. It's a mix of a sÃ©ance, the myth of Orpheus and Euridice, and a murderous ghost story. 

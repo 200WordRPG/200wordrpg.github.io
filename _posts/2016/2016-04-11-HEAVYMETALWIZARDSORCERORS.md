@@ -29,11 +29,11 @@ Thunder
  
 Assign to each a number between 1 and 4 so that they all add up to 25.
  
-Every time your Rocker wants to cast a spell, string three Words in a phrase that sounds like the title of a metal song (ìI cast Blood of the Death Dragon!î), add their scores and roll that many d6s. If you rolled at least a 6, the spell succeeds. In a conflict against other Rockers (or Popstars!), whoever rolls more 6s wins and gets to decide what happens.
+Every time your Rocker wants to cast a spell, string three Words in a phrase that sounds like the title of a metal song (‚ÄúI cast Blood of the Death Dragon!‚Äù), add their scores and roll that many d6s. If you rolled at least a 6, the spell succeeds. In a conflict against other Rockers (or Popstars!), whoever rolls more 6s wins and gets to decide what happens.
  
-The effect of the spell must be related to the three words used. The Master of Metal (the GM) can veto a spell that makes no sense (ìuncoolî).
+The effect of the spell must be related to the three words used. The Master of Metal (the GM) can veto a spell that makes no sense (‚Äúuncool‚Äù).
  
-If you roll three 6s, airguitar and increase one Wordís score by 1.
+If you roll three 6s, airguitar and increase one Word‚Äôs score by 1.
 ```
 ## Author Comments (if any)
 

@@ -12,7 +12,7 @@ Draw cards covered.
 
 
 Preparation:
-The oldest player picks up an object (lamp, book, uncle...): “Something's wrong with [this].”
+The oldest player picks up an object (lamp, book, uncle...): â€œSomething's wrong with [this].â€
 
 
 Round 1:
@@ -20,11 +20,11 @@ A) Each player... Confirms, Denies or Acts.
 
 Confirm: describe something else that's wrong about [this]; +1 card.
 Deny there's anything wrong: nothing wrong happens in your (B).
-Act (e.g. “I burn it”) to slow down the Wrong. Draw and reveal a card, read the result; +2 cards.
+Act (e.g. â€œI burn itâ€) to slow down the Wrong. Draw and reveal a card, read the result; +2 cards.
 
 Card results:
 2-9: You're Safe.
-J/Q: You're Damaged (from next Turn, read J/Q as “Gone”).
+J/Q: You're Damaged (from next Turn, read J/Q as â€œGoneâ€).
 K/A: You're Wrong (subtly transformed, mad...).
 
 B) Each non-Denying Player draws a card, reveals it. If he doesn't like it, he reveals one of his until he accept his fate. Discarded cards make up the Wrong Deck.

@@ -27,7 +27,7 @@ Roll >= current track number: describe how the situation resolves, present new s
 
 Roll < current track number: describe how the situation intensifies, play passes to left.
 
-If you use lyrics from presently-playing song to describe your PC’s action, choose whether situation resolves or intensifies (no roll).
+If you use lyrics from presently-playing song to describe your PCâ€™s action, choose whether situation resolves or intensifies (no roll).
 
 When the album ends, game finishes with plot unresolved; window on characters' world has closed. To play longer, pick album in same musical genre, adjust randomiser, and keep going. For a shorter game, play only one side of an LP or cassette.
 ```

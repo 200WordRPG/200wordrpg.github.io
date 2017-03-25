@@ -7,7 +7,7 @@ link: "http://wickedproblems.co.uk"
 categories: 2016 rpg
 ---
 ```
-Use this to tell stories in worlds of systemic inequality where you’re fighting the power.
+Use this to tell stories in worlds of systemic inequality where youâ€™re fighting the power.
 
 You can use any setting you like for this.  The key thing is that it needs some fundamental unfairness and oppression in it, as this game is about exploring the effects of privilege and pushing back against it.
 

@@ -7,10 +7,10 @@ link: "itsdanphipps.tumblr.com/games"
 categories: 2016 rpg
 ---
 ```
-Our history is lost. Humanity survives with what’s left of ancient technology from Before. A new mine has been uncovered, miles of frozen wires and automated security, rich with hard drives to build your village library.
+Our history is lost. Humanity survives with whatâ€™s left of ancient technology from Before. A new mine has been uncovered, miles of frozen wires and automated security, rich with hard drives to build your village library.
 
 
-Describe 4 events from your character’s life in the village, how you know the villager to your left, and the piece of equipment you brought with you.
+Describe 4 events from your characterâ€™s life in the village, how you know the villager to your left, and the piece of equipment you brought with you.
 
 
 A player rolls a die each time they enter an unexplored room, and describes the hazards within. The players may surface, or may attempt to overcome the hazard. They roll a die, and add 1 to their roll if an event or their equipment will help. If they roll higher, the hazard is dismantled. If not, they are wounded and must erase an event or perish if unable to do so.

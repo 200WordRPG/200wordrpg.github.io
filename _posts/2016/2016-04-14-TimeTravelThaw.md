@@ -7,7 +7,7 @@ link: "https://theyoungandthebrave.wordpress.com/"
 categories: 2016 rpg
 ---
 ```
-The perfidious proprietor of peril – Professor Pandemonium has traveled BACK TO THE PAST to ERASE FROM TIME the superhero team that has prevented her previous plots of pugnacity. Only our heroes can rescue themselves by following the precocious professor BACK IN TIME and stopping her pernicious plans.
+The perfidious proprietor of peril â€“ Professor Pandemonium has traveled BACK TO THE PAST to ERASE FROM TIME the superhero team that has prevented her previous plots of pugnacity. Only our heroes can rescue themselves by following the precocious professor BACK IN TIME and stopping her pernicious plans.
 
 Players write down 3 powers on a shared piece of paper towel. Use colored markers to distinguish between heroes. Make sure to spread them out across the paper towel. Assign a point value of 2, 3, or 4 to each power (example: perfect hair-2, scent of vanilla-3, instant sunburn-4).
 

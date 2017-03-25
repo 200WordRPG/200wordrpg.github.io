@@ -11,9 +11,9 @@ Entrenched: An Underwater Adventure
 Taylor LaBresh
 
 
-ìBack when I had all me teeth, battle raged. The spoils sunk to the depths, my ship included. Donít ask how I escaped. Bring me a small amulet and keep the rest.î
+‚ÄúBack when I had all me teeth, battle raged. The spoils sunk to the depths, my ship included. Don‚Äôt ask how I escaped. Bring me a small amulet and keep the rest.‚Äù
 
-The Old Woman built pressure suits with air tanks, but itís taken decades and sheís too frail to go.
+The Old Woman built pressure suits with air tanks, but it‚Äôs taken decades and she‚Äôs too frail to go.
 
 Difficult weather challenges PCs. Once at the site, they sink into the deep.
 
@@ -21,7 +21,7 @@ Reefs grow on war-machines. Predators hunt & skeletons patrol. Light is dim if p
 
 PCs approach the biggest wreck. A Skeleton approaches. If they fight she calls sharks, coral golems, other skeletons to aid her. If they talk, she tries to get PCs to leave.
 
-She was once wedded to The Old Woman. They celebrated their marriage with an enchanted amulet. The amuletís energy keeps the reef alive. The PCs could take the amulet by force, through charm, or they could leave.
+She was once wedded to The Old Woman. They celebrated their marriage with an enchanted amulet. The amulet‚Äôs energy keeps the reef alive. The PCs could take the amulet by force, through charm, or they could leave.
 
 If the amulet leaves, all reef life collapses. Wrecks crumble and sink into the muck.
 

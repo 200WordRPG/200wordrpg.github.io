@@ -17,13 +17,13 @@ Setup
   Wear something nice.
   Assign three PI players and a Detective.
     The PI interrogated by the Detective. (Arrange two chairs facing each other.)
-    The PI’s inner voice is the Narrator. (Decide a spot for the Narrator to be in.)
+    The PIâ€™s inner voice is the Narrator. (Decide a spot for the Narrator to be in.)
     The PI working on the case. (Mark a stage where the meetings and events can be played/acted out.)
   The remaining players play the people the PI meets.
   Put on some noir jazz.
   Have a whiskey.
 
-The game starts when the Narrator says “So there I was, being questioned about the events of last night.”
+The game starts when the Narrator says â€œSo there I was, being questioned about the events of last night.â€
 
 Play scenes
   The Detective asks three questions and the PI in the chair answers the first two of them.
@@ -32,7 +32,7 @@ Play scenes
 
 Swap roles as you please during the game.
 
-The game ends when the Detective says “You’re free to go.”
+The game ends when the Detective says â€œYouâ€™re free to go.â€
 
 Have another whiskey.
 

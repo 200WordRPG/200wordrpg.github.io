@@ -15,11 +15,11 @@ You are standing at a gate between dimensions (like a bus stop or airport). Draw
 
 If your Fellow Traveler is physically present, you can talk about your joint exploits or exploits enacted independently of each other.
 
-If someone looks at you funny, they may be an agent of your Nemesis, an interdimensional traveler with whom you have a rivalry. Disguise your actions by prefacing your descriptions with ìin this video game I was playing...î That or stop playing for a while.
+If someone looks at you funny, they may be an agent of your Nemesis, an interdimensional traveler with whom you have a rivalry. Disguise your actions by prefacing your descriptions with ‚Äúin this video game I was playing...‚Äù That or stop playing for a while.
 
 Your Fellow Traveler may ask any questions they wish; do your best to answer them.
 
-Whether youíre wearing your medal of bravery as all the animals tearfully wave goodbye, or being chased even now by an angry mob wielding laser pitchforks, enjoy the ride!
+Whether you‚Äôre wearing your medal of bravery as all the animals tearfully wave goodbye, or being chased even now by an angry mob wielding laser pitchforks, enjoy the ride!
 
 ```
 ## Author Comments (if any)

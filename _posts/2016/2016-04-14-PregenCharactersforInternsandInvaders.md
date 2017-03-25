@@ -15,7 +15,7 @@ Tell Me (+1): I am a college junior looking for experience in communications.
 
 Strength (+1): My attention to detail.
 
-Weakness (-1): I’m a perfectionist and can take too long.
+Weakness (-1): Iâ€™m a perfectionist and can take too long.
 
 Five Years (+1): I see myself in a leadership position.
 

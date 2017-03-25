@@ -20,4 +20,4 @@ Players take turns telling the story, sentence by sentence:
 ```
 ## Author Comments (if any)
 
-This game can be made more roleplay-focused (and more competitive) by emphasizing the fact that each player would like their own part in the story to be the most impressive. The players can also tell the story in third person instead of first, with the roleplay element either removed or changed – consider playing as scholars, trying to piece together an account of a historical event.
+This game can be made more roleplay-focused (and more competitive) by emphasizing the fact that each player would like their own part in the story to be the most impressive. The players can also tell the story in third person instead of first, with the roleplay element either removed or changed â€“ consider playing as scholars, trying to piece together an account of a historical event.

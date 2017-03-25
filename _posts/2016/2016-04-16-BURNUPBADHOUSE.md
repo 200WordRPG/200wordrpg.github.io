@@ -19,11 +19,11 @@ Do this daily:
 1) Light a flame
 2) Pick a place
 3) Remember something that happened there. Draw it. Whisper it to the flame
-4) Do you feel something? Something real? If you don’t, skip to step 6
+4) Do you feel something? Something real? If you donâ€™t, skip to step 6
 5) Cut out the place. Burn it
 6) Blow out the flame. Hide the house under your pillow.
 
-If you don’t burn anything for three days, burn the whole house.
+If you donâ€™t burn anything for three days, burn the whole house.
 If anyone else finds out about this game, burn the whole house.
 
 When the house is all gone, stop playing.

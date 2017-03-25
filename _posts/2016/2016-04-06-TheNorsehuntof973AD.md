@@ -34,7 +34,7 @@ Discard a cents coin to recover 1 Stamina, 6 is maximum. 1 rest scene recovers 3
 End of scene: 
 Discard Scene token. Discard one Lead token if Norsemen are not mounted. Players (and their horses) each discard one Stamina die. 
 
-No Stamina = Valhalla. No Lead = big fight. No Scenes = you’ve reached Safety.
+No Stamina = Valhalla. No Lead = big fight. No Scenes = youâ€™ve reached Safety.
 
 Encounters: Peasant 1S, Hunter 2S1W, Warrior 3S2W, Warlord 6S3W. Wolf 1S1W, Horse 3S, Bear 8S2W. Group adds +4S.
 ```

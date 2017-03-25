@@ -17,9 +17,9 @@ One player is Camerlengo Blort.  Blort runs the LARP.  Blort cannot be Space Pop
  
 All players begin chit chat.  Influence others for votes.  One may promise anything for votes, but if the camerlengo hears you offer money (simony), you are out of the game.
  
-At Blortís discretion, conclave can be commenced.  No one may leave (medical need excluded).  Everyone takes the oath:
+At Blort‚Äôs discretion, conclave can be commenced.  No one may leave (medical need excluded).  Everyone takes the oath:
  
-ìBy the ineffable Holy Blarg, Father of Xendar, and her children the many moons of Jupiter, I hearby swear XANTHINE QUALINTONE MORK AND MINDY.  So holp me Xendar.  Amen.î
+‚ÄúBy the ineffable Holy Blarg, Father of Xendar, and her children the many moons of Jupiter, I hearby swear XANTHINE QUALINTONE MORK AND MINDY.  So holp me Xendar.  Amen.‚Äù
  
 Then take turns giving 5 minute speeches.
  

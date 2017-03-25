@@ -34,4 +34,4 @@ Inspiration:
 Three things to consider:
 - The death of a Torment is not the end! There's flashbacks, undeath, resurrection, reincarnation, regeneration, etc.
 - When it's not your turn, your best chances of being voted in the end come if you force the active player to hurt the innocent or their loved things. Push them hard!
-- Hurting someone needn’t be like, literally hurting them. You can hurt their emotions, their economy, their reputation, anything!
+- Hurting someone neednâ€™t be like, literally hurting them. You can hurt their emotions, their economy, their reputation, anything!

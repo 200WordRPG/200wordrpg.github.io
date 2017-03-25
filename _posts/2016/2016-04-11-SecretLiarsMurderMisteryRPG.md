@@ -13,7 +13,7 @@ Each player begin to investigate about each other.
 
 Take a card for each player including an ace of spades. 
 Shuffle the cards and distribute them, one to each player.
-Everyone watch his card and don’t reveal it.
+Everyone watch his card and donâ€™t reveal it.
 
 Each player write down one sentence for each other player. 
 Each sentence is a story that can be a Secret or a Lie.

@@ -7,11 +7,11 @@ link: "no link"
 categories: 2016 supplement
 ---
 ```
-At roleplaying conventions, there are often trophies, awards or prizes given to the ìbest playersî.
+At roleplaying conventions, there are often trophies, awards or prizes given to the ‚Äúbest players‚Äù.
 Your task is to get those trophies. But not as yourself.
 From the time you enter the game, you will not be playing the game as yourself but as one of the archetypes listed below. Your fellow players will choose different archetypes.
 You win if you win a trophy while roleplaying as this archetype. 
-You lose if the GM realizes that youíre taking the piss.
+You lose if the GM realizes that you‚Äôre taking the piss.
 
 Choose (or create) an archetype:
 The Cipher: You always need to know more information. Ask another question for the GM to elaborate the scene.

@@ -9,17 +9,17 @@ categories: 2016 rpg
 ```
 Relive the death, glory, blood and sand of the gladiatorial arenas of Ancient Rome! Nos Morituri uses a single d6.
 
-One player is the Emperor, who the others salute with ìAve, Imperator, morituri te salutant!î (Hail, Emperor, those who are about to die salute you!). The Emperor responds ìAvete vos!î (Fare you well!) and the games begin.
+One player is the Emperor, who the others salute with ‚ÄúAve, Imperator, morituri te salutant!‚Äù (Hail, Emperor, those who are about to die salute you!). The Emperor responds ‚ÄúAvete vos!‚Äù (Fare you well!) and the games begin.
 
 The Emperor declares the type of match; gladiator vs gladiator in even or uneven teams; gladiators vs beasts, slaves or criminals, or the re-enactment of historic battles. Describe the pomp and ceremony in loving detail. 
 
-Players take turns describing their gladiatorís grand entrance to the arena, and then all roll their die.
+Players take turns describing their gladiator‚Äôs grand entrance to the arena, and then all roll their die.
 
 The lowest rolling player dies first, and chooses their killer and the manner of their passing. Be visceral; last words and glorious deaths are a chance at immortality!
 
 The next lowest then describes their death, and so on. If gladiators tie they die simultaneously, locked together in bitter struggle or back to back against enemies.
 
-Gladiators who match the Emperorís die may be spared, by the cheering crowd and the turn of a thumb. 
+Gladiators who match the Emperor‚Äôs die may be spared, by the cheering crowd and the turn of a thumb. 
 
 Survivors are showered in glory, take a -1 penalty on their die, and fight again. 
 

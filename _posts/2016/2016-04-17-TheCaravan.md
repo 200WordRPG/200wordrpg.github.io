@@ -9,10 +9,10 @@ categories: 2016 rpg
 ```
 (3-5 players, pens, notecards.)
 
-A lonely desert caravanó
-A stormó
+A lonely desert caravan‚Äî
+A storm‚Äî
 
-Familiar paths erased. A baleful sun blazes above; imperious, unmoving. Our travelers endure to find their journeyís end.
+Familiar paths erased. A baleful sun blazes above; imperious, unmoving. Our travelers endure to find their journey‚Äôs end.
 
 Write these words on individual notecards, creating two shuffled decks:
 
@@ -24,13 +24,13 @@ Altar. Tomb. Statue. Mount. Door. Library. Guardian. Labyrinth. Spring. Pits. Te
 
 **********************************************************************************
 
-Whoever was most recently lost begins as Guide: draw once from each deck, and describe the landmark. Everyone narrates their travelerís vignette against that backdrop.
+Whoever was most recently lost begins as Guide: draw once from each deck, and describe the landmark. Everyone narrates their traveler‚Äôs vignette against that backdrop.
 
-Lone travelers might part company, seizing a way home. That option starts with the Guide, thereafter passing clockwise. One traveler may decamp per landmark; consider it ìclaimedî.
+Lone travelers might part company, seizing a way home. That option starts with the Guide, thereafter passing clockwise. One traveler may decamp per landmark; consider it ‚Äúclaimed‚Äù.
 
 When moving on, a new Guide draws the next landmark. Travelers narrate vignettes, but ex-travelers now portray the desert, harsh and alien.
 
-If none continue, or the desert ends, conclude. Shuffle ìclaimedî landmarks together, randomly adding one more. Draw: this one held the way home. Anyone there describes their return; others sum up their ensuing lives in this strange land.
+If none continue, or the desert ends, conclude. Shuffle ‚Äúclaimed‚Äù landmarks together, randomly adding one more. Draw: this one held the way home. Anyone there describes their return; others sum up their ensuing lives in this strange land.
 ```
 ## Author Comments (if any)
 

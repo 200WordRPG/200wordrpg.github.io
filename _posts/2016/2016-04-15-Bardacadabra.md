@@ -24,7 +24,7 @@ BLESSINGS & BUFFS. Italian sonnet.
 DEMONOLOGY. Rhymed acrostic, naming the spirit.
 SUBSTITUTIARY LOCOMOTION. Ottava rima.
 TRANSMUTATIONS & TRANSFIGURATIONS. Fourteener triplet.
-MALEFICIENT MINSTRELRY. Fornyrðislag.
+MALEFICIENT MINSTRELRY. FornyrÃ°islag.
 ABJURATIONS. Skeltonics. 
 MAJOR CONJURATIONS. Villanelle.
 NECROMANCY. Rondel.

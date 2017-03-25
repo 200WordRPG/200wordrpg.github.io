@@ -27,9 +27,9 @@ GameMaster - Interpret the result taking into account whether the action has bee
 
         [0,6] the action hasn't been Adjective enough.
         [7,9] the action may be Adjective if the character is willing to sacrifice something.
-        [10…] the action has been clearly Adjective.
+        [10â€¦] the action has been clearly Adjective.
 
-    The GameMaster may assign temporary Conditions to the characters (±1 to Performance each, while they apply).
+    The GameMaster may assign temporary Conditions to the characters (Â±1 to Performance each, while they apply).
 
     The outcome of each action should drive the story forward. Play to find out what happens.
 
@@ -42,7 +42,7 @@ STORY-SEEDS:
 ```
 ## Author Comments (if any)
 
-The objective was to be able to improvise a game at any time, with minimal equipment (2d6, no specific character sheet, few rules to memorize…).
+The objective was to be able to improvise a game at any time, with minimal equipment (2d6, no specific character sheet, few rules to memorizeâ€¦).
 
 I've chosen Quick, Precise and Powerful as Adjectives since they are easy to remember, they cover many situations and it is quite straightforward to deduce the consequences of not being Quick, Precise or Powerful enough.
 

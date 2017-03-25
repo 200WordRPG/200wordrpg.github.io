@@ -17,7 +17,7 @@ The others are mortals, normal people.
 Choose to be: shy or outgoing; hedonistic or reserved; aggressive or retiring; self-sacrificing or self-centred.
 Choose one other mortal to be your friend or family.
 
-The vampire must feed on blood from the mortals. To feed, he takes a mortal's pulse at the neck or wrist. If he counts ten beats, that mortal dies – any less is disorienting but extremely pleasurable for the mortal.
+The vampire must feed on blood from the mortals. To feed, he takes a mortal's pulse at the neck or wrist. If he counts ten beats, that mortal dies â€“ any less is disorienting but extremely pleasurable for the mortal.
 
 Any mortal may volunteer themselves to be fed upon.
 

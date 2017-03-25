@@ -24,7 +24,7 @@ Taking turns: lower a tails or raise a heads.
 Tails
 Ideas to Body: write part of a divine body inspired by the idea. Flip the coin.
 Body to Cabal: write a person or monster manifesting the divine aspect. Flip the coin.
-Cabal to Action: describe a vignette of the conspiracy in the mundane world. Write an effect of the conspiracy’s machinations and set the coin to heads. 
+Cabal to Action: describe a vignette of the conspiracy in the mundane world. Write an effect of the conspiracyâ€™s machinations and set the coin to heads. 
 
 Heads
 Action to Cabal: write a person or monster reflecting the activity. Flip the coin.

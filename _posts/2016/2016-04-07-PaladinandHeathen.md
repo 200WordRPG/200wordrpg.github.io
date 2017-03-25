@@ -14,7 +14,7 @@ Paladin has Duty, Heathen has Freedom. Each has affection. All start at 0.
 4 affection is in love.
 Pick Themes- Paladin: three Virtues; Heathen: three Ideals.
 
-The path is long. Between obstacles, look into each other’s eyes. Talk.
+The path is long. Between obstacles, look into each otherâ€™s eyes. Talk.
 
 First obstacle: Heathen describes the obstacle. 
 
@@ -25,7 +25,7 @@ Heathen describes an action, helping or hindering. Determine which one Theme app
 Paladin rolls 1d10. Heathen rolls 1d8 for a Virtue, 1d6 otherwise. Helping adds, hindering subtracts.
 A total higher than 7 succeeds. Paladin describes, and gains +1 Duty.
 
-If Heathen’s roll, +1 per Ideal used by Paladin, is greater than Paladin’s roll, Paladin gains +1 affection.
+If Heathenâ€™s roll, +1 per Ideal used by Paladin, is greater than Paladinâ€™s roll, Paladin gains +1 affection.
 Paladin can choose to fail instead. Heathen can force Paladin to succeed. She gains +1 affection.
 
 If Paladin fails, Heathen describes how. No Duty or affection is gained.

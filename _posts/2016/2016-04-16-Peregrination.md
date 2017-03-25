@@ -7,7 +7,7 @@ link: "owlbearunderwear.tumblr.com"
 categories: 2016 rpg
 ---
 ```
-You’re going on a journey.
+Youâ€™re going on a journey.
 Travel with your companions to thwart a great threat.
 Success is not guaranteed, you can always retreat to live another day.
 
@@ -24,7 +24,7 @@ To make a check, flip a coin.
 If flipping your Strength, flip two, take the better. If flipping your Weakness, flip two, take the worse.
 Once each game, before you flip, you may choose to succeed on a flip related to your Destiny.
 
-You may sacrifice yourself to automatically pass an obstacle, you become a Specter with strength in Spirit and weakness in Body and Mind. A Specter can’t sacrifice itself.
+You may sacrifice yourself to automatically pass an obstacle, you become a Specter with strength in Spirit and weakness in Body and Mind. A Specter canâ€™t sacrifice itself.
 ```
 ## Author Comments (if any)
 

@@ -25,7 +25,7 @@ The moderator introduces each candidate.
 Each candidate answers a topical question posed by the moderator (economy, national security, immigration etc.)
 The moderator adjudicates.  The debate concludes when each Candidate has addressed each issue.
 
-Election: Using the same method as ‘Opinion Polls’, determine the candidate with the lowest score.  They are victorious.
+Election: Using the same method as â€˜Opinion Pollsâ€™, determine the candidate with the lowest score.  They are victorious.
 
 ```
 ## Author Comments (if any)

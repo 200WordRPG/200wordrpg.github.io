@@ -9,13 +9,13 @@ categories: 2016 rpg
 ```
 2272. You work the floors, doors, and rooms of a nightclub called The Safeword. The house is packed tonight: Yakuza, corporate suits, rich clientele. Management has bailed. Time to shine.
 
-.Whatís your look?
-.Whatís your job?
-.Whatíre you hiding?
-.Whatíre you planning?
-.Choose one PC youíre: 
+.What‚Äôs your look?
+.What‚Äôs your job?
+.What‚Äôre you hiding?
+.What‚Äôre you planning?
+.Choose one PC you‚Äôre: 
                //using to get ahead
-               //one youíre hot for
+               //one you‚Äôre hot for
                //and/or one you hate.
 .Assign the Limits 2, 3, and 4 to your Vice Pools: 
                //Greed
@@ -24,14 +24,14 @@ categories: 2016 rpg
 
 Take turns. Frame scenes. Ask questions. Pursue plans. 
 
-When you do something to get what you want, roll. If youíre good at the thing, roll 0-3d6. If youíre bad, roll 1d6. Each result generates a token.
+When you do something to get what you want, roll. If you‚Äôre good at the thing, roll 0-3d6. If you‚Äôre bad, roll 1d6. Each result generates a token.
 
 .1-3:  RED fill one of your Pools. 
-                Another player chooses which and how that Viceís aggravated.
-.4-5:  YELLOW fill another characterís Pool.
-                Choose whose, which, and how that Viceís aggravated.
+                Another player chooses which and how that Vice‚Äôs aggravated.
+.4-5:  YELLOW fill another character‚Äôs Pool.
+                Choose whose, which, and how that Vice‚Äôs aggravated.
 .6:        BLUE are held, played to clear any Pool.
-                Choose whose, which, and how that Viceís tempered. 
+                Choose whose, which, and how that Vice‚Äôs tempered. 
 
 If you roll at least one 4+, you get what you want. Otherwise, another player details what happens instead. 
 
@@ -45,7 +45,7 @@ Some remarks:
          //Force-Blade Punk, by Grant Howitt,
          //Blades in the Dark, by John Harper,
          //and Wizards of Three Moons, by Neil Stidham;
-.Lovelyss and Lovesyck, two (pretty NSFW) webcomics by Alexis Flower are my primary touchstones [Got character style like WOW, lemme remember to breatheÖ];
-.The theme song is ìThe New Rush,î by Gin Wigmore;
-.And my deepest gratitude goes to Aaron Nussdorf, Ben Smith, and Brianna ìRockstarî Hoge for their critical and unwavering support.
+.Lovelyss and Lovesyck, two (pretty NSFW) webcomics by Alexis Flower are my primary touchstones [Got character style like WOW, lemme remember to breathe‚Ä¶];
+.The theme song is ‚ÄúThe New Rush,‚Äù by Gin Wigmore;
+.And my deepest gratitude goes to Aaron Nussdorf, Ben Smith, and Brianna ‚ÄúRockstar‚Äù Hoge for their critical and unwavering support.
 

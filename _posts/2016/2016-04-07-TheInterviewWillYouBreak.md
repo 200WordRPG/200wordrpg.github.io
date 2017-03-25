@@ -15,7 +15,7 @@ What would make you talk?
 What do you know that The Authorities do not? 
 A 1 hour timer is started and The Interview beings. The Authorities begin by applying pressure to The Subject and asking them questions trying to catch them in a lie or getting them to reveal details of their involvement in The Crime.
 Every 15 minutes The Authorities may Induce Information out of The Subject who must reveal the contents of 1 card. If The Authorities catch The Subject in a lie or get them to admit something then they are handed one of the cards. 
-If The Authorities gain 8 cards in 1 hour they have all of the information they need. Figuring out an answer to The Subject’s questions also counts toward this total.
+If The Authorities gain 8 cards in 1 hour they have all of the information they need. Figuring out an answer to The Subjectâ€™s questions also counts toward this total.
 ```
 ## Author Comments (if any)
 

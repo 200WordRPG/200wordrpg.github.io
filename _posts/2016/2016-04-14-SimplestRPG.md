@@ -21,9 +21,9 @@ Choose an attribute and take that many ability dice. Add an ability die for appr
 
 Roll, add ability, subtract difficulty. If your score is positive you succeed, negative you fail. If you roll zero you succeed but something bad happens, decided by you and the GM.
 
-If you don’t succeed you can push yourself. Subtract one from your attribute and add six to your roll. If an attribute reaches zero you are unconscious. Recover one point in one attribute at the end of the scene.
+If you donâ€™t succeed you can push yourself. Subtract one from your attribute and add six to your roll. If an attribute reaches zero you are unconscious. Recover one point in one attribute at the end of the scene.
 
-If you’re wounded, write it down. Each wound adds one difficulty die to every roll. Recover one wound at the end of each session.
+If youâ€™re wounded, write it down. Each wound adds one difficulty die to every roll. Recover one wound at the end of each session.
 ```
 ## Author Comments (if any)
 

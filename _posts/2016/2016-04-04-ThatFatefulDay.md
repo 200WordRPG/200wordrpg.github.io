@@ -29,7 +29,7 @@ What inside yourself are you struggling to overcome?**
 * If you answered the previous question, you're the character's primary consciousness. 
 Both in the same head.
 
-Take turns talking about today. What's happening? What does it mean? What should you do? Once said, a statement about reality is true… from that player's perspective. Time moves forward.
+Take turns talking about today. What's happening? What does it mean? What should you do? Once said, a statement about reality is trueâ€¦ from that player's perspective. Time moves forward.
 
 Whenever either of you speak, remove 1 of the 200 small things for each word you use.
 When the last is removed, the day's events have played out. The game is over.

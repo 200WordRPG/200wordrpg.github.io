@@ -7,7 +7,7 @@ link: "no link"
 categories: 2016 supplement
 ---
 ```
-This is an inspiration aid for heroic challenges for  ìApple of Discordî or any other mythic game.
+This is an inspiration aid for heroic challenges for  ‚ÄúApple of Discord‚Äù or any other mythic game.
 
 Mission:
 The double that initiates the challenge dictates the type of task the Hero needs to perform:
@@ -88,7 +88,7 @@ Sphynx
 Oracle
 Treasure
 
-Example: Double 6, followed by 6|3 and 6|4: lletís all hear the tale of how the Hero escaped the Minotaur.
+Example: Double 6, followed by 6|3 and 6|4: llet‚Äôs all hear the tale of how the Hero escaped the Minotaur.
 
 ```
 ## Author Comments (if any)

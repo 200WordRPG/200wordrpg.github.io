@@ -9,7 +9,7 @@ categories: 2016 rpg
 ```
 While war rages overseas...what happens to the actors of a top-rated live radio show when the show falls apart live, on the air?
 
-Each player needs to choose a ìreal-lifeî secret persona for their actor related to the on-going war, and a character trope for their ìon-airî character.
+Each player needs to choose a ‚Äúreal-life‚Äù secret persona for their actor related to the on-going war, and a character trope for their ‚Äúon-air‚Äù character.
 
 Examples:
 
@@ -31,13 +31,13 @@ Servant
 
 In scenes 1-3, when a player sneaks an element of their Real-Life Secret into the scene, they collect 2 poker chips.
 
-SCENE 1: The script is missing! Improvise tonightís broadcast. As the actors, decide on the setting and a conflict!
+SCENE 1: The script is missing! Improvise tonight‚Äôs broadcast. As the actors, decide on the setting and a conflict!
 
 SCENE 2: Start the program as on-air characters. Involve everyone! 
 
 SCENE 3: Following a commercial break, announce that Pearl Harbor has just been attacked. What happens that causes this to be the last broadcasted episode? Additionally, gain 4 poker chips whenever a player drops their on-air character for their actor persona while on-air. 
 
-All further scenes: As players, create scenes that challenge other charactersí secrets. A player may discard a chip to have their character successfully ìdefendî against the challenge.
+All further scenes: As players, create scenes that challenge other characters‚Äô secrets. A player may discard a chip to have their character successfully ‚Äúdefend‚Äù against the challenge.
 
 After spending their last chip, players tell an epilogue for their actor.
 

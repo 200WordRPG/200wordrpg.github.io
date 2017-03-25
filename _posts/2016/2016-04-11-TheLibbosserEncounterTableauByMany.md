@@ -7,9 +7,9 @@ link: "I dun got none"
 categories: 2016 rpg
 ---
 ```
-I’ll keep this brief: This is as much a personal account as it is a case study and a consistently upheld commitment to confess to all deeds from here on out performed; dastardly, heroic, in-between. In reading, you have agreed to meet the standard.
+Iâ€™ll keep this brief: This is as much a personal account as it is a case study and a consistently upheld commitment to confess to all deeds from here on out performed; dastardly, heroic, in-between. In reading, you have agreed to meet the standard.
 
-The most recent of those deeds: the title that caught your eye and took you all this way. You can see it's meant to dishonestly give the impression that what you’re holding in your potentially metaphorical hands is a piece of entertainment. This iteration of The Work went through many titles but as it stands the list includes at least as many as those who lent The Work their minds had; likely more.
+The most recent of those deeds: the title that caught your eye and took you all this way. You can see it's meant to dishonestly give the impression that what youâ€™re holding in your potentially metaphorical hands is a piece of entertainment. This iteration of The Work went through many titles but as it stands the list includes at least as many as those who lent The Work their minds had; likely more.
 
 I have run the gamut of honesty versus appeal. I settled on an appealing lie in the end, and on the matter of my moral fiber you may now draw conclusions.
 

@@ -15,27 +15,27 @@ Make all the players say the following about their character
 Who they are.
 Who and what matters to them.
 If and what they would die for.
-Everyone then ask questions, always starting with “What would [character] do if...”.
+Everyone then ask questions, always starting with â€œWhat would [character] do if...â€.
 
 
 I See
 Choose a character. Every player will imagine something that they could see the character doing.
-“I see Degu stuffing himself when he has the opportunity.”
+â€œI see Degu stuffing himself when he has the opportunity.â€
 The player of the character in question can answer with.
-“I see that.”
+â€œI see that.â€
 Or 
-“I do not see that.”
+â€œI do not see that.â€
 They and may afterwards build on the description.
 
 Quoth!
 Bid each player rise, one at a time, assume a pose their character would, and say a phrase that sums them up.
-“Thanks for the meal, and do you want to be freed from the burden of will?”
+â€œThanks for the meal, and do you want to be freed from the burden of will?â€
 Cheering or applause as an answer is recommended.
 
 
 Boon bonds
 Say why you travel with another character.
-They answer as in “I see”. Afterwards they build on the reason why your character travels with them.
+They answer as in â€œI seeâ€. Afterwards they build on the reason why your character travels with them.
 Repeat until everyone has reasons to travel together.
 
 Now you are boon companions. Begin playing your game.

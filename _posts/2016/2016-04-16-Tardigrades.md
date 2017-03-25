@@ -7,7 +7,7 @@ link: "no link"
 categories: 2016 rpg
 ---
 ```
-The Phage’s influence is growing. 
+The Phageâ€™s influence is growing. 
 Remember the ritual.
 Gather your materials. The paper to host your sigil. The graphite to inscribe the images. The spell book to transcribe the sigils and record their location.
 Free your mind. Open it to the arcane call of the Tardigrades. Listen to their immortal wisdom.

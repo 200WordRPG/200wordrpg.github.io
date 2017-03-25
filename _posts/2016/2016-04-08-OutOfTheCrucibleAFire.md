@@ -10,9 +10,9 @@ categories: 2016 rpg
 Out Of The Crucible, A Fire
 Taylor LaBresh
 
-“It’s been a long road
-Getting from there to here.” 
-Rod Stewart, “Faith of the Heart”
+â€œItâ€™s been a long road
+Getting from there to here.â€ 
+Rod Stewart, â€œFaith of the Heartâ€
 
 Gather friends around a firepit, and enough firewood to last about an hour. 
 
@@ -32,4 +32,4 @@ When you run out of wood, let the fire die as your characters fall asleep.
 ```
 ## Author Comments (if any)
 
-Out Of The Crucible, A Fire was inspired by Niamh Schönherr's Tea Ceremony, as well as countless hours decompressing with friends after long gaming sessions and talking about our characters.
+Out Of The Crucible, A Fire was inspired by Niamh SchÃ¶nherr's Tea Ceremony, as well as countless hours decompressing with friends after long gaming sessions and talking about our characters.

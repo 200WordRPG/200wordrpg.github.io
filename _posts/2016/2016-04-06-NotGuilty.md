@@ -18,8 +18,8 @@ The person before you is accused of a heinous crime, but their guilt is not yet 
 
 How To Play
 
-1. The game begins when the GM draws and reads a Crime Card. This is the outline of the prosecution’s case. 
-2. Each player draws a Witness Card, giving roles like ‘Spouse’, ‘Eyewitness’ or ‘Best Friend’. On their turn, they assume this role, and tell the best story they can to prove that the defendant is innocent. 
+1. The game begins when the GM draws and reads a Crime Card. This is the outline of the prosecutionâ€™s case. 
+2. Each player draws a Witness Card, giving roles like â€˜Spouseâ€™, â€˜Eyewitnessâ€™ or â€˜Best Friendâ€™. On their turn, they assume this role, and tell the best story they can to prove that the defendant is innocent. 
 3. When all the evidence has been heard, the players take their Jury positions, and must vote for a unanimous verdict. Guilty, or Not Guilty?
 
 THE GM

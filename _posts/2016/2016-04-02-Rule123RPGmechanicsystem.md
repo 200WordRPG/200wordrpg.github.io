@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "“Rule 1-2-3” RPG mechanic system"
+title: "â€œRule 1-2-3â€ RPG mechanic system"
 date: 2016-04-02
 author: "Tim Snider"
 link: "http://savageafterworld.blogspot.com/"
 categories: 2016 supplement
 ---
 ```
-“Rule 1-2-3” RPG mechanic system
+â€œRule 1-2-3â€ RPG mechanic system
 By Tim Snider
 
-This is a simple “target-number” mechanic that can be used on the fly as needed or to introduce very young players to dice-rolling mechanics. There’s only one rule:
+This is a simple â€œtarget-numberâ€ mechanic that can be used on the fly as needed or to introduce very young players to dice-rolling mechanics. Thereâ€™s only one rule:
 
 1s, 2s, and 3s are ALWAYS successes.
 

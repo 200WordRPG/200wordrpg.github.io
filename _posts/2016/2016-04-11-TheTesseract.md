@@ -7,19 +7,19 @@ link: "no link"
 categories: 2016 supplement
 ---
 ```
-Folks play games with dice. Some even tell stories with’m, though I’ve ne’er.
+Folks play games with dice. Some even tell stories withâ€™m, though Iâ€™ve neâ€™er.
 
-Gods invent worlds the same way, only their dice ’re... more.
+Gods invent worlds the same way, only their dice â€™re... more.
 
-How d’ I know? Y’ ever lose a die in th’ middle of a game? Happened to th’ Gods, yar, ‘n’ it landed in this realm!
+How dâ€™ I know? Yâ€™ ever lose a die in thâ€™ middle of a game? Happened to thâ€™ Gods, yar, â€˜nâ€™ it landed in this realm!
 
-The DTesseract. A hypercube, four dimensions! This ‘n fell inta our world, and it still has its power.
+The DTesseract. A hypercube, four dimensions! This â€˜n fell inta our world, and it still has its power.
 
-I dunno if th’ Gods’ve noticed, but I’ve. A warrior in drab armour rolled it on th’ ground, as an army of orcs came at him! (rogue I am, I ‘uz hidin’ nearby) I swear I sawr eight of it tumble inside each oth’r, ‘n’ eight numbers shone up.
+I dunno if thâ€™ Godsâ€™ve noticed, but Iâ€™ve. A warrior in drab armour rolled it on thâ€™ ground, as an army of orcs came at him! (rogue I am, I â€˜uz hidinâ€™ nearby) I swear I sawr eight of it tumble inside each othâ€™r, â€˜nâ€™ eight numbers shone up.
 
-Th’ armour got all... y’ ever seen a di’mon’, uh, refract? Buncha colours comin’ from one? Th’ armour did tha’, yar. Th’ orcs couldn’t do jack! If a chink appeared in one colour, another’d cover it! Truth be tol’ I sawr a weakness, yar, but if’n yer askin’, tha’ thing’s trouble. No thanks. If ‘m right, tha’s 6x8, so, more’n twenty things’t could’ve happened, no doubt some’re nasty.
+Thâ€™ armour got all... yâ€™ ever seen a diâ€™monâ€™, uh, refract? Buncha colours cominâ€™ from one? Thâ€™ armour did thaâ€™, yar. Thâ€™ orcs couldnâ€™t do jack! If a chink appeared in one colour, anotherâ€™d cover it! Truth be tolâ€™ I sawr a weakness, yar, but ifâ€™n yer askinâ€™, thaâ€™ thingâ€™s trouble. No thanks. If â€˜m right, thaâ€™s 6x8, so, moreâ€™n twenty thingsâ€™t couldâ€™ve happened, no doubt someâ€™re nasty.
 
-Nay, folks like me, we’re n’t meant t’ play god. A hero like you, though...
+Nay, folks like me, weâ€™re nâ€™t meant tâ€™ play god. A hero like you, though...
 ```
 ## Author Comments (if any)
 

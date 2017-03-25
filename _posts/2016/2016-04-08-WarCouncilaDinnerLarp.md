@@ -27,7 +27,7 @@ Even = Anti-war
 If everyone or all but one rolls the same stance, reroll.
 
 During dinner: Advisors argue for their stance using their interest as justification. The monarch listens, moderates, and asks questions.
--Build the world as you talk. Use ìyes, andî, but disagree over interpretations and meaning
+-Build the world as you talk. Use ‚Äúyes, and‚Äù, but disagree over interpretations and meaning
 -Name citizens and groups within the kingdom. Advisors, take sides.
 -Ask leading questions. Demand details. Be specific.
 

@@ -16,7 +16,7 @@ Need: cards (1 to 5 in 4 suits), counter, dice
 Mazemaster:
 Secretly create a mystery involving one ally, one enemy, and one object.
 Shuffle the cards and build a 4*5 grid, face-down. 
-Place Alycia’s counter on a card.
+Place Alyciaâ€™s counter on a card.
 
 Game turn: 
 One player moves Alycia on a adjacent card. Flip over the card she leaves and the card she lands on.

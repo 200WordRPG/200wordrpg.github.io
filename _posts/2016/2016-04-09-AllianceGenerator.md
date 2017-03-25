@@ -10,7 +10,7 @@ categories: 2016 supplement
 Alliance(?) Generator
 An RPG Planning Aid by Eric Sheldahl
 
-Make a list of all the major factions (or NPCs) in a given city, nation, continent, etc. It doesn’t have to be huge; maybe a dozen or fewer.
+Make a list of all the major factions (or NPCs) in a given city, nation, continent, etc. It doesnâ€™t have to be huge; maybe a dozen or fewer.
 Then, roll a d20 once for each faction. Write the result next to each name.
 Compare the numbers for every faction with the numbers for every other faction.
 For a given pair of factions, if the difference between their scores is...
@@ -20,7 +20,7 @@ For a given pair of factions, if the difference between their scores is...
 
 I would recommend a table or spreadsheet to track the information.
 
-Here’s a basic cookie-cutter example: a Fantasy nation’s capitol city.
+Hereâ€™s a basic cookie-cutter example: a Fantasy nationâ€™s capitol city.
 
 Paladins- 5
 Thieves- 16
@@ -32,7 +32,7 @@ Royalty- 7
 The Baron- 15
 Foreigners- 9
 
-Just based on this, one can easily see a conspiracy between the Thieves, the Mages, the Temple(!), and the Baron, as well as an ugly side to the Merchants’ guild and some corruption within the Paladin Order. Then, you have some some shocking passivity from the Royal Family, and an intriguing (but unsurprising) neutrality from the Foreigners. From there, the plot practically writes itself!
+Just based on this, one can easily see a conspiracy between the Thieves, the Mages, the Temple(!), and the Baron, as well as an ugly side to the Merchantsâ€™ guild and some corruption within the Paladin Order. Then, you have some some shocking passivity from the Royal Family, and an intriguing (but unsurprising) neutrality from the Foreigners. From there, the plot practically writes itself!
 ```
 ## Author Comments (if any)
 

@@ -16,7 +16,7 @@ Objective: Everybody wants to rule the world.
 2) Pick an order. On your turn:
        Play your song.
        Each other player gives your song one Trait via free-association.
-       (ex: Pokemon Theme – “FRIENDSHIP!” “destined” “guitar riffer”)
+       (ex: Pokemon Theme â€“ â€œFRIENDSHIP!â€ â€œdestinedâ€ â€œguitar rifferâ€)
 
 3) Pick a new order. On your turn:
 

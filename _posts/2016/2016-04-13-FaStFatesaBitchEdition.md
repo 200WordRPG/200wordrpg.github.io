@@ -15,7 +15,7 @@ Ally (Wizard)
 Quirks (No magic)
 Average Difficulty (1 Easy - 10 Impossible) 
 WIN! Condition (Eat Cake!)
-Blind pick who the party’s traitor is, don’t reveal. 
+Blind pick who the partyâ€™s traitor is, donâ€™t reveal. 
 
 Characters: 
 Might, Magic, Mind: Distribute 10 points. (Max 5, Min 1)

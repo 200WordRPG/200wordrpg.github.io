@@ -9,17 +9,17 @@ categories: 2016 rpg
 ```
 To begin, create a character by filling the blanks:
 
-“You are a _____, _______ who ______.” 
+â€œYou are a _____, _______ who ______.â€ 
 
-When faced with an enemy or obstacle, roll 1d8 plus 1d8 per “blank” from your sentence that would be helpful. Keep the highest roll.
+When faced with an enemy or obstacle, roll 1d8 plus 1d8 per â€œblankâ€ from your sentence that would be helpful. Keep the highest roll.
 
-If you only have “blanks” that would be unhelpful do the same. Keep the lowest roll and collect Karma. 
+If you only have â€œblanksâ€ that would be unhelpful do the same. Keep the lowest roll and collect Karma. 
 
 If you have both, choose to count only the good and keep the highest or only the bad and get Karma. 
 
 A roll of 5 or higher successfully resolves the situation to your benefit. 
 
-Average enemies can be defeated (physically or socially) with a single successful roll. “Boss” enemies require 3 successful rolls. Epic Bosses require 5 or more. 
+Average enemies can be defeated (physically or socially) with a single successful roll. â€œBossâ€ enemies require 3 successful rolls. Epic Bosses require 5 or more. 
 
 Once all players have rolled if any enemies remain undefeated then one of the PCs is Taken Out by your foes and cannot participate for the rest of the fight. 
 
@@ -29,11 +29,11 @@ Karma can be used to:
 *Helpful Coincidence.
 
 At the end of an adventure add a new sentence:
-*”You can also _____”
-*”You are also the ______”
-*”______ is always by your side” 
-*”Everyone knows that you _____”
-*”You always _____”
+*â€You can also _____â€
+*â€You are also the ______â€
+*â€______ is always by your sideâ€ 
+*â€Everyone knows that you _____â€
+*â€You always _____â€
 ```
 ## Author Comments (if any)
 

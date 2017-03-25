@@ -17,7 +17,7 @@ ACT2: Four Scenes
 Everyone secretly puts 1-3 Tokens into the Crucible. Narrator pulls tokens one at at a time and narrates confronting Risk.  Light Tokens aid victory, Dark Tokens - defeat.  
 If Dark Tokens outnumber Light, either sacrifice life and keep Dark Tokens as Glory, or retreat, passing Risk to another. If Light outnumbers Dark; defeat the risk. Can use Light Tokens in personal pile. Any Light Tokens gained pass to Hero. Repeat.
 ACT3
-Place Hero’s Tokens in Crucible.  Take turns drawing one Token, and describe the Hero’s Glorious final confrontation.  More Light = Heroic Victory. More Dark = Glorious Sacrifice.
+Place Heroâ€™s Tokens in Crucible.  Take turns drawing one Token, and describe the Heroâ€™s Glorious final confrontation.  More Light = Heroic Victory. More Dark = Glorious Sacrifice.
 
 ```
 ## Author Comments (if any)

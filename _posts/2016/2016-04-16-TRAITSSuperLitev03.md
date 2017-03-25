@@ -13,7 +13,7 @@ Everyone believes in a Lie. It can be a delusion of reality, a misunderstanding 
 
 2. Write 2 Talents (Pyromancer, Greatsword Specialist, Crossbow Master)
 
-3. Write 1 Lie (“Only knowledge is power”, “Men are tough”, “Trust no one”)
+3. Write 1 Lie (â€œOnly knowledge is powerâ€, â€œMen are toughâ€, â€œTrust no oneâ€)
 
 Requires GM and 1+ players.
 

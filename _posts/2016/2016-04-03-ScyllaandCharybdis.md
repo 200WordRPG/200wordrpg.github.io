@@ -13,7 +13,7 @@ Decide who plays Scylla and who plays Charybdis. Until the epilogue, the two pro
 
 There are three phases: prologue (one scene per player), journey (three scenes per player) and epilogue (last scene).
 
-Each player take four d6 (two black and two white) and roll, then places them in a row assigning one dice to the prologue and one for each of the journey scenes. The color of the dice sets the scene’s tone: if black, fear prevails; if white, love is stronger. Play every scene according to tone set by your dice.
+Each player take four d6 (two black and two white) and roll, then places them in a row assigning one dice to the prologue and one for each of the journey scenes. The color of the dice sets the sceneâ€™s tone: if black, fear prevails; if white, love is stronger. Play every scene according to tone set by your dice.
 
 The player with the high prologue dice start, then alternate.
 

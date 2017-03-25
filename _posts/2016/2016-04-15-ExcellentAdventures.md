@@ -7,7 +7,7 @@ link: "no link"
 categories: 2016 rpg
 ---
 ```
-You and a rival scientist have managed simultaneously to solve the mystery of time travel. There isn’t enough acclaim for the two of you. The only solution is a time war.
+You and a rival scientist have managed simultaneously to solve the mystery of time travel. There isnâ€™t enough acclaim for the two of you. The only solution is a time war.
 
 Players: 2 time travelers and TimeMaster (TM).
 
@@ -20,7 +20,7 @@ Gameplay: TM rolls the location of initial jumps.
 
 Take up to two actions per round. Actions: move forward/back in time; change a milestone/replace a figure (3d6 against difficulty).
 
-Before rolling, describe how history will change if you’re successful. TM awards bonuses based on the story. Successfully alter a milestone and cards following that event shift one line left (player 1) or right (player 2). 
+Before rolling, describe how history will change if youâ€™re successful. TM awards bonuses based on the story. Successfully alter a milestone and cards following that event shift one line left (player 1) or right (player 2). 
 
 If the timeline shifts away from you, use an action to return to the main timeline. Capturing history-maker cards lets you move with the timeline.
 

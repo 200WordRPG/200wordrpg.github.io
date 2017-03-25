@@ -23,11 +23,11 @@ The episode starts with a mundane issue: bullies, classes, dating, family, frien
 
 Then a (Lightning | Fiery | Icy | Poisonous | Cyber) (Dinosaur | Spider | Moth | Ape | Blob) attacks! Describe how you secretly change into SUPER PLANET FORCE.
 
-Take turns describing the monster’s rampage, then attacking it. Successes charge its Rage Pool. At [Players x3], it transforms and doubles the Rage Pool!
+Take turns describing the monsterâ€™s rampage, then attacking it. Successes charge its Rage Pool. At [Players x3], it transforms and doubles the Rage Pool!
 
 Describe your transformation into TECHNO PLANET WARRIOR!
 
-Together you have [Players x6]d6. Choose one Part to act with all dice in their style. Every success destroys a Rage die. If it’s out of Rage, finish with your HYPER PLANET BEAM!
+Together you have [Players x6]d6. Choose one Part to act with all dice in their style. Every success destroys a Rage die. If itâ€™s out of Rage, finish with your HYPER PLANET BEAM!
 Otherwise, the monster rolls Rage. Each success destroys one of your dice. If you run out, it leaves you injured until next episode. Otherwise, keep fighting.
 
 Describe how the mundane issue is resolved or worsened by the outcome.

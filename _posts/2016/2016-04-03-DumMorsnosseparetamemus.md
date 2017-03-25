@@ -2,14 +2,14 @@
 layout: post
 title: "Dum Mors nos separet, amemus!"
 date: 2016-04-03
-author: "Ivan Lanìa"
+author: "Ivan LanÃ¬a"
 link: "no link"
 categories: 2016 rpg
 ---
 ```
-Florence, 1348: at the feet of Saint Mary’s Cathedral goods are sold, intrigues are planned and a star-crossed love is burning bright. But when the Black Plague smites the city, what will be of the two lovers? 
+Florence, 1348: at the feet of Saint Maryâ€™s Cathedral goods are sold, intrigues are planned and a star-crossed love is burning bright. But when the Black Plague smites the city, what will be of the two lovers? 
 
-We grab a tarot deck and pick up the Major Arcana; You draw one and create a figure of power; I’ll take his/her role. I do the same for You, and You will play an outcast. Then, We play out the five scenes composing our tale, each represented by a Tarot and a Question:
+We grab a tarot deck and pick up the Major Arcana; You draw one and create a figure of power; Iâ€™ll take his/her role. I do the same for You, and You will play an outcast. Then, We play out the five scenes composing our tale, each represented by a Tarot and a Question:
 1. The Stars: Why did We fall in love?
 2. Temperance: How did I uselessly try to reject You?
 3. The World: How did You made Me experience your lifestyle?

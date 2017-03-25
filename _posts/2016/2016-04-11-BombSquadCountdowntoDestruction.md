@@ -27,9 +27,9 @@ The squad rolls their 4d6.
 
 The bomber rolls the remaining timer dice. 
 
-If players roll 6’s they get passed to their opponent.
+If players roll 6â€™s they get passed to their opponent.
 
-If players roll 1’s they are removed from the game.
+If players roll 1â€™s they are removed from the game.
 
 If the squad runs out of dice first they have defused the bomb and saved the city.
 

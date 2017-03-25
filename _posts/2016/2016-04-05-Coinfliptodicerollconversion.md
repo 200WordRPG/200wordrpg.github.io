@@ -27,7 +27,7 @@ D100 = 7 bits, Ignored if above (1100100)
 
 A few example rolls: 
 
-I make a D20 Attack roll. I get (11101) = 29. That’s too high, and must be discarded.
+I make a D20 Attack roll. I get (11101) = 29. Thatâ€™s too high, and must be discarded.
 Rolling again, I get (01011) = 11. I go ahead and add my regular bonuses, and use the roll.
 
 I cast a 3d4 magic missile. Damage  = (01)  + (10) + (11) + 3  = 9 + Usual bonuses.

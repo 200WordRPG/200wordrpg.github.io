@@ -11,7 +11,7 @@ A game for 3 players.
 Pick your role: Pursuer, Corpse God, Prize.
 Describe your character with three separate words.
 
-The story begins at the summit of the highest mountain. The Sun has just told the Pursuer that their Prize lies in the only place it cannot see – the deepest domain of the Corpse God. The Pursuer is the first to speak.
+The story begins at the summit of the highest mountain. The Sun has just told the Pursuer that their Prize lies in the only place it cannot see â€“ the deepest domain of the Corpse God. The Pursuer is the first to speak.
 
 On each role's turn, they tell what they do.
 Each role may interrupt another in the following precedence order:

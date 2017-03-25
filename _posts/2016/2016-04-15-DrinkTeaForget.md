@@ -24,15 +24,15 @@ As it brews, roll 1d6 and think about...
 As you drink, roll 1d6 and vow to:
 
 1-3. Let someone in.
-What do they think? How would they approach this? Perhaps the only thing they can offer is an open ear, that’s fine too. 
+What do they think? How would they approach this? Perhaps the only thing they can offer is an open ear, thatâ€™s fine too. 
 
 4-5. Be alone with your thoughts.
-What could you have done differently? What can you do moving forward? Ask yourself hard questions that you’ve been avoiding. Be a better you.
+What could you have done differently? What can you do moving forward? Ask yourself hard questions that youâ€™ve been avoiding. Be a better you.
 
 6. Never think of this again. 
 Cross it off the list. It is gone. Forgotten. Let it go.
 
-Repeat until you’re ready to stop or until you’ve crossed every choice off the list. Bottoms up.
+Repeat until youâ€™re ready to stop or until youâ€™ve crossed every choice off the list. Bottoms up.
 ```
 ## Author Comments (if any)
 

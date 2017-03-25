@@ -17,7 +17,7 @@ Armor: 10 (essentially HP, nanoregeneration replenishes 1 armor per minute, 20 p
 Weapon:
 Slugger- x2 ballistic damage (1 power) 
 Laser- x3 energy damage, one round to recharge (3 power)
-Missile- x2 ½ballistic ½ energy, successful evasion halves damage. (2 power)
+Missile- x2 Â½ballistic Â½ energy, successful evasion halves damage. (2 power)
 Kaiju get whatever dicepools the gm declares. 
 Dicepools are formed by the amount of power used(values listed indicate the minimum, so 10 dice maximum). Attack rolls are opposed by evasion/pilot rolls. Dice are rolled, keeping the highest number rolled as the result, subtract the Evasion roll's result from that. If positive, the hit does damage based on the weapon multiplier. 
 

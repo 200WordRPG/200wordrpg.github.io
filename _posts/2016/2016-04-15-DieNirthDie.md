@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Die, Nirûth, Die!"
+title: "Die, NirÃ»th, Die!"
 date: 2016-04-15
 author: "Daniele Di Rubbo"
 link: "http://geeckoonthewall.blogspot.com/"
 categories: 2016 rpg
 ---
 ```
-We’re telling the story of Nirûth the Wyrm, Dragonbane of the Land.
+Weâ€™re telling the story of NirÃ»th the Wyrm, Dragonbane of the Land.
 
 Gather between just you and any number of players, sticky notes, pencils, rubbers, and dominoes.
 
 Shuffle the bones face down and draw one each. Who gets the highest bone begins. Reshuffle, put one on the table, and divide the rest between you clockwise, starting from the beginning player.
 
-When it’s your turn, the player on your right asks a loaded question, beginning with “I wonder…,” about the Wyrm, the Land, or its dwellers.
+When itâ€™s your turn, the player on your right asks a loaded question, beginning with â€œI wonderâ€¦,â€ about the Wyrm, the Land, or its dwellers.
 
 Match one of your bones with one extremity of the bone-chain on the table. Answer the question, describing what happens in the story. Sketch it on a note and put it between the bones you just matched.
 

@@ -9,15 +9,15 @@ categories: 2016 supplement
 ```
 Crossroad Fables
 (Requires a standard card deck)
-The characters enter an inn just to the side of a crossroads between two great trade routes. Here they overhear the tales of merchants familiar with the areaÖ they speak of the nearby crossroads and those who made deals with its devil under the new moonís shadow.
+The characters enter an inn just to the side of a crossroads between two great trade routes. Here they overhear the tales of merchants familiar with the area‚Ä¶ they speak of the nearby crossroads and those who made deals with its devil under the new moon‚Äôs shadow.
 Each player is dealt 4 random cards and each has the chance to tell one of the tales heard by the characters. Each tale always follows a traditional structure:
--The devilís deal
+-The devil‚Äôs deal
 -The rise of the protagonist
 -Things go bad
--The devilís due
-Each stage has a few sentences. Anyone may interrupt the story by saying ìthatís not how I remember itî, then playing a card. If a red card is played, the interruption makes things better for the protagonist. If a black card is played, things get worse. After hearing this interruption, someone else may interrupt as long as they reveal a card of higher value. The highest value interruption stands.
+-The devil‚Äôs due
+Each stage has a few sentences. Anyone may interrupt the story by saying ‚Äúthat‚Äôs not how I remember it‚Äù, then playing a card. If a red card is played, the interruption makes things better for the protagonist. If a black card is played, things get worse. After hearing this interruption, someone else may interrupt as long as they reveal a card of higher value. The highest value interruption stands.
 At story end, players replenish hands. The next story begins.
-When done, add values of each storyís cards. 
+When done, add values of each story‚Äôs cards. 
 A final card determines which story is true.
 Red = Highest total
 Black = Lowest total

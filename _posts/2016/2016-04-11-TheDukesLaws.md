@@ -14,7 +14,7 @@ You shall not:
 - wear a mask,
 - fall in love.
 
-In this City of beauty, sex, gambling and debauchery, of palaces, alleys and canals…
+In this City of beauty, sex, gambling and debauchery, of palaces, alleys and canalsâ€¦
 - a cruel, tyrannical Duke rules, still unchallenged
 - cloaked inquisitors hunt down conspirators and lawbreakers
 - a necromancer uses the knowledge of the dead.

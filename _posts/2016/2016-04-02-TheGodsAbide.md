@@ -17,7 +17,7 @@ Jurgan, Demon of Fire and Passion
 Put 18 dice in middle of the table, each representing an undeclared worshipper.
 
 **Play Scenes**
-You play the game through a series of scenes, led by one of the Power. When it is your scene, you get to choose…
+You play the game through a series of scenes, led by one of the Power. When it is your scene, you get to chooseâ€¦
 1)To establish the scene, creating the mortals in it; or
 2)To resolve the scene, determining a new law or ritual of your Power.
 

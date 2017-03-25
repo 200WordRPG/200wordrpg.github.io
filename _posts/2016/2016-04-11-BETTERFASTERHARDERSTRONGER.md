@@ -32,7 +32,7 @@ Player Turn
 3)One Enemy Takes Action
         a.Villains must go once during a round.
 4)Enemies Become:
-        a.Faster:  Make a Mook card & give it half the villain’s current die pool (round Up)  
+        a.Faster:  Make a Mook card & give it half the villainâ€™s current die pool (round Up)  
                   OR
         b.Harder: Villain Dice Pool +1
 

@@ -15,7 +15,7 @@ Requires:
 
 Give one suit of 2-10 and the Ace (which counts as a 1) to each player. Place three kings in front of the Criminal. Put the rest of the deck aside.
 
-The Criminal narrates a short scene (a minute or two) in which they commit a crime. Then the Detective narrates a scene the following day searching for clues. Both players place a card from their hand face down, then reveal. Add your total Kings, and compare the sums. If the Detective wins, they steal a King as theyíve ìfound a clue,î which the Detective describes.
+The Criminal narrates a short scene (a minute or two) in which they commit a crime. Then the Detective narrates a scene the following day searching for clues. Both players place a card from their hand face down, then reveal. Add your total Kings, and compare the sums. If the Detective wins, they steal a King as they‚Äôve ‚Äúfound a clue,‚Äù which the Detective describes.
 
 Repeat this process. Neither player may directly affect the other, until their Final Scene. For instance, the Criminal cannot kill the Detective in their scene.
 

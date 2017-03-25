@@ -2,7 +2,7 @@
 layout: post
 title: "EERIE ODYSSEY"
 date: 2016-04-11
-author: "ÿivind Stengrundet"
+author: "√òivind Stengrundet"
 link: "http://www.vandrerne.net"
 categories: 2016 rpg
 ---
@@ -21,7 +21,7 @@ You are travelling through a location on a journey of sorts. But who are you? Wh
  
 Play:
 Players take turns initiating scenes, starting with the oldest player. On your turn, set a scene in which the player to your left is confronted by his/her fear. Feel free to include as many of the other players in the scene as you like, including yourself. Any player who dies in a scene, is out of the game.
-(Example: ìWalking through the Egyptian exhibit you hear a strange clicking, as of clawed feet on the marble floor. Then your flashlight goes out.î)
+(Example: ‚ÄúWalking through the Egyptian exhibit you hear a strange clicking, as of clawed feet on the marble floor. Then your flashlight goes out.‚Äù)
  
 Ending:
 The game ends when all players have faced their fear, or when all players are dead. Whichever comes first.

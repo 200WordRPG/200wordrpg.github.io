@@ -13,7 +13,7 @@ The PCs are in a bar when the living personifications of puns and jokes walk in,
 
 Two large tomatoes, a smaller tomato lagging behind, and eventually squished
 Bagel with white wings, flying over a bay
-Cross between a hippopotamus, elephant, and rhinoceros, but nothing youíve ever heard of
+Cross between a hippopotamus, elephant, and rhinoceros, but nothing you‚Äôve ever heard of
 Jalapeno pepper asking incessant, personal questions
 Priests, rabbis, and nuns constantly entering in varying quantities and combinations
 Pirate with a small man driving a steering wheel in his pants
@@ -21,13 +21,13 @@ Depressed horse
 Flying clock
 Flying stick of butter
 Metal pole people keep walking into as they enter the bar
-Doctor diagnosing Tom Jones Syndrome, and someone asking if itís a rare disease
+Doctor diagnosing Tom Jones Syndrome, and someone asking if it‚Äôs a rare disease
 Three-legged, scar-faced dog looking for man who shot his paw and cut his maw
-Chips with cheese that doesnít belong to you
+Chips with cheese that doesn‚Äôt belong to you
 Wanted poster for a fraudulent psychic halfling
 Small house made of cheese
 
-The puns keep coming until the PCs discover the source of the puns: a small model of the French Castle ìLe Chateau de Saint-Jean-díAngle.î The French are sometimes known as the Franks, so the identity of the Pun-Issuer is a Frank Castle. Destroying or removing it makes the puns immediately disappear.
+The puns keep coming until the PCs discover the source of the puns: a small model of the French Castle ‚ÄúLe Chateau de Saint-Jean-d‚ÄôAngle.‚Äù The French are sometimes known as the Franks, so the identity of the Pun-Issuer is a Frank Castle. Destroying or removing it makes the puns immediately disappear.
 ```
 ## Author Comments (if any)
 

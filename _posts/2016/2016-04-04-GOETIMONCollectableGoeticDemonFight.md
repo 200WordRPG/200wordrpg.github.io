@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GOETíIíMON: Collectable Goetic Demon Fight"
+title: "GOET‚ÄôI‚ÄôMON: Collectable Goetic Demon Fight"
 date: 2016-04-04
 author: "Jeremy Kostiew"
 link: "https://plus.google.com/+JeremyKostiew/"
@@ -32,7 +32,7 @@ Title
 3-4: Duke
 5-6: Usurper
 
-DEVIL NAME: [Title] [Abbreviation from the Periodic Table of Elements][+ ìielî or ìmonî]
+DEVIL NAME: [Title] [Abbreviation from the Periodic Table of Elements][+ ‚Äúiel‚Äù or ‚Äúmon‚Äù]
 
 WRITE EACH DEVIL ON A SEPARATE INDEX CARD
 
@@ -42,14 +42,14 @@ BRIMSTONE beats VITRIOL beats HELLFIRE beats BRIMSTONE
 HORNS beat HOOVES beat SCALE beats HORNS
 KING beats DUKE beats USURPER beats KING
 
-When a trait BEATS another trait, itís worth 1d6. 
-COMPILE d6ís. ROLL:
+When a trait BEATS another trait, it‚Äôs worth 1d6. 
+COMPILE d6‚Äôs. ROLL:
 1-3: NOTHING
 4-6: REMOVE ENEMY DEVIL TRAIT
 
 A sorcerer may cast one spell (before rolling) at the cost of 1 Wizard Trait:
-Bargain: 6ís remove 2 enemy devil traits.
-Hex: 1ís restore an enemy devil trait.
+Bargain: 6‚Äôs remove 2 enemy devil traits.
+Hex: 1‚Äôs restore an enemy devil trait.
 Sacrifice: Cancel spell.
 
 SPELLS AFFECT BOTH SORCERERS.

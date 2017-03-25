@@ -13,7 +13,7 @@ A supplement for Cthulhu Dark by Graham Walmsley
 
 The Sabbat embraced us en masse and buried us together. Who will survive?
 
-Choose a city. Put a single piece of A4 paper in the middle of the table – horizontally for a SHALLOW GRAVE; vertically for a DEEP GRAVE.
+Choose a city. Put a single piece of A4 paper in the middle of the table â€“ horizontally for a SHALLOW GRAVE; vertically for a DEEP GRAVE.
 
 Write a name and clan for your vampire on a post-it. Highest result on a six-sided die chooses their position in the grave first.
 

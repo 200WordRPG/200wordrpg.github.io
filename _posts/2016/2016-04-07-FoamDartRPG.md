@@ -25,7 +25,7 @@ Small hole for impossible.
 Missing is failure
 Breaking something in the house is fumble
 
-If you hit the correct hole it’s worth a regular success, if you hit a hole that is harder you get success plus some positive that carries forward. Hitting a easier hole then the difficult is a success with a setback.
+If you hit the correct hole itâ€™s worth a regular success, if you hit a hole that is harder you get success plus some positive that carries forward. Hitting a easier hole then the difficult is a success with a setback.
 Sample target
 
 

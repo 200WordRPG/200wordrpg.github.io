@@ -7,17 +7,17 @@ link: "no link"
 categories: 2016 rpg
 ---
 ```
-“The King demands an omelette!” the royal proclaimer cried. “But be quick, and be quiet, or you’ll sate the dragon’s diet.”
+â€œThe King demands an omelette!â€ the royal proclaimer cried. â€œBut be quick, and be quiet, or youâ€™ll sate the dragonâ€™s diet.â€
 
-One player is designated the dragon, and sits blindfolded in a chair. An “egg” timer set for 1 minute is placed under the chair.
+One player is designated the dragon, and sits blindfolded in a chair. An â€œeggâ€ timer set for 1 minute is placed under the chair.
 
 The dragon may tag players at any time, but must remain in the chair until the timer goes off
 
  The Dragon may remove their blindfold when the timer goes off, and their egg hatches.
 
-The other players are knights, and attempt to steal the dragon’s egg.
+The other players are knights, and attempt to steal the dragonâ€™s egg.
 
-Knights start arranged in a circle around the dragon comfortably far away, and attempt to sneak up and steal the dragon’s egg. 
+Knights start arranged in a circle around the dragon comfortably far away, and attempt to sneak up and steal the dragonâ€™s egg. 
 
 A knight escapes with the egg if they can retreat to their start without being tagged.
 
@@ -29,7 +29,7 @@ Play progresses until a number of points are scored equal to the number of eggs 
 
 Encourage everyone to play in character.
 
-“Buuuuurp” goes the dragon, the crown upon his brow.
+â€œBuuuuurpâ€ goes the dragon, the crown upon his brow.
 ```
 ## Author Comments (if any)
 

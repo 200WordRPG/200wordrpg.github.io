@@ -2,7 +2,7 @@
 layout: post
 title: "All Fall Down Campfire Questions"
 date: 2016-04-16
-author: "Ryan Ó Laoithe"
+author: "Ryan Ã“ Laoithe"
 link: "no link"
 categories: 2016 supplement
 ---
@@ -16,7 +16,7 @@ Consider:
 -What caused it?
 -What did we ignore?
 -What could have prevented it?
--What’s scarce?
+-Whatâ€™s scarce?
 
 Relationships: How do you know your fellow survivors?
 Choose another survivor and answer one of these questions:
@@ -25,14 +25,14 @@ Choose another survivor and answer one of these questions:
 -Why do you trust them beyond all else?
 -What secret of theirs do you know? Are they aware you know?
 
-The Future: What’s left for you?
+The Future: Whatâ€™s left for you?
 Consider:
--What’s your character’s motivation for continuing?
--What’s left for humanity?
+-Whatâ€™s your characterâ€™s motivation for continuing?
+-Whatâ€™s left for humanity?
 -What needs to be done to achieve these goals?
--What’s the most immediate goal?
+-Whatâ€™s the most immediate goal?
 
-The Threat: What’s chasing you?
+The Threat: Whatâ€™s chasing you?
 Take a characteristic of something familiar (physical feature, motivation, etc.).
 Do one of the following to it:
 -Pervert it.

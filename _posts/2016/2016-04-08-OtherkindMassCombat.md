@@ -11,7 +11,7 @@ Otherkind Mass Combat
 
 Each side, write orthogonal stakes besides killing:
 
-“Can the Empire break through the walls?” and “Will reinforcements come?”
+â€œCan the Empire break through the walls?â€ and â€œWill reinforcements come?â€
 
 5-6 Yes
 3-4 Unknown
@@ -22,7 +22,7 @@ Place 3 black dice on each of these index cards.
 
 Form groups. Groups, write one objective apiece:
 
-Dispel Zhao’s illusions
+Dispel Zhaoâ€™s illusions
 5-6 Yes
 3-4 Progress
 1-2 No
@@ -62,7 +62,7 @@ Red:
 placed as 5
 knocked to 4 because of black 5
 knocked to 3 because of black 4
-would upgrade to 4 because of white 3 but can’t repeat
+would upgrade to 4 because of white 3 but canâ€™t repeat
 => 3.
 
 

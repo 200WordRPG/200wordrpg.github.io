@@ -17,7 +17,7 @@ When all supportive players are leaning back in bewilderment, describe a relatio
 
 When most of the supportive players are sipping, wrap the scene up; the player to the left becomes the new active player.
 
-Play begins with the active player (chosen by seniority) describing what it was like to be a doctor, playing all the roles because you weren’t there, unless you were.
+Play begins with the active player (chosen by seniority) describing what it was like to be a doctor, playing all the roles because you werenâ€™t there, unless you were.
 
 Frame and play out scenes in the following order:
 Describe yourself being virtuous.

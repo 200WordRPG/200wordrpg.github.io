@@ -9,7 +9,7 @@ categories: 2016 rpg
 ```
 Choose one:
 The Scan: an AI built from brain scans of a deceased author. Describe the genre, premise and main THEME of your unfinished work.
-The Interpreter: an employee using the Scan to complete the story. Say why thereís demand for the book.
+The Interpreter: an employee using the Scan to complete the story. Say why there‚Äôs demand for the book.
 
 Find a source of random story [elements]: an oracle/tarot deck works.
 
@@ -18,15 +18,15 @@ Start at CHAPTER 1.
 EVERY CHAPTER:
 1) Scan: select a THEME in play to focus on.
 2) Interpreter: deal out CHAPTER+2 [elements].
-3) Scan: describe a context for each [element]: ìClara is longing for freedomî.
+3) Scan: describe a context for each [element]: ‚ÄúClara is longing for freedom‚Äù.
 4) Interpreter: select CHAPTER [elements].
 5) Scan: combine selected [elements] into a chapter synopsis that fits the focus THEME and one other.
 6) Interpreter: GOTO 4 or write the synopsis down. If the Scan disagrees, describe a detail of their life or legacy that supports the THEMEs used.
 7) Scan: how does the detail make you feel? Add 1 to ACCEPTANCE, DENIAL or ANGER [initial 0] as appropriate. If CHAPTER<5 start the next CHAPTER, else END.
 
 END:
-Whatís highest?
-ACCEPTANCE: the bookís a success; the Scan is placed in storage. 
+What‚Äôs highest?
+ACCEPTANCE: the book‚Äôs a success; the Scan is placed in storage. 
 DENIAL: the Scan crashes, corrupting the work.
 ANGER: the Scan escapes online, causing a scandal for the publisher.
 ```

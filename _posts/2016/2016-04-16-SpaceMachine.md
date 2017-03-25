@@ -9,8 +9,8 @@ categories: 2016 rpg
 ```
 You are members of a long-distance ship crew trying to colonize a new home.
 You are the third generation aboard this ship.
-The ship’s primary systems are failing.
-You must decide whether to abandon your mission or complete it at the cost of your crew’s lives.
+The shipâ€™s primary systems are failing.
+You must decide whether to abandon your mission or complete it at the cost of your crewâ€™s lives.
 
 Name your ship and what defines it as being distinct.
 
@@ -20,7 +20,7 @@ Ex:
 Verb: Steal
 Subject: Father
 
-Pass this card to the player across from you; or, if there’s an odd number of players, pass it to your left.
+Pass this card to the player across from you; or, if thereâ€™s an odd number of players, pass it to your left.
 Select another player at the table to be the subject listed on your card.
 
 When you include your Verb in roleplay, draw a card from a shuffled 52 card deck.

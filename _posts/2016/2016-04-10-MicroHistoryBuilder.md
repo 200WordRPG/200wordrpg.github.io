@@ -15,7 +15,7 @@ History is complicated and your history should be too, but for the sake of time,
 4) Create a conflict between your people and the antagonist.
 5) Decide how your unique characteristic contributed to the resolution.
 6) Kill, injure, or astrange one to five of your important people. This will roughly determine how changed you were by the moment.
-7) Ask yourself: ìWould I do that ever again? How did that moment lead to where I am now?î This ties you into the session plot.
+7) Ask yourself: ‚ÄúWould I do that ever again? How did that moment lead to where I am now?‚Äù This ties you into the session plot.
 
 Summarize it in one paragraph.
 

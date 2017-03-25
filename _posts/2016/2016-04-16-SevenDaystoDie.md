@@ -10,7 +10,7 @@ categories: 2016 rpg
 (3-4 Players)
 
 Our hero is dying.
-The world’s endangered.
+The worldâ€™s endangered.
 What's our fate?
 
 Collectively choose a theme.

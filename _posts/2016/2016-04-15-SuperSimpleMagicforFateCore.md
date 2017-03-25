@@ -7,19 +7,19 @@ link: "http://www.stoogoff.com/"
 categories: 2016 supplement
 ---
 ```
-The simplest way to handle magic in Fate is not to change the rules but to treat it narratively. Your character should have an Aspect to grant permission such as ìA mage trained at the School on Rokeî. Describe your character casting spells but roll the same skills other characters use.
+The simplest way to handle magic in Fate is not to change the rules but to treat it narratively. Your character should have an Aspect to grant permission such as ‚ÄúA mage trained at the School on Roke‚Äù. Describe your character casting spells but roll the same skills other characters use.
 
-Hurling a fireball? Roll Shoot. Distracting someone with an illusion? Thatís Deceive. Want to turn your companion invisible? Create Advantage using Stealth.
+Hurling a fireball? Roll Shoot. Distracting someone with an illusion? That‚Äôs Deceive. Want to turn your companion invisible? Create Advantage using Stealth.
 
-If your character wants to use a skill in a mundane way, for instance fire a bow, thatís a perfect opportunity for a compel.
+If your character wants to use a skill in a mundane way, for instance fire a bow, that‚Äôs a perfect opportunity for a compel.
 
-If thereís something you want your character to do which doesnít fit a Skill then try it as a Stunt. For example:
+If there‚Äôs something you want your character to do which doesn‚Äôt fit a Skill then try it as a Stunt. For example:
 
 Summon Skeleton
 
 Summon a skeleton to fight on your behalf. Use Will instead of Fight to make close-combat attacks.
 
-Whatís the spellís duration? As long as makes sense. What if itís wounded? The wounds apply to the mage.
+What‚Äôs the spell‚Äôs duration? As long as makes sense. What if it‚Äôs wounded? The wounds apply to the mage.
 
 The most important thing is NOT to create a Magic skill. If you do the wizard will use Magic for every roll and will unbalance the game.
 

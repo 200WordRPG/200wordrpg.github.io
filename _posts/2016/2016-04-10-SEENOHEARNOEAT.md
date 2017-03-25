@@ -12,7 +12,7 @@ SENSELESS HUNGER
 Requires:
 Four players.
 Four sets of four tokens per player, each set a different type but differentiated within the set (chips, coins, dice).
-Pencil and paper per player. On the paper’s reverse, assign personality traits to each token, one positive, one negative.
+Pencil and paper per player. On the paperâ€™s reverse, assign personality traits to each token, one positive, one negative.
 Bag or napkin to hide tokens.
 
 Start with the youngest player, then clockwise one turn each. Round one, everyone closes their eyes. Taking action they 1) whisper a trait unrelated to their list to a player, 2) give a token to a player, who keeps it hidden, or 3) do both to different players.

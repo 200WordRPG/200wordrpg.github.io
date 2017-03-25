@@ -45,7 +45,7 @@ A DAY ON SET
 
 One round / player:
 
-1) BRIEFING. The Director describes a scene to film, what’ll happen, key lines.
+1) BRIEFING. The Director describes a scene to film, whatâ€™ll happen, key lines.
 
 2) Bonus scene(s) (see below).
 

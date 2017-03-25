@@ -7,7 +7,7 @@ link: "danieltravis.wordpress.com"
 categories: 2016 supplement
 ---
 ```
-Magic comes at a cost. In most RPGs magicians ìspendî something for their spells to work: blood, sanity, power... Maybe they must immediately take a risk.
+Magic comes at a cost. In most RPGs magicians ‚Äúspend‚Äù something for their spells to work: blood, sanity, power... Maybe they must immediately take a risk.
 
 The history of Magic tells us something different: Magic drains your forces, requires sacrifices, maybe puts your safety on the line, but the consequences after all that are more crucial, and a great way to widen a character's story.
 
@@ -24,7 +24,7 @@ Hearts = a new friend(?).
 
 Figures/Aces/Jokers mean someone important comes into play (the king, a long lost lover... Preferably someone known: Magic loves synchronicity).
 
-Adapt these inspirations to the original spell(s) (healing brings healing, attacks bring pain/fights...), literally or metaphorically, and weird up your spellcastersí life.
+Adapt these inspirations to the original spell(s) (healing brings healing, attacks bring pain/fights...), literally or metaphorically, and weird up your spellcasters‚Äô life.
 ```
 ## Author Comments (if any)
 

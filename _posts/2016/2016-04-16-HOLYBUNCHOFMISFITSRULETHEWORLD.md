@@ -20,10 +20,10 @@ THE CHOSEN ONE
 God chooses a Misfit, who, to prove his valour, starts to tell something epic he once ran into.  
 
 The other Misfits can take action and: 
-Say he’s a liar and tell how things really went: take a Token from him 
-Say he’s right and tell what furthermore he did: give him a Token 
+Say heâ€™s a liar and tell how things really went: take a Token from him 
+Say heâ€™s right and tell what furthermore he did: give him a Token 
 
-God can stop the Misfits at will. As God, you don’t want them collect more than 12 Tokens. 
+God can stop the Misfits at will. As God, you donâ€™t want them collect more than 12 Tokens. 
 
 Now the Chosen One rolls 2d6 and confronts the result with the number of Token he has. 
 

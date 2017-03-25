@@ -28,9 +28,9 @@ Scene 1: The hero is too late, the friend is on the verge of death.
 Narrator - Roll to set scene.
 Friend - Roll to tell the hero how to find the villain.
 
-Scene 2: The hero must defeat the villain’s guards.
+Scene 2: The hero must defeat the villainâ€™s guards.
 Narrator - Roll to set scene.
-Hero - Roll to narrate how you defeat the villain’s henchpeople.
+Hero - Roll to narrate how you defeat the villainâ€™s henchpeople.
 
 Scene 3: Final Showdown
 Narrator - Roll to set scene.

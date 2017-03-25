@@ -30,7 +30,7 @@ Strangers Carly, Tai, and Stacy are staying the night in a motel by a lake.
 
 Players, take 3 secret Tones apiece and write the name of one player (including yourself) on each.
 
-GM, frame each scene in under a minute. Be curt and obvious. Always “Yes, And”.
+GM, frame each scene in under a minute. Be curt and obvious. Always â€œYes, Andâ€.
 
 1 minute: Did you want to stop here?
 2: Does the deer hurt you?
@@ -43,9 +43,9 @@ GM, frame each scene in under a minute. Be curt and obvious. Always “Yes, And”.
 1: Did you live?
 
 When time runs out:
-“Which of your Tones best matches Carly’s portrayal? Point to that player. Tai? Stacy?
+â€œWhich of your Tones best matches Carlyâ€™s portrayal? Point to that player. Tai? Stacy?
 
-Carly, start at 3, -1 for only being pointed at 2/3 times for her portrayal, -2 for two points during others’ portrayals.”
+Carly, start at 3, -1 for only being pointed at 2/3 times for her portrayal, -2 for two points during othersâ€™ portrayals.â€
 
 GM, give a one-liner addendum to the scene for each character.
 3 critical success

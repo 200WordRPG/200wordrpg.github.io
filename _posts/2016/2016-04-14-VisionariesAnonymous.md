@@ -7,8 +7,8 @@ link: "no link"
 categories: 2016 rpg
 ---
 ```
-The visions wonít leave you alone; they scream & claw inside your head.  They want out.
-Youíve always been haunted by visions, theyíve got bad recently, so youíve joined a ìVisionaries Anonymousî Group.
+The visions won‚Äôt leave you alone; they scream & claw inside your head.  They want out.
+You‚Äôve always been haunted by visions, they‚Äôve got bad recently, so you‚Äôve joined a ‚ÄúVisionaries Anonymous‚Äù Group.
 
 The Group gathers every week to discuss their haunted lives and coping strategies;
 
@@ -27,7 +27,7 @@ You may spend tokens to move the dice outcome up or down by on;
 
 The GM earns a token for every awful fate they inflict, which they can spend on rolls in opposition to players; and
 
-The GMís goal is for awful fate to befall all the players. The Player's goal is to fend fate off.
+The GM‚Äôs goal is for awful fate to befall all the players. The Player's goal is to fend fate off.
 
 ```
 ## Author Comments (if any)

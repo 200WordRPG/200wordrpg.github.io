@@ -11,10 +11,10 @@ An RPG poem about gossips for three or more players
 
 
 
-The Davidsons just moved into your town and bought the bakery from Kowalsky’s no-good son.
+The Davidsons just moved into your town and bought the bakery from Kowalskyâ€™s no-good son.
  
 Characters will gossip about the Davidsons, be curious and judgemental.
-Players will improvise new facts, challenge others’ opinions.
+Players will improvise new facts, challenge othersâ€™ opinions.
 
 Begin.
 
@@ -23,17 +23,17 @@ Start with small talk, in character. Discuss mundane things about the town and y
 Gossip.
 
 One player must eventually say:
-“There’s a new family in town. They’ve bought old Kowalsky’s bakery. Nothing will be the same now. Have you heard...”
+â€œThereâ€™s a new family in town. Theyâ€™ve bought old Kowalskyâ€™s bakery. Nothing will be the same now. Have you heard...â€
 
 Gossip phrases - use when you want to...
 
-“Have you heard…” - establish new facts
-“Tell them, you've been there…” - when you want another player to expand facts or delegate other player(s) to defend your position
-“What's more…” - add to someone’s facts or defend your position
-“That doesn't sound so bad…” - when you don’t agree with someone but don’t want to stop current subject
-“I'm sure they're nice people, I’ve seen them…” - stop current subject and defend Davidsons. Describe something nice they did.
+â€œHave you heardâ€¦â€ - establish new facts
+â€œTell them, you've been thereâ€¦â€ - when you want another player to expand facts or delegate other player(s) to defend your position
+â€œWhat's moreâ€¦â€ - add to someoneâ€™s facts or defend your position
+â€œThat doesn't sound so badâ€¦â€ - when you donâ€™t agree with someone but donâ€™t want to stop current subject
+â€œI'm sure they're nice people, Iâ€™ve seen themâ€¦â€ - stop current subject and defend Davidsons. Describe something nice they did.
 
-Game ends after 15 minutes or once you’ve said three nice things about the Davidsons.
+Game ends after 15 minutes or once youâ€™ve said three nice things about the Davidsons.
 ```
 ## Author Comments (if any)
 

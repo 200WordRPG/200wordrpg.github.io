@@ -38,7 +38,7 @@ x) A summoning circle.
 y) A massive serpent bursts forth!
 z) Oh gods! The horror! Flee!
 
-A pressure plate reveals the late Baron’s vintage wine collection.
+A pressure plate reveals the late Baronâ€™s vintage wine collection.
 
 ```
 ## Author Comments (if any)

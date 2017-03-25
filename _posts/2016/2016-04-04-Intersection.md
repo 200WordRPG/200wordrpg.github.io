@@ -9,13 +9,13 @@ categories: 2016 rpg
 ```
 Choose one player as the Actor. All others are Directors.
 
-The Actor takes 2d6 and begins to narrate a normal (fictional) day. As the Actor describes events, any of the Directors may interrupt by saying, ìHoldî or otherwise indicating. When a hold is called, the Actor must roll.
+The Actor takes 2d6 and begins to narrate a normal (fictional) day. As the Actor describes events, any of the Directors may interrupt by saying, ‚ÄúHold‚Äù or otherwise indicating. When a hold is called, the Actor must roll.
 
 On a 7+, the Actor has privilege and may continue to narrate. The Director may assign a privileged identity to the Actor.
 
 On a 6-, the Director explains why the action was more difficult than expected and assigns a non-privileged identity to the Actor. The Actor proceeds, including any assigned identities in the narration.
 
-Try to vary holds across Physical, Mental, and Social privileges. Continue until everyone agrees that the Actorís identity has been sufficiently defined. Rotate roles; play again.
+Try to vary holds across Physical, Mental, and Social privileges. Continue until everyone agrees that the Actor‚Äôs identity has been sufficiently defined. Rotate roles; play again.
 
 Examples of privilege (in my culture):
 Physical:

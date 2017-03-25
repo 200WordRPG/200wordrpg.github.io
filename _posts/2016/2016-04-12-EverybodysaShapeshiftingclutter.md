@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Everybody’s a Shapeshifting clutter"
+title: "Everybodyâ€™s a Shapeshifting clutter"
 date: 2016-04-12
 author: "Francesco Zani"
 link: "https://www.facebook.com/geitgames/"
@@ -11,16 +11,16 @@ We are Shapeshifters. Our country was attacked with a Memory-Scrumbling Bomb. We
 
 Each of us draws a simple Silhouette of themselves on paper and cuts it in as many sections as we are. On each piece we write a memory. Three memories must answer these questions: 
 
-“Why did I attack shapeshifting country?”
-“What/who is left for me to go back to?”
-“What/who is lost and can never return?”
+â€œWhy did I attack shapeshifting country?â€
+â€œWhat/who is left for me to go back to?â€
+â€œWhat/who is lost and can never return?â€
 
 That is who we were: now give a piece to each of your fellow players, keep only one for yourself. When everyone is done we can start figuring out who everyone is. 
 
-Walk around discussing with the other players what you remember based on the pieces of Silhouette you have. Whenever you Recognize a “familiar memory” or Want for yourself a particular memory they have, ask for it and exchange the Silhouette piece. They cannot reject, but get to name what they want back in exchange.
+Walk around discussing with the other players what you remember based on the pieces of Silhouette you have. Whenever you Recognize a â€œfamiliar memoryâ€ or Want for yourself a particular memory they have, ask for it and exchange the Silhouette piece. They cannot reject, but get to name what they want back in exchange.
 
 We try to be as complete and coherent as possible. 
-When everybody’s satisfied, that’s it.
+When everybodyâ€™s satisfied, thatâ€™s it.
 
 Who are you?
 ```

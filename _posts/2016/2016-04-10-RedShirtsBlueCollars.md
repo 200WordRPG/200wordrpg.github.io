@@ -15,7 +15,7 @@ Any time the players attempt to do anything useful (fix something, clean somethi
 Fudge Dice: Fast(+),Right(Blank), or Cheap(-). If using your specialty, roll 2dFudge, grab one, and choose a face for the other.
 Fast: you get it done before you suffer any consequences from it. You close the airlock before you run out of air, you fight off the Xenomorph before it bites you, you get out of the meeting without any extra duties.
 Right: you definitively solve the problem. The reactor leak is plugged up for good, the Klingon Pirate was knocked out, the Quartermaster considers you a good friend now.
-Cheap: you don't need as many resources to finish the task. Your tools don’t break, no one gets hurt, the part was already on order.
+Cheap: you don't need as many resources to finish the task. Your tools donâ€™t break, no one gets hurt, the part was already on order.
 
 Take turns breaking something on the ship for the Red Shirt to your left to fix. Create NPCs to distract, aid, or fraternize. Fix the ship. Something else always breaks for the next Red Shirt.
 ```

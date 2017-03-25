@@ -21,11 +21,11 @@ Finally, players agree on a shift that separates modern history from ancient his
 
 Legacy: Conquest
 
-Play Legacy’s first two phases, but start with cardboard-backed hex paper.
+Play Legacyâ€™s first two phases, but start with cardboard-backed hex paper.
 
 Use thumbtacks for troops.
 Each player is a military commander or a peace-keeper. 
-On an MC’s turn, they can
+On an MCâ€™s turn, they can
 
 -place a troop 
 -move a troop 1

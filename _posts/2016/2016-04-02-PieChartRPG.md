@@ -19,11 +19,11 @@ Draw a circle on your character sheet. The GM gives players a list of relevant s
 
 Gameplay
 
-Any time an action has consequence, the GM calls for a roll, selecting a skill. Players roll d100, pre-assigning one die as the 10's place and one as the 1's place. The goal is to roll under. 0 on both die is a 100. There’s no special rules for opposed rolls.
+Any time an action has consequence, the GM calls for a roll, selecting a skill. Players roll d100, pre-assigning one die as the 10's place and one as the 1's place. The goal is to roll under. 0 on both die is a 100. Thereâ€™s no special rules for opposed rolls.
 
 The GM may reward success with a Fortune token. In the event of a failure, the GM may hand a player a Misfortune token. 
 
-Fortune and Misfortune both allow a reroll, or for the numbers to be shifted on a result (an 81 becomes an 18, for example). Players invoke Fortune, GMs invoke Misfortune. If a roll’s result was influenced by Fortune or Misfortune, the GM shouldn’t give any tokens. 
+Fortune and Misfortune both allow a reroll, or for the numbers to be shifted on a result (an 81 becomes an 18, for example). Players invoke Fortune, GMs invoke Misfortune. If a rollâ€™s result was influenced by Fortune or Misfortune, the GM shouldnâ€™t give any tokens. 
 
 ```
 ## Author Comments (if any)

@@ -8,16 +8,16 @@ categories: 2016 supplement
 ---
 ```
 This supplement :
-- is meant for ‘A Red & Pleasant Land’.
+- is meant for â€˜A Red & Pleasant Landâ€™.
 - uses a pack of cards (including jokers).
 - generates random encounters and scenes.
-- offers challenges PCs don’t have to fight through.
+- offers challenges PCs donâ€™t have to fight through.
 
 Shuffle the deck. 
 Draw two cards.
 
 Agent works for = Suit of first card.
-Agent’s intentions toward PCs = Suit of second card.
+Agentâ€™s intentions toward PCs = Suit of second card.
 
 ? = Heart Queen / Wishes for aid.
 ? = Red King / Wishes for trade.

@@ -39,7 +39,7 @@ WISPGLASS SHRIEKER (1): Flower-shaped robot made of lighter-than-air glass. Curs
 ```
 ## Author Comments (if any)
 
-The title is a parody of André Brenton's "Soluble Fish." Oneperson described this as "a Borgesian random encounter table.?" I was thinking more Breton than Jorge Luis Borges when I wrote it, but it's probably closer to the latter. It's the right general idea in any case. 
+The title is a parody of AndrÃ© Brenton's "Soluble Fish." Oneperson described this as "a Borgesian random encounter table.?" I was thinking more Breton than Jorge Luis Borges when I wrote it, but it's probably closer to the latter. It's the right general idea in any case. 
 
 On the gaming end of things, firstly, I was inspired by early Judges Guild supplements. Second, use of the word "opilione" is a one-word homage to Gary Gygax's prose style. That's not sarcasm; Gygax really expanded my vocabulary when I was a kid. Finally, I tried to capture Dave Arneson's wry humor and the way he spiced his fantasy with science fiction.
 

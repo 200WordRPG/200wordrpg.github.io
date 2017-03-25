@@ -11,9 +11,9 @@ categories: 2016 rpg
 
 Soulstrings presents human weaknesses as supernatural monsters that tempt humans. The default setting is misty, dark Victorian London but you can change this.
 
-Each player creates a character – called a Soul – and invents a Nemezis, a supernatural being who has a hold on the Soul. The hold should be described by three Soulstrings: flaws, insecurities, fears and sins upon which the Nemezis preys.
+Each player creates a character â€“ called a Soul â€“ and invents a Nemezis, a supernatural being who has a hold on the Soul. The hold should be described by three Soulstrings: flaws, insecurities, fears and sins upon which the Nemezis preys.
 
-Example – lady Yvonne is urged by a ghost of his ancestor to restore their family to glory by any means necessary. Soulstrings: Ambition, Poverty, Family Honor.
+Example â€“ lady Yvonne is urged by a ghost of his ancestor to restore their family to glory by any means necessary. Soulstrings: Ambition, Poverty, Family Honor.
 
 Players frame scenes in which the Nemezis tries to force the Soul to do something bad based on one of the Soulstrings. Each player in turn gets a scene in which (s)he roleplays the Soul. Another player is the Nemezis, the third one describes the surroundings and roleplays NPCs.
 

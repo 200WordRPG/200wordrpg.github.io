@@ -9,7 +9,7 @@ categories: 2016 rpg
 ```
 The Word-Eater ate our words. Without words, meanings were lost, civilization collapsed. Librarians still fight.
 
-Take twenty cards. Inscribe ìWord-Eaterî on one, collaboratively write an inspiring words on others. Distribute two cards to each player, including the Word-Eater one. The rest forms a stack.
+Take twenty cards. Inscribe ‚ÄúWord-Eater‚Äù on one, collaboratively write an inspiring words on others. Distribute two cards to each player, including the Word-Eater one. The rest forms a stack.
 
 Play in turns, one for each player. Played cards return after full round.
 

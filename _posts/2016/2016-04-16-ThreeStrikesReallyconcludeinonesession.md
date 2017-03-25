@@ -12,18 +12,18 @@ Make your story conclude in one session.
 
 First strike - Introduction
 You heard a story element you really care about? Take an index card, hold it up. Say its name: 
-„Frodo’s ring“, „Helen’s abduction to Troy“. Have a thumb-vote: 
-Thumbs-up: „Yeah! Let’s see this conclude tonight.“ 
-Thumbs-down: „Meh. I don’t care.“
+â€Frodoâ€™s ringâ€œ, â€Helenâ€™s abduction to Troyâ€œ. Have a thumb-vote: 
+Thumbs-up: â€Yeah! Letâ€™s see this conclude tonight.â€œ 
+Thumbs-down: â€Meh. I donâ€™t care.â€œ
 If yes - write the name on the card. You know the group is into this thing. Put it in front of you. No more than two cards per player, so choose wisely. 
 
 Second strike - Story Question
 When you use an element that already has a card on the table, give it a "second strike" (a token), and formulate an interesting question for it. 
 
-Write the question on the card: "Will Frodo destroy the ring?", “Will Helen be avenged?” What’s not on a card doesn't need resolution. 
+Write the question on the card: "Will Frodo destroy the ring?", â€œWill Helen be avenged?â€ Whatâ€™s not on a card doesn't need resolution. 
 
 Third strike - Resolution
-Answering the question on a card is the "third strike“ - it is now resolved. Put a second token on it and write the answer down. With all cards resolved, you end the story. 
+Answering the question on a card is the "third strikeâ€œ - it is now resolved. Put a second token on it and write the answer down. With all cards resolved, you end the story. 
 
 Epilogue
 Everyone can spend their 4 strike tokens (1 for 1) to pay for epilogue vignettes. Each one is an image that rounds out the story. 

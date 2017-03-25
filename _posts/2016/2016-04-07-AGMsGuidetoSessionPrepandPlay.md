@@ -2,14 +2,14 @@
 layout: post
 title: "A GM's Guide to Session Prep and Play"
 date: 2016-04-07
-author: "Ole Peder Giæver"
+author: "Ole Peder GiÃ¦ver"
 link: "http://snarglebarf.com"
 categories: 2016 supplement
 ---
 ```
 -- A GM's Guide to Session Prep and Play --
 
-You have characters, setting and system. You’re running a game tomorrow. What do you do?
+You have characters, setting and system. Youâ€™re running a game tomorrow. What do you do?
 
 Pick two (or roll 1d8):
 
@@ -49,5 +49,5 @@ And:
 ```
 ## Author Comments (if any)
 
-Sources: Imagonem, Old Friends, AW, Sorcerer, Håken, Play With Intent.
+Sources: Imagonem, Old Friends, AW, Sorcerer, HÃ¥ken, Play With Intent.
 Thanks: You guys.

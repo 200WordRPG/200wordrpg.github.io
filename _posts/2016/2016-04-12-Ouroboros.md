@@ -21,12 +21,12 @@ Mysterious lord of the Ouroboros.
 THE GUARDS
 (*Enforcers*.)
 Uniformed cultists, devoted to the rail regulations.
-- When you break regulations, roll +Cool. 10+, you’re good. 7-9, the Guards show up.
+- When you break regulations, roll +Cool. 10+, youâ€™re good. 7-9, the Guards show up.
 
 FIRSTIES
 (*Sybarites* / *Cannibals*)
 Greedy, debauched and arrogant.
-- When you don’t show deference to a Firsty, roll +Hot. 10+, all’s well. 7-9 they demand recompense.
+- When you donâ€™t show deference to a Firsty, roll +Hot. 10+, allâ€™s well. 7-9 they demand recompense.
 
 SAMPLE COUNTDOWN CLOCK
 
@@ -38,9 +38,9 @@ SAMPLE COUNTDOWN CLOCK
 11-12: The whole train descends into cannibalism.
 
 PLAYBOOKS
-- The hardholder controls one carriage. It can’t be deep and mighty or mostly tents.
+- The hardholder controls one carriage. It canâ€™t be deep and mighty or mostly tents.
 - Nobody gets vehicles. The chopper gets one extra option for their gang.
-- You can’t play the driver.
+- You canâ€™t play the driver.
 
 ```
 ## Author Comments (if any)

@@ -11,7 +11,7 @@ ONLY TOGETHER
 
 You are somewhere dark and silent. You are alive, but injured.  You will survive only together.
 
-Roll 6 six-sided dice until they show either a 1 or a 6. 1ís are penalties (-1 die) and 6s are bonuses (+1 die).
+Roll 6 six-sided dice until they show either a 1 or a 6. 1‚Äôs are penalties (-1 die) and 6s are bonuses (+1 die).
 
 Create dice pools for these three qualities. Each quality begins with one die. 
 
@@ -23,7 +23,7 @@ SPECIAL - an item, a skill, a psychic ability
 
 A negative number of dice is a hardship. Each round roll a six-sided die. A result of 1 means the player misses the next round. 
 
-Each round each player asks a closed ìyes or noî question. They roll from the most closely corresponding dice pool. 
+Each round each player asks a closed ‚Äúyes or no‚Äù question. They roll from the most closely corresponding dice pool. 
 
 6 is a success. All other results are a failure and the question may not be asked again for the entire game.
 

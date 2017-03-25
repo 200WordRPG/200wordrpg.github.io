@@ -9,25 +9,25 @@ categories: 2016 supplement
 ```
 A micro-setting for Fate Accelerated.
 
-Winter Demons, Cruel Winter Sorcerers Cailleach (+2 when Flashy creating advantage using Illusions) and her Warlord, Mighty Frost Giant Bl·inn (+2 when Forcefully attacking with claymore), have arrived to the land of Aes SÌdhe, the elves, and brought Eternal Winter. Summer Goddess ¡ine gave her daughters, summer spirits, magical gifts to fight them.
+Winter Demons, Cruel Winter Sorcerers Cailleach (+2 when Flashy creating advantage using Illusions) and her Warlord, Mighty Frost Giant Bl√°inn (+2 when Forcefully attacking with claymore), have arrived to the land of Aes S√≠dhe, the elves, and brought Eternal Winter. Summer Goddess √Åine gave her daughters, summer spirits, magical gifts to fight them.
 
 CCFFQS = Careful, Clever, Flashy, Forceful, Quick, Sneaky.
 
 Faoladh, strong-willed swordswoman werewolf (C1C2F3F1Q2S0), received Fragarach, Sword of air (+2 when uncovering hidden truth).
 
-Beanna, rash archer werecrow (C2C1F0F1Q3S2), received Bogha GrÈine, Sun Bow (Once per session, one pull will release arrows that hits all enemies).
+Beanna, rash archer werecrow (C2C1F0F1Q3S2), received Bogha Gr√©ine, Sun Bow (Once per session, one pull will release arrows that hits all enemies).
 
 Arthwen, strong berserker werebear (C0C1F2F3Q2S1), received Areadbhair, Fire spear (Ignites everything on touch when unsheathed.). 
 
-Sionnach, cunning sorceress werefox (C0C3F2F1Q1S2), received DraÌochta, magic powers (+2 when Cleverly creating advantage against winter creatures using magic).
+Sionnach, cunning sorceress werefox (C0C3F2F1Q1S2), received Dra√≠ochta, magic powers (+2 when Cleverly creating advantage against winter creatures using magic).
 
-Heroines must cross four domains guarded by Cailleachís warlords and serfs before confronting the Winter Demons: 
+Heroines must cross four domains guarded by Cailleach‚Äôs warlords and serfs before confronting the Winter Demons: 
 - Fire Dragon Eldur and Warrior Orcs of Fire mountains.
 - Gigantic Kraken Hafgufa and Norse pirates of Winter Islands.
-- Tireless Undead Knight Gl·mr and fierce Revenants of Shadowland.
+- Tireless Undead Knight Gl√°mr and fierce Revenants of Shadowland.
 - Malicious Sorcerer Sluagh and macabre Banshees of Whispering forest.
 
-Distribute +5, +4, +3, +2, +2, +1 between demonís and warlordís Approaches.
+Distribute +5, +4, +3, +2, +2, +1 between demon‚Äôs and warlord‚Äôs Approaches.
 ```
 ## Author Comments (if any)
 

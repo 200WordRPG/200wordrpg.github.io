@@ -9,7 +9,7 @@ categories: 2016 rpg
 ```
 Go Go Wizard Rumble
 
-You and your opponent are wizards. Thatís one wizard too many! The aim of the game is to reduce your opponentís health down to zero by casting SPELLS. 
+You and your opponent are wizards. That‚Äôs one wizard too many! The aim of the game is to reduce your opponent‚Äôs health down to zero by casting SPELLS. 
 
 You have six SPELLS:
 
@@ -26,7 +26,7 @@ PLAY
 
 Face your opponent with both your fists clenched opposite each other.
 
-Count ìone, two, threeî then cast a SPELL with each hands:
+Count ‚Äúone, two, three‚Äù then cast a SPELL with each hands:
 
 DEFLECT MAGIC blocks a spell. The same spells cancel each other out (except FIREBALL VS FIREBALL see below).
 
@@ -38,7 +38,7 @@ Magic is dangerous, sometimes ODD THINGS happen:
 
 LIGHTNING VS WARPHOLE = TIME RUSH only count to 2 next round.
 RAISE DEAD VS SUMMON FAMILIAR = BEASTIE BIT ME one hand each next round
-FIREBALL VS FIREBALL = WEíRE BOTH ON FIRE! Double Damage next round
+FIREBALL VS FIREBALL = WE‚ÄôRE BOTH ON FIRE! Double Damage next round
 
 ```
 ## Author Comments (if any)

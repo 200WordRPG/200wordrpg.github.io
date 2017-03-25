@@ -10,7 +10,7 @@ categories: 2016 rpg
 You walk among your brothers . The bitter wind sweeps now your faces, after the hot sand have burned your skin. The fall of millions of grains along the slopes resonates the void, the rumbling of the earth, last suffuring of a dying God ?
 
     
-The maze entrance… Torches flicker. They know the way. It’s the enlightened path to the divine anteroom. Altars are waiting. Offerings ? The same since thousands of years. But maybe they forgot them. Three litanies are carved : 
+The maze entranceâ€¦ Torches flicker. They know the way. Itâ€™s the enlightened path to the divine anteroom. Altars are waiting. Offerings ? The same since thousands of years. But maybe they forgot them. Three litanies are carved : 
 
 On the first : is awaited what grows and dies to let others live (a seed, for fertility).
         
