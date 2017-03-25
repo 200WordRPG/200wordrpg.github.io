@@ -7,7 +7,7 @@ link: "http://www.mortaine.com/blog"
 categories: 2015 rpg winner
 ---
 
-<object data="{{ site.url }}/pdfs/EscapePodOne.pdf" type="application/pdf" width="90%" align="middle" >
+<object data="{{ site.url }}/pdfs/EscapePodOne.pdf" type="application/pdf" width="95%" height="95%" align="middle" >
     <embed src="{{ site.url }}/pdfs/EscapePodOne.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.url }}/pdfs/EscapePodOne.pdf">Download PDF</a>.</p>
     </embed>
