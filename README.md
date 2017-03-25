@@ -2,16 +2,12 @@
 
 This is the main website for the [200 Word Game Design Challenge](https://200wordrpg.github.io/).
 
-### Why 200 Words?
+## Download Everything
 
-A 200 word limit encourages creativity and demands the very best of your editing and writing abilities. While making a game in 200 words can be difficult, it’s less of a daunting commitment than editing and proofing 85 pages of rules, complete with art and layout.
+This entire website and all of the entries hosted on it can be [downloaded here](https://github.com/200WordRPG/200wordrpg.github.io). _(the little green button in the top right)_
 
-Conceiving, designing, and publishing a 200 word game is a great first step toward completing larger game design projects.
+All of the entries can be found in the **_posts_** folder, each one as a markdown file.
 
-### Plaintext?
+In fact, this whole website is protected under the Creative Commons License; so anyone can copy this format for future challenges or personal sites. Shoot me an email if you need more info: davidschirduan-at-gmail.
 
-Visual presentation can be a large and scary problem. Very few people are masters of writing, editing, art direction, graphic design, layout, and marketing. It usually takes a village to make a game. We want participants to focus solely on the challenge of creative writing and brutal editing.
-
-### Connect with Creators
-
-Making and sharing a game is a great way to showcase your ideas and connect with new and more experienced game designers. Do you see a game that inspires you? The 200 Word RPG Challenge is a forge for new collaborations! That’s why all submissions are protected under the [Creative Commons license]({{site.baseurl}}/licensing).
+Hosted on **GitHub** • Theme by <a href="https://github.com/orderedlist">orderedlist</a>
