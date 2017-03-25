@@ -4,7 +4,7 @@ layout: default
 
 # Create a role-playing game in 200 words or less.
 
-### The 2017 Challenge will run from **April 15th** (00:01 EST) to **April 23** (23:99 EST)
+### The 2017 Challenge will run from April 15th to April 23. More details will be released at the beginning of April.
 
 ## Why 200 Words?
 
