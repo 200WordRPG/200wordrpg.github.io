@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simplest RPG"
-date: 2016-14-04 8:52:43
+date: 2016-14-04
 author: "Stoo Goff"
 link: "http://www.stoogoff.com"
 categories: 2016 rpg

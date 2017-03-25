@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "True Names"
-date: 2016-11-04 14:12:20
+date: 2016-11-04
 author: "Mack Marcotte"
 link: "no link"
 categories: 2016 rpg

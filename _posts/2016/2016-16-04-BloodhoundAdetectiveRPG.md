@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bloodhound - A detective RPG"
-date: 2016-16-04 19:13:47
+date: 2016-16-04
 author: "Kevin Bates"
 link: "no link"
 categories: 2016 rpg

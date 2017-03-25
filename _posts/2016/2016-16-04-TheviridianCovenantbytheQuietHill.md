@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The viridian Covenant by the Quiet Hill"
-date: 2016-16-04 20:05:20
+date: 2016-16-04
 author: "Ivan Vaghi"
 link: "no link"
 categories: 2016 rpg

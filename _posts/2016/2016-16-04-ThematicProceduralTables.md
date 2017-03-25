@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thematic Procedural Tables"
-date: 2016-16-04 15:24:22
+date: 2016-16-04
 author: "Mendel Schmiedekamp"
 link: "http://www.silvergardengames.com/"
 categories: 2016 supplement

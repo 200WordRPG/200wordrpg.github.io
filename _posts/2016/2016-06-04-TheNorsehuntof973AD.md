@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Norsehunt of 973 AD"
-date: 2016-06-04 9:50:04
+date: 2016-06-04
 author: "Jan "Crowen" Rosa"
 link: "no link"
 categories: 2016 rpg

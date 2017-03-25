@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scylla and Charybdis"
-date: 2016-03-04 6:30:58
+date: 2016-03-04
 author: "Antonio Amato"
 link: "https://lariservadeimammut.wordpress.com/"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Facing Away - a freeform storytelling game"
-date: 2016-06-04 12:12:15
+date: 2016-06-04
 author: "Zach W. Lorton"
 link: "livingonthebackburner.blogspot.com"
 categories: 2016 rpg

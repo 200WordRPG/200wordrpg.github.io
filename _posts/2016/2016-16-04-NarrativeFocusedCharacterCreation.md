@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Narrative-Focused Character Creation"
-date: 2016-16-04 23:28:27
+date: 2016-16-04
 author: "Liz Sander"
 link: "lizsander.com"
 categories: 2016 supplement

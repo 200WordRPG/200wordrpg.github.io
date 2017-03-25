@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technique for collaborative setting creation"
-date: 2016-16-04 16:27:14
+date: 2016-16-04
 author: "Remko van der Pluijm"
 link: "https://plus.google.com/+RemkovanderPluijm"
 categories: 2016 supplement

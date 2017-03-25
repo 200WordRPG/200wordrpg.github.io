@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marked For Godhood"
-date: 2016-17-04 8:05:58
+date: 2016-17-04
 author: "Jonathan Jung Johansen"
 link: "https://www.patreon.com/3xj"
 categories: 2016 rpg

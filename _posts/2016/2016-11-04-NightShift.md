@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Night Shift"
-date: 2016-11-04 21:50:33
+date: 2016-11-04
 author: "Joshua Mackay"
 link: "n/a"
 categories: 2016 rpg

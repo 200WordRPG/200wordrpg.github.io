@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Last Night at the Safeword"
-date: 2016-14-04 18:13:03
+date: 2016-14-04
 author: "Michael Crowley"
 link: "no link"
 categories: 2016 rpg

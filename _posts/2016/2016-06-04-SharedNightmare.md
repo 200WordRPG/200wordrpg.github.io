@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shared Nightmare"
-date: 2016-06-04 14:46:10
+date: 2016-06-04
 author: "Drake Williams"
 link: "no link"
 categories: 2016 rpg

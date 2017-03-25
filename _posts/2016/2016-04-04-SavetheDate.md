@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Save the Date"
-date: 2016-04-04 18:28:01
+date: 2016-04-04
 author: "David Rothfeder"
 link: "no link"
 categories: 2016 rpg

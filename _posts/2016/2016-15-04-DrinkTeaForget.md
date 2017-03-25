@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drink Tea. Forget."
-date: 2016-15-04 23:06:08
+date: 2016-15-04
 author: "M. Quintanilla"
 link: "no link"
 categories: 2016 rpg

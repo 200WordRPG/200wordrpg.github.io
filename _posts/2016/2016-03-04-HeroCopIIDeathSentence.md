@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hero Cop II: Death Sentence"
-date: 2016-03-04 3:25:48
+date: 2016-03-04
 author: "Stephen Karnes"
 link: "no link"
 categories: 2016 rpg

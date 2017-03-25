@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corporate Wars"
-date: 2016-02-04 13:29:36
+date: 2016-02-04
 author: "Terence Leong"
 link: "no link"
 categories: 2016 rpg

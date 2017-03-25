@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bangarang Bonhomie vs. CrimeCo International!"
-date: 2016-16-04 7:32:11
+date: 2016-16-04
 author: "Eric Farmer"
 link: "https://plus.google.com/u/0/+EricFarmerM/posts"
 categories: 2016 rpg

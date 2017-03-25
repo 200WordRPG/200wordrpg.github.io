@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ad-Lib Session Balancer/Tension Builder"
-date: 2016-12-04 10:54:18
+date: 2016-12-04
 author: "Lon Prater"
 link: "www.LonPrater.com"
 categories: 2016 supplement

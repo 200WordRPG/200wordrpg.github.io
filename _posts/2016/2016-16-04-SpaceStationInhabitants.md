@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Space Station Inhabitants"
-date: 2016-16-04 13:07:34
+date: 2016-16-04
 author: "Arne Babenhauserheide"
 link: "http://www.1w6.org/english"
 categories: 2016 supplement

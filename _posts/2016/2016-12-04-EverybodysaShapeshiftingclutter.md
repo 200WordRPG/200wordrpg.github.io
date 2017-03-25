@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Everybody’s a Shapeshifting clutter"
-date: 2016-12-04 4:08:14
+date: 2016-12-04
 author: "Francesco Zani"
 link: "https://www.facebook.com/geitgames/"
 categories: 2016 rpg

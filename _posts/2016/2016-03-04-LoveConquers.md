@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Love Conquers"
-date: 2016-03-04 22:42:21
+date: 2016-03-04
 author: "Tobie Abad"
 link: "https://www.facebook.com/TobieAbadGaming/"
 categories: 2016 supplement

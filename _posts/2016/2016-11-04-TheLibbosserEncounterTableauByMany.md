@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Libbosser Encounter Tableau - By Many"
-date: 2016-11-04 0:01:16
+date: 2016-11-04
 author: "Revlar"
 link: "I dun got none"
 categories: 2016 rpg

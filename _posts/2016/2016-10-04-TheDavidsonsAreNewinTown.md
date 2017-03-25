@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Davidsons Are New in Town"
-date: 2016-10-04 16:31:55
+date: 2016-10-04
 author: "Kamil Wegrzynowicz"
 link: "no link"
 categories: 2016 rpg

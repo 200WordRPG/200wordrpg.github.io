@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE HENCHMEN: The Daring Band That Follows"
-date: 2016-16-04 22:02:58
+date: 2016-16-04
 author: "Dwight & Brandy Upton"
 link: "none yet"
 categories: 2016 rpg

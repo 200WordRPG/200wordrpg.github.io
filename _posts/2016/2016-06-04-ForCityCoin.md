@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "For City Coin"
-date: 2016-06-04 7:34:44
+date: 2016-06-04
 author: "Sean Smith"
 link: "www.archaism.co.uk"
 categories: 2016 rpg

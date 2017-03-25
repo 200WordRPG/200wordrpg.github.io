@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2200 - Space Exploration"
-date: 2016-06-04 5:37:58
+date: 2016-06-04
 author: "Mixu Lauronen"
 link: "no link"
 categories: 2016 rpg

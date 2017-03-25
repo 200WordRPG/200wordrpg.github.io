@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Necropolis"
-date: 2016-16-04 10:09:38
+date: 2016-16-04
 author: "Thorsten Panknin"
 link: "https://thorstie.fornax.uberspace.de"
 categories: 2016 rpg

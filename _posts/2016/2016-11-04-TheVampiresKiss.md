@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Vampire's Kiss"
-date: 2016-11-04 18:43:59
+date: 2016-11-04
 author: "Joanna Piancastelli"
 link: "https://plus.google.com/+JoannaPiancastelli"
 categories: 2016 rpg

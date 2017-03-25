@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dum Mors nos separet, amemus!"
-date: 2016-03-04 18:13:42
+date: 2016-03-04
 author: "Ivan Lanìa"
 link: "no link"
 categories: 2016 rpg

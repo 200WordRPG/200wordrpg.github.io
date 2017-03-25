@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Liber Monstri"
-date: 2016-15-04 13:03:29
+date: 2016-15-04
 author: "Fred Bednarski"
 link: "http://level27geek.blogspot.com"
 categories: 2016 rpg

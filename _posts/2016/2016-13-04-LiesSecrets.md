@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lies & Secrets"
-date: 2016-13-04 19:06:30
+date: 2016-13-04
 author: "Austin"
 link: "austinglover.com"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Threshold"
-date: 2016-11-04 6:02:11
+date: 2016-11-04
 author: "Bob Horses"
 link: "no link"
 categories: 2016 rpg

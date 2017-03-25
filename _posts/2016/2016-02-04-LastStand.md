@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Last Stand"
-date: 2016-02-04 23:57:02
+date: 2016-02-04
 author: "Lee Mohnkern"
 link: "no link"
 categories: 2016 rpg

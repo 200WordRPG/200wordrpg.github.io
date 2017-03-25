@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Soap Bubble"
-date: 2016-12-04 16:44:15
+date: 2016-12-04
 author: "Josh Fox"
 link: "http://www.blackarmada.com"
 categories: 2016 rpg

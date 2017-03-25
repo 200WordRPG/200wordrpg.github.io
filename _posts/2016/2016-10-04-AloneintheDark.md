@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alone in the Dark"
-date: 2016-10-04 23:13:40
+date: 2016-10-04
 author: "Soren Ludwig"
 link: "no link"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remember the Apocalypse "
-date: 2016-11-04 23:50:29
+date: 2016-11-04
 author: "David Rothfeder"
 link: "no link"
 categories: 2016 supplement

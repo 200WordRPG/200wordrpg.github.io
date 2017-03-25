@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Achievements - An expansion for all games"
-date: 2016-11-04 17:16:29
+date: 2016-11-04
 author: "Epistolary Richard"
 link: "https://plus.google.com/u/0/104855606903841258736/"
 categories: 2016 supplement

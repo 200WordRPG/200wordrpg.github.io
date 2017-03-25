@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crossroad Fables"
-date: 2016-13-04 2:49:43
+date: 2016-13-04
 author: "Michael Wenman"
 link: "vulpinoid.blogspot.com"
 categories: 2016 supplement

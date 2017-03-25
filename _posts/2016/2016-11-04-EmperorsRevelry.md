@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emperor’s Revelry"
-date: 2016-11-04 23:13:19
+date: 2016-11-04
 author: "Keith Kelley"
 link: "no link"
 categories: 2016 rpg

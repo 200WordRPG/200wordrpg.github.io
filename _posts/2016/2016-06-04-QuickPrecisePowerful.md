@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick/Precise/Powerful"
-date: 2016-06-04 14:35:09
+date: 2016-06-04
 author: "Carlos Luna"
 link: "https://twitter.com/el_luna"
 categories: 2016 rpg

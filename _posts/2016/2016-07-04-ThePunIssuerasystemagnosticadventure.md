@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Pun-Issuer, a system agnostic adventure"
-date: 2016-07-04 17:34:23
+date: 2016-07-04
 author: "M. B. Downey"
 link: "https://rpggeek.com/rpgdesigner/64549/m-b-downey"
 categories: 2016 supplement

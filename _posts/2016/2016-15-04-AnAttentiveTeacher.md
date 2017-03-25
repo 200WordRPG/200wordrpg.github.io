@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Attentive Teacher"
-date: 2016-15-04 17:17:18
+date: 2016-15-04
 author: "Sean Smith"
 link: "www.archaism.co.uk"
 categories: 2016 supplement

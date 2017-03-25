@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Children of Two Mothers"
-date: 2016-16-04 8:00:33
+date: 2016-16-04
 author: "Robert Carnel"
 link: "thee-rapture.carnel.org"
 categories: 2016 supplement

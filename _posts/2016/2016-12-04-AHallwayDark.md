@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Hallway, Dark"
-date: 2016-12-04 17:17:08
+date: 2016-12-04
 author: "Frank Lisbon "
 link: "N/A"
 categories: 2016 rpg

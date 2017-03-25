@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Soulstrings"
-date: 2016-16-04 16:07:25
+date: 2016-16-04
 author: "Marek Golonka"
 link: "planplot.wordpress.com (Polish)"
 categories: 2016 rpg

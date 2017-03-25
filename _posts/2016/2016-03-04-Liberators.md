@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Liberators"
-date: 2016-03-04 18:11:53
+date: 2016-03-04
 author: "Ben Krimsun"
 link: "no link"
 categories: 2016 rpg

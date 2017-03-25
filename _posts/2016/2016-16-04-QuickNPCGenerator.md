@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick NPC Generator"
-date: 2016-16-04 13:03:30
+date: 2016-16-04
 author: "Doug Ruff"
 link: "no link"
 categories: 2016 supplement

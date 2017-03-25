@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "They Row Downriver"
-date: 2016-08-04 19:22:47
+date: 2016-08-04
 author: "Teslin K Roys"
 link: "no link"
 categories: 2016 rpg

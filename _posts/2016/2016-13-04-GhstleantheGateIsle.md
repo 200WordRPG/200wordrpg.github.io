@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ghæstlean, the Gate Isle"
-date: 2016-13-04 20:17:33
+date: 2016-13-04
 author: "Chris Colbath"
 link: "https://serenityalways.com/blog"
 categories: 2016 supplement

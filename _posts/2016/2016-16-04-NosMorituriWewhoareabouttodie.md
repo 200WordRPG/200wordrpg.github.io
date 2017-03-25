@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nos Morituri: We who are about to die"
-date: 2016-16-04 1:15:33
+date: 2016-16-04
 author: "Gareth Hodges"
 link: "cosmgames.com"
 categories: 2016 rpg

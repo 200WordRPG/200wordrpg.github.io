@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sword in the Stone"
-date: 2016-15-04 16:32:31
+date: 2016-15-04
 author: "Andy Munich"
 link: "http://germancity.tumblr.com"
 categories: 2016 rpg

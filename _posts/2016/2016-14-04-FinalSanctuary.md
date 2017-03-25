@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Final Sanctuary"
-date: 2016-14-04 4:11:35
+date: 2016-14-04
 author: "Doug Ruff"
 link: "no link"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The College Animalia"
-date: 2016-06-04 23:55:15
+date: 2016-06-04
 author: "Ed Turner"
 link: "twitter.com/EddlyT"
 categories: 2016 supplement

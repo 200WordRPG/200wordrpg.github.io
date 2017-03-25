@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Less The More!"
-date: 2016-13-04 15:36:22
+date: 2016-13-04
 author: "Johan Wijk"
 link: "no link"
 categories: 2016 rpg

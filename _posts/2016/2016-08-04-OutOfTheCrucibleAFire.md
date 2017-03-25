@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Out Of The Crucible, A Fire"
-date: 2016-08-04 11:20:52
+date: 2016-08-04
 author: "Taylor LaBresh"
 link: "RiverhouseGames.com"
 categories: 2016 rpg

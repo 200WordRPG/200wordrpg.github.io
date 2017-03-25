@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ashen Plains"
-date: 2016-16-04 13:50:23
+date: 2016-16-04
 author: "Anton"
 link: "https://savevshollowing.wordpress.com/"
 categories: 2016 supplement

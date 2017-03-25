@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brain in a Vat"
-date: 2016-12-04 6:19:51
+date: 2016-12-04
 author: "S?awomir Wójcik"
 link: "no link"
 categories: 2016 rpg

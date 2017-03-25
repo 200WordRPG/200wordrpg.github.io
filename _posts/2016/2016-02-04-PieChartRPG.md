@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pie Chart RPG"
-date: 2016-02-04 10:49:00
+date: 2016-02-04
 author: "Lauren Clark"
 link: "https://twitter.com/HexManiacWingy"
 categories: 2016 rpg

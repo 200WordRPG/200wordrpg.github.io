@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where thunder falls for the last time"
-date: 2016-15-04 6:43:59
+date: 2016-15-04
 author: "Anthony YOUSSEF"
 link: "no link"
 categories: 2016 rpg

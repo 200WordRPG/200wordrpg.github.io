@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adeline the sow"
-date: 2016-15-04 15:43:47
+date: 2016-15-04
 author: "Arjuna Khan"
 link: "no link"
 categories: 2016 rpg

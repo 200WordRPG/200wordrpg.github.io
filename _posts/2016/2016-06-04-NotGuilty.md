@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(Not) Guilty"
-date: 2016-06-04 17:10:13
+date: 2016-06-04
 author: "Miranda Debenham"
 link: "no link"
 categories: 2016 rpg

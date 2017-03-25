@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pregen Characters for Interns and Invaders"
-date: 2016-14-04 15:52:13
+date: 2016-14-04
 author: "Sheila Ayala Heady"
 link: "cultistseverywhere.wordpress.com"
 categories: 2016 supplement

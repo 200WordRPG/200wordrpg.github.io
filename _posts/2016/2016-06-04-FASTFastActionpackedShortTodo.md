@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "F.A.S.T (Fast, Action-packed, Short, To-do)"
-date: 2016-06-04 10:12:04
+date: 2016-06-04
 author: "TheMonarchGamer"
 link: "no link"
 categories: 2016 rpg

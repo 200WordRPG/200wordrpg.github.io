@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alliance(?) Generator"
-date: 2016-09-04 20:08:34
+date: 2016-09-04
 author: "Eric Sheldahl"
 link: "https://plus.google.com/u/0/109974150370410493677/posts"
 categories: 2016 supplement

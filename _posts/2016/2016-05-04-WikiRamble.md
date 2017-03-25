@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WikiRamble"
-date: 2016-05-04 16:09:42
+date: 2016-05-04
 author: "Jonathan Hollocombe"
 link: "no link"
 categories: 2016 rpg

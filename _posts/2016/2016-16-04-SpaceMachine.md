@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Space Machine"
-date: 2016-16-04 15:26:30
+date: 2016-16-04
 author: "Joe Greahead"
 link: "https://twitter.com/joevgreathead"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In a Compaignye of Sondry Folk"
-date: 2016-05-04 5:49:37
+date: 2016-05-04
 author: "Shae Davidson"
 link: "shaespantry.wordpress.com"
 categories: 2016 supplement

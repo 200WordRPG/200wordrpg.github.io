@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Only Together"
-date: 2016-16-04 23:30:11
+date: 2016-16-04
 author: "Jeremy Lambros"
 link: "@jblambros"
 categories: 2016 rpg

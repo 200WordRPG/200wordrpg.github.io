@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caffeine and Malpractice"
-date: 2016-14-04 15:43:21
+date: 2016-14-04
 author: "Slade Stolar"
 link: "scablandspress.com"
 categories: 2016 rpg

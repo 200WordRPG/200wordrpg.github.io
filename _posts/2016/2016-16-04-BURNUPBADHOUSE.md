@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BURN UP BAD HOUSE"
-date: 2016-16-04 8:58:26
+date: 2016-16-04
 author: "adam mcconnaughey"
 link: "https://plus.google.com/u/0/+AdamMcConnaughey/posts"
 categories: 2016 rpg

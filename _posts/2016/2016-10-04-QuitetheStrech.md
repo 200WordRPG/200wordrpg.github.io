@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quite the Strech"
-date: 2016-10-04 12:22:43
+date: 2016-10-04
 author: "Devlin Farmer"
 link: "no link"
 categories: 2016 rpg

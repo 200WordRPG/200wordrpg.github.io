@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Doomsayer"
-date: 2016-14-04 19:34:10
+date: 2016-14-04
 author: "William Humphreys"
 link: "http://hexdnd.forumotion.com/"
 categories: 2016 rpg

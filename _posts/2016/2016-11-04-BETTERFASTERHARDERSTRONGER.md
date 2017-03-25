@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BETTER, FASTER, HARDER, STRONGER"
-date: 2016-11-04 10:42:52
+date: 2016-11-04
 author: "Carl Lehmann"
 link: "https://www.linkedin.com/in/lehmanncg"
 categories: 2016 rpg

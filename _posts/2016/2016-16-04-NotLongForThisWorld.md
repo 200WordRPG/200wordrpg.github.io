@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Not Long For This World"
-date: 2016-16-04 21:51:57
+date: 2016-16-04
 author: "Mickey Michalik"
 link: "no link"
 categories: 2016 rpg

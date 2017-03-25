@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bringing Cyberpunk to Fate Core"
-date: 2016-10-04 13:52:13
+date: 2016-10-04
 author: "Jonathan Hollocombe"
 link: "no link"
 categories: 2016 supplement

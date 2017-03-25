@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instant Adventures Generator - pocket edition"
-date: 2016-14-04 6:27:19
+date: 2016-14-04
 author: "Menno van der Leden"
 link: "http://instant-adventures.net"
 categories: 2016 supplement

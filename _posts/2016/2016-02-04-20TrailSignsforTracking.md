@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "20 Trail Signs for Tracking"
-date: 2016-02-04 21:40:22
+date: 2016-02-04
 author: "Mark S. Cookman"
 link: "http://www.blacksharkenterprises.com/#!bio/c1ktj"
 categories: 2016 supplement

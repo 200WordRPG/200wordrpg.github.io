@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In Transit"
-date: 2016-09-04 15:46:41
+date: 2016-09-04
 author: "Tom Fendt"
 link: "https://plus.google.com/101391595920865035422/posts"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ALLEGORY – THE DERIVATIVE RPG"
-date: 2016-13-04 19:58:38
+date: 2016-13-04
 author: "Adam Brackin"
 link: "adambrackin.com"
 categories: 2016 rpg

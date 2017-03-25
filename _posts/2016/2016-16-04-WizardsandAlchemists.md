@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wizards and Alchemists"
-date: 2016-16-04 17:11:27
+date: 2016-16-04
 author: "Pablo Toledo"
 link: "no link"
 categories: 2016 rpg

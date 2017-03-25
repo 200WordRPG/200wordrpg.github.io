@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paladin and Heathen"
-date: 2016-07-04 23:18:19
+date: 2016-07-04
 author: "Luke S Hendrix"
 link: "no link"
 categories: 2016 rpg

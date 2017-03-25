@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Mount Akumu"
-date: 2016-16-04 15:19:06
+date: 2016-16-04
 author: "Alex Lunder"
 link: "1d3studios.com"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seltas Khyber, NPC and short adventure hook"
-date: 2016-13-04 15:30:05
+date: 2016-13-04
 author: "Kyle"
 link: "no link"
 categories: 2016 supplement

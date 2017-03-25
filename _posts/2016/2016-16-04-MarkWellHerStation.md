@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mark Well Her Station"
-date: 2016-16-04 13:28:47
+date: 2016-16-04
 author: "Joel Dettweiler"
 link: "dettonator11.tumblr.com"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Consumable Compendium"
-date: 2016-11-04 0:57:04
+date: 2016-11-04
 author: "Soren Ludwig"
 link: "no link"
 categories: 2016 supplement

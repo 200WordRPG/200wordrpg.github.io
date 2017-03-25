@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dragon/Dragonslayer"
-date: 2016-05-04 12:06:43
+date: 2016-05-04
 author: "Wendy Gorman "
 link: "no link"
 categories: 2016 rpg

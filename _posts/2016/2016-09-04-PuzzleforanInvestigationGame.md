@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Puzzle for an Investigation Game"
-date: 2016-09-04 13:27:52
+date: 2016-09-04
 author: "mutant"
 link: "www.8427.fr"
 categories: 2016 supplement

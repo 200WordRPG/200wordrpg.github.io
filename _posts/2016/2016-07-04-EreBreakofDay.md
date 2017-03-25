@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ere Break of Day"
-date: 2016-07-04 17:34:18
+date: 2016-07-04
 author: "Andrei B"
 link: "http://rpg-tinker.blogspot.com/"
 categories: 2016 rpg

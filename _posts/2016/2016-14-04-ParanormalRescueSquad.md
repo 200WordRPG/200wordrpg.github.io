@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paranormal Rescue Squad"
-date: 2016-14-04 9:37:25
+date: 2016-14-04
 author: "Allan Dotson"
 link: "maycontainmonkeys.tumblr.com"
 categories: 2016 rpg

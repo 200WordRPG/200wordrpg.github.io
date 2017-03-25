@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JukeBoxers"
-date: 2016-05-04 20:42:39
+date: 2016-05-04
 author: "Phil Rosen"
 link: "no link"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The safe, safe room below"
-date: 2016-10-04 20:05:34
+date: 2016-10-04
 author: "Khelren"
 link: "https://www.tipeee.com/khelren"
 categories: 2016 rpg

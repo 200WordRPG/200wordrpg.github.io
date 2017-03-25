@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 minutes Eating Contest"
-date: 2016-15-04 10:43:57
+date: 2016-15-04
 author: "Wisteria Castle"
 link: "no link"
 categories: 2016 rpg

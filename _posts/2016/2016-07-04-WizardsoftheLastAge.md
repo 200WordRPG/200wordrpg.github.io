@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wizards of the Last Age"
-date: 2016-07-04 18:41:53
+date: 2016-07-04
 author: "Robert Carnel"
 link: "thee-rapture.carnel.org"
 categories: 2016 rpg

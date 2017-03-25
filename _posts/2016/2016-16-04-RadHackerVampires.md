@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rad Hacker Vampires"
-date: 2016-16-04 7:50:22
+date: 2016-16-04
 author: "Ryan Ó Laoithe"
 link: "no link"
 categories: 2016 rpg

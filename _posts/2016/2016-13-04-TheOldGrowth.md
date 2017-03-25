@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Old Growth"
-date: 2016-13-04 5:00:53
+date: 2016-13-04
 author: "Ryan Mellon"
 link: "lostcatgames@gmail.com"
 categories: 2016 rpg

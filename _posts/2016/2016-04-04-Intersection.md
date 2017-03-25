@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intersection"
-date: 2016-04-04 11:20:02
+date: 2016-04-04
 author: "Eric Simon"
 link: "steamscapes.com"
 categories: 2016 rpg

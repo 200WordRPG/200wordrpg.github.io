@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Questioning"
-date: 2016-16-04 18:16:37
+date: 2016-16-04
 author: "Guilherme Duarte Rodrigues"
 link: "facebook.com/paperdicegames"
 categories: 2016 rpg

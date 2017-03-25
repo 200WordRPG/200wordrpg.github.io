@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "True Minds"
-date: 2016-14-04 1:17:27
+date: 2016-14-04
 author: "Karl Larsson"
 link: "no link"
 categories: 2016 rpg

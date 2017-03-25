@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "200 square dungeons"
-date: 2016-14-04 18:47:44
+date: 2016-14-04
 author: "Bruno Bord"
 link: "http://jehaisleprintemps.net"
 categories: 2016 supplement

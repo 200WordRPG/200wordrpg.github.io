@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NPC Bad Tendencies"
-date: 2016-13-04 10:23:40
+date: 2016-13-04
 author: "Frank Lisbon"
 link: "no link"
 categories: 2016 supplement

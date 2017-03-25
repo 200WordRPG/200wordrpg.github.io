@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Immortal Game"
-date: 2016-02-04 10:40:01
+date: 2016-02-04
 author: "Rhys McMillan"
 link: "https://twitter.com/rhysmakeswords"
 categories: 2016 rpg

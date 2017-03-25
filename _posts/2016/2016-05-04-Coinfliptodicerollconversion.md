@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coin flip to dice roll conversion"
-date: 2016-05-04 13:05:12
+date: 2016-05-04
 author: "Tyler Westerfield"
 link: "no link"
 categories: 2016 supplement

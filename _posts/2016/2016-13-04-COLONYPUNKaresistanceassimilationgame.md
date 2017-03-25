@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COLONYPUNK: a resistance & assimilation game"
-date: 2016-13-04 1:46:03
+date: 2016-13-04
 author: "Bruce ES Warner"
 link: "no link"
 categories: 2016 rpg

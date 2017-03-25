@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EERIE ODYSSEY"
-date: 2016-11-04 16:45:15
+date: 2016-11-04
 author: "Øivind Stengrundet"
 link: "http://www.vandrerne.net"
 categories: 2016 rpg

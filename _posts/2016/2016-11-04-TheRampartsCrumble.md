@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ramparts Crumble"
-date: 2016-11-04 11:25:47
+date: 2016-11-04
 author: "Joe Banner"
 link: "http://www.joebanner.co.uk"
 categories: 2016 rpg

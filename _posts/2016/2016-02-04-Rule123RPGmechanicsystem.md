@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "“Rule 1-2-3” RPG mechanic system"
-date: 2016-02-04 10:57:27
+date: 2016-02-04
 author: "Tim Snider"
 link: "http://savageafterworld.blogspot.com/"
 categories: 2016 supplement

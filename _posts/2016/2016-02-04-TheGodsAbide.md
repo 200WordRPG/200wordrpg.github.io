@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Gods Abide"
-date: 2016-02-04 22:43:33
+date: 2016-02-04
 author: "Jason Pitre"
 link: "www.genesisoflegend.com"
 categories: 2016 rpg

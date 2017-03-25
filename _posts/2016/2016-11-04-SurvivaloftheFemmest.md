@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Survival of the Femmest"
-date: 2016-11-04 11:39:32
+date: 2016-11-04
 author: "River Williamson"
 link: "https://plus.google.com/+RiverWilliamson"
 categories: 2016 rpg

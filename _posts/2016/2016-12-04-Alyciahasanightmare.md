@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alycia has a nightmare"
-date: 2016-12-04 4:46:14
+date: 2016-12-04
 author: "Pak Cormier"
 link: "http://pak-cormier.jimdo.com/"
 categories: 2016 rpg

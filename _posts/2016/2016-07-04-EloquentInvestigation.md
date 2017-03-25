@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eloquent Investigation"
-date: 2016-07-04 10:28:51
+date: 2016-07-04
 author: "Werner Waage"
 link: "http://kspill.no"
 categories: 2016 rpg

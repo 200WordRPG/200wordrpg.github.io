@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Cost of Magic - Inspiration for GMs"
-date: 2016-15-04 13:59:27
+date: 2016-15-04
 author: "Riccardo Rossi"
 link: "danieltravis.wordpress.com"
 categories: 2016 supplement

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Invented Time Travel"
-date: 2016-08-04 23:26:58
+date: 2016-08-04
 author: "Todd Peters"
 link: "no link"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visionaries Anonymous"
-date: 2016-14-04 3:44:36
+date: 2016-14-04
 author: "Thomas Edwards"
 link: "no link"
 categories: 2016 rpg

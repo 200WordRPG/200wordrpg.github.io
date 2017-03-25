@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Blame Game"
-date: 2016-10-04 20:58:26
+date: 2016-10-04
 author: "Christopher L. Drake"
 link: "Http://worldbuilder.dungeoncouture.com/"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ouroboros"
-date: 2016-12-04 16:47:25
+date: 2016-12-04
 author: "Josh Fox"
 link: "http://www.blackarmada.com"
 categories: 2016 supplement

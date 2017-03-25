@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "War Council: a Dinner Larp"
-date: 2016-08-04 12:25:44
+date: 2016-08-04
 author: "Tara Zuber"
 link: "www.tarazuber.com"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elevator Pitch"
-date: 2016-03-04 9:29:58
+date: 2016-03-04
 author: "Bruno Bord"
 link: "http://jehaisleprintemps.net"
 categories: 2016 rpg

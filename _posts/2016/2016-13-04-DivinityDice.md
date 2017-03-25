@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Divinity Dice"
-date: 2016-13-04 14:06:58
+date: 2016-13-04
 author: "Edcrab"
 link: "https://twitter.com/campaignwhereu"
 categories: 2016 rpg

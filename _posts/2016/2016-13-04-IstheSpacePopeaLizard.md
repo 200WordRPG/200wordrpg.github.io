@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is the Space Pope a Lizard?"
-date: 2016-13-04 16:16:59
+date: 2016-13-04
 author: "Tobias Strauss"
 link: "https://cynicallittlegames.wordpress.com/"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop Hiding Your Crush"
-date: 2016-10-04 21:04:38
+date: 2016-10-04
 author: "Joe Mills"
 link: "Twitter: @mr_nonchalance"
 categories: 2016 rpg

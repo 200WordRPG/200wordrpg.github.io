@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BURNT CHROME"
-date: 2016-05-04 10:36:06
+date: 2016-05-04
 author: "Eddie Goehner"
 link: "no link"
 categories: 2016 rpg

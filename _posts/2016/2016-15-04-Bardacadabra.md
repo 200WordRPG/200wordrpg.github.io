@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bardacadabra"
-date: 2016-15-04 19:43:40
+date: 2016-15-04
 author: "Jo Lindsay Walton"
 link: "www.sadpressgames.com"
 categories: 2016 supplement

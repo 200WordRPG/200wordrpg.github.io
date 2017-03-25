@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sail the Underworld"
-date: 2016-12-04 10:16:04
+date: 2016-12-04
 author: "Ludovico Alves"
 link: "no link"
 categories: 2016 supplement

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recollection"
-date: 2016-06-04 5:15:41
+date: 2016-06-04
 author: "Dominic Carroll"
 link: "www.firecat-masquerade.com"
 categories: 2016 rpg

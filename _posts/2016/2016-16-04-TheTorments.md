@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Torments"
-date: 2016-16-04 10:37:11
+date: 2016-16-04
 author: "Lucas Hyon"
 link: "velnacros.wordpress.com"
 categories: 2016 rpg

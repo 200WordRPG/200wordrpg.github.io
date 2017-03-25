@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We Are Cadavre Exquis"
-date: 2016-13-04 16:43:53
+date: 2016-13-04
 author: "Tomer Gurantz"
 link: "http://www.supernovembergames.com"
 categories: 2016 rpg

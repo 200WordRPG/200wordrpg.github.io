@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fusion Corp"
-date: 2016-14-04 14:28:42
+date: 2016-14-04
 author: "Tracy Harris"
 link: "no link"
 categories: 2016 rpg

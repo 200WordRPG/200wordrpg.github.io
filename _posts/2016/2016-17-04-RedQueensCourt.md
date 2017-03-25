@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red Queens Court"
-date: 2016-17-04 1:56:01
+date: 2016-17-04
 author: "Christopher McCown"
 link: "no link"
 categories: 2016 rpg
