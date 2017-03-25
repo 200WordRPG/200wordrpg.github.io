@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cheese Dudes: Basic Edition"
-date: 2016-05-04T18:53:37
+date: 2016-05-04 18:53:37
 author: "Callum Wilks"
 link: "http://systemmasterypodcast.com/ just promote these guys since they rule"
 categories: 2016 rpg

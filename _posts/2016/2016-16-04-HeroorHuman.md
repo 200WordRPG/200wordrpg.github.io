@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hero or Human?"
-date: 2016-16-04T10:53:01
+date: 2016-16-04 10:53:01
 author: "Chris Ing"
 link: "silzero.wordpress.com"
 categories: 2016 rpg

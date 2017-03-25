@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cloak and Dagger"
-date: 2016-14-04T16:11:24
+date: 2016-14-04 16:11:24
 author: "Tyler Lamb"
 link: "https://tapastic.com/episode/94988"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Caravan"
-date: 2016-17-04T4:07:34
+date: 2016-17-04 4:07:34
 author: "Nathan Harrison"
 link: "http://orbis-tertius.org"
 categories: 2016 rpg

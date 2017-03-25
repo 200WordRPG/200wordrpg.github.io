@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apple of Discord"
-date: 2016-12-04T10:10:16
+date: 2016-12-04 10:10:16
 author: "Ludovico Alves"
 link: "no link"
 categories: 2016 rpg

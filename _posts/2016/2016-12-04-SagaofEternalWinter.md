@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saga of Eternal Winter"
-date: 2016-12-04T11:03:09
+date: 2016-12-04 11:03:09
 author: "Jan "Crowen" Rosa"
 link: "no link"
 categories: 2016 supplement

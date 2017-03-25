@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rainbow World"
-date: 2016-12-04T13:29:12
+date: 2016-12-04 13:29:12
 author: "Matt Bohnhoff"
 link: "no link"
 categories: 2016 supplement

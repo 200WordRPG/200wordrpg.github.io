@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weather Supplement (A Storytelling Principle)"
-date: 2016-17-04T4:54:26
+date: 2016-17-04 4:54:26
 author: "YG Mitchell"
 link: "YGMitchell.com"
 categories: 2016 supplement

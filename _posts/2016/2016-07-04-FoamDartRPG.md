@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Foam Dart RPG"
-date: 2016-07-04T10:40:25
+date: 2016-07-04 10:40:25
 author: "Joe England"
 link: "https://plus.google.com/u/0/+RamblinGrump/about"
 categories: 2016 supplement

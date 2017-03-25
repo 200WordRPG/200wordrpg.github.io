@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interns and Invaders"
-date: 2016-14-04T13:52:19
+date: 2016-14-04 13:52:19
 author: "Sheila Ayala Heady"
 link: "https://cultistseverywhere.wordpress.com/"
 categories: 2016 rpg

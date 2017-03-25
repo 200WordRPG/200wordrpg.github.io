@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "That Fateful Day"
-date: 2016-04-04T11:35:10
+date: 2016-04-04 11:35:10
 author: "Jay Treat"
 link: "TreatGames.com"
 categories: 2016 rpg

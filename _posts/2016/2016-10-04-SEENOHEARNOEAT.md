@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SEE NO, HEAR NO, EAT"
-date: 2016-10-04T13:33:39
+date: 2016-10-04 13:33:39
 author: "Brie Sheldon"
 link: "briecs.com"
 categories: 2016 rpg

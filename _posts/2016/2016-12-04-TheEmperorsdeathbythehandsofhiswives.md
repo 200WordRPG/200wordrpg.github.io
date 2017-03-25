@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Emperor’s death by the hands of his wives"
-date: 2016-12-04T8:04:34
+date: 2016-12-04 8:04:34
 author: "Nick Wedig"
 link: "http://nickwedig.libraryofhighmoon.com/"
 categories: 2016 rpg

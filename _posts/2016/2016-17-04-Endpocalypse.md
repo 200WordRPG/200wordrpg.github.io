@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#Endpocalypse"
-date: 2016-17-04T0:30:19
+date: 2016-17-04 0:30:19
 author: "Andrew J. Young"
 link: "gatherroundrpg.blogspot.com"
 categories: 2016 rpg

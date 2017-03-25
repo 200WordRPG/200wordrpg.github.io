@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Pilgrimage - A  Game about Seeking"
-date: 2016-16-04T21:33:09
+date: 2016-16-04 21:33:09
 author: "Ian Howard"
 link: "no link"
 categories: 2016 rpg

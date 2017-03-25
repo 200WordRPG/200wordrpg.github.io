@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Duke's Laws"
-date: 2016-11-04T9:27:09
+date: 2016-11-04 9:27:09
 author: "Guillaume Clerc"
 link: "http://www.gamersassociate.com"
 categories: 2016 rpg

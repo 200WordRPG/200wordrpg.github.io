@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Survivors"
-date: 2016-09-04T7:10:56
+date: 2016-09-04 7:10:56
 author: "Marco Zanchi"
 link: "no link"
 categories: 2016 rpg

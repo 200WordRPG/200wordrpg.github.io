@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Omelette Quest"
-date: 2016-08-04T19:49:39
+date: 2016-08-04 19:49:39
 author: "Tyler Westerfield"
 link: "no link"
 categories: 2016 rpg

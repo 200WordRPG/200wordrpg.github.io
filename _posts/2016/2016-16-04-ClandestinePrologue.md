@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clandestine: Prologue"
-date: 2016-16-04T15:04:29
+date: 2016-16-04 15:04:29
 author: "Mendel Schmiedekamp"
 link: "http://www.silvergardengames.com/"
 categories: 2016 rpg

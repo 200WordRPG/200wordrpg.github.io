@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Gauntlet"
-date: 2016-04-04T20:15:28
+date: 2016-04-04 20:15:28
 author: "Sean M. Dunstan"
 link: "no link"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Entrenched"
-date: 2016-14-04T20:42:26
+date: 2016-14-04 20:42:26
 author: "Taylor LaBresh"
 link: "riverhousegames.com"
 categories: 2016 supplement

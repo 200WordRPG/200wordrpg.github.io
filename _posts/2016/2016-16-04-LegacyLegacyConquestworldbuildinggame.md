@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Legacy/Legacy: Conquest, world building game "
-date: 2016-16-04T14:43:36
+date: 2016-16-04 14:43:36
 author: "Matthew Allen"
 link: "none"
 categories: 2016 supplement

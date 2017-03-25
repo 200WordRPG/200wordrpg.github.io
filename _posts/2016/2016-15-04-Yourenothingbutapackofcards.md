@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "`You're nothing but a pack of cards!'"
-date: 2016-15-04T14:44:18
+date: 2016-15-04 14:44:18
 author: "Fabien Badilla"
 link: "http://fabienfb.blogspot.com/"
 categories: 2016 supplement

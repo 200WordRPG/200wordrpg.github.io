@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adventures in a Wild World"
-date: 2016-02-04T10:34:52
+date: 2016-02-04 10:34:52
 author: "David Meersteiner"
 link: "no link"
 categories: 2016 supplement

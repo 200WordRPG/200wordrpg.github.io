@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chaos Boundary - pocket edition"
-date: 2016-13-04T8:07:49
+date: 2016-13-04 8:07:49
 author: "Menno van der Leden"
 link: "http://instant-adventures.net"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Have I Wrought"
-date: 2016-07-04T17:29:41
+date: 2016-07-04 17:29:41
 author: "Alex Carlson"
 link: "no link"
 categories: 2016 rpg

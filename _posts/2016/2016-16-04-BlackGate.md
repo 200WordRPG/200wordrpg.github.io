@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Black Gate"
-date: 2016-16-04T14:58:20
+date: 2016-16-04 14:58:20
 author: "Kordian Krawczyk"
 link: "grynarracyjne.pl"
 categories: 2016 rpg

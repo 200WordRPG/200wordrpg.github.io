@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lunch Rush"
-date: 2016-12-04T14:21:00
+date: 2016-12-04 14:21:00
 author: "Robert Black"
 link: "alchemyprime.net or http://savingthrowvs.tumblr.com/"
 categories: 2016 rpg

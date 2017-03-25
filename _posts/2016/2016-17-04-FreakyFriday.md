@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Freaky Friday"
-date: 2016-17-04T0:41:47
+date: 2016-17-04 0:41:47
 author: "Darrell Thomas"
 link: "no link"
 categories: 2016 supplement

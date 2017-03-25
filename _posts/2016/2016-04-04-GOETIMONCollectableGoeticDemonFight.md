@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GOET’I’MON: Collectable Goetic Demon Fight"
-date: 2016-04-04T12:21:40
+date: 2016-04-04 12:21:40
 author: "Jeremy Kostiew"
 link: "https://plus.google.com/+JeremyKostiew/"
 categories: 2016 rpg

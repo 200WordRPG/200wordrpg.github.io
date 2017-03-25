@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "200 Hero's Journeys"
-date: 2016-05-04T6:06:02
+date: 2016-05-04 6:06:02
 author: "Fabio Gemesio"
 link: "https://www.facebook.com/fabio.gemesio"
 categories: 2016 rpg

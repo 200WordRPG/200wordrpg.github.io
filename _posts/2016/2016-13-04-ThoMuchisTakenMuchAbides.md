@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tho' Much is Taken, Much Abides"
-date: 2016-13-04T16:04:39
+date: 2016-13-04 16:04:39
 author: "Ben Klug"
 link: "@silkandstone on twitter"
 categories: 2016 rpg

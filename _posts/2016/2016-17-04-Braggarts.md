@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Braggarts"
-date: 2016-17-04T0:12:46
+date: 2016-17-04 0:12:46
 author: "B. Pearlstein"
 link: "no link"
 categories: 2016 rpg

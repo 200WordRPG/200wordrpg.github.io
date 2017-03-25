@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BombSquad: Countdown to Destruction"
-date: 2016-11-04T18:26:34
+date: 2016-11-04 18:26:34
 author: "Ian Werth"
 link: "https://twitter.com/IanWerth"
 categories: 2016 rpg

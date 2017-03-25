@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Adventurers on a Quest"
-date: 2016-14-04T15:39:03
+date: 2016-14-04 15:39:03
 author: "Chelsey Eaton"
 link: "https://plus.google.com/u/0/106374169006137837802/about"
 categories: 2016 rpg

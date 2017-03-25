@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(in)Vulnerable"
-date: 2016-12-04T12:05:55
+date: 2016-12-04 12:05:55
 author: "Benjamin l Baugh "
 link: "no link"
 categories: 2016 rpg

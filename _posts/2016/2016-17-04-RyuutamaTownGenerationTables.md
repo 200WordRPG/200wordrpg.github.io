@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ryuutama Town Generation Tables"
-date: 2016-17-04T2:06:22
+date: 2016-17-04 2:06:22
 author: "Selene Tan"
 link: "http://games.nightstaff.net"
 categories: 2016 supplement

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Powerplay in Love"
-date: 2016-15-04T17:20:29
+date: 2016-15-04 17:20:29
 author: "Remko van der Pluijm"
 link: "no link"
 categories: 2016 rpg

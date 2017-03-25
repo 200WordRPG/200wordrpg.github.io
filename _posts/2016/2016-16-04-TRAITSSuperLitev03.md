@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TRAITS Super-Lite v0.3"
-date: 2016-16-04T13:15:21
+date: 2016-16-04 13:15:21
 author: "Benson Yee"
 link: "https://www.reddit.com/user/Toothless_Night_Fury/"
 categories: 2016 rpg

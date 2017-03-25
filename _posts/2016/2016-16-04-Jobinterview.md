@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Job interview"
-date: 2016-16-04T6:37:29
+date: 2016-16-04 6:37:29
 author: "Elizabeth Lovegrove"
 link: "https://plus.google.com/u/0/+ElizabethLovegrove/"
 categories: 2016 rpg

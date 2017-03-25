@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spice Up a Flagging Campaign"
-date: 2016-14-04T18:22:10
+date: 2016-14-04 18:22:10
 author: "Clark B. Timmins"
 link: "https://rpggeek.com/user/ctimmins"
 categories: 2016 supplement

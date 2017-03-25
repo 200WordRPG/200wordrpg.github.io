@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vampire Dark"
-date: 2016-12-04T6:13:41
+date: 2016-12-04 6:13:41
 author: "Abstract Machine"
 link: "https://akingdomis.wordpress.com/"
 categories: 2016 supplement

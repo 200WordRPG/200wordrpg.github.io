@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HEAVY METAL WIZARD SORCERORS"
-date: 2016-11-04T9:10:04
+date: 2016-11-04 9:10:04
 author: "Alessandro Dellamotta"
 link: "no link"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A BROAD ENTERED MY OFFICE"
-date: 2016-12-04T0:41:45
+date: 2016-12-04 0:41:45
 author: "Wilhelm Person"
 link: "wilhelmsgames.wordpress.com"
 categories: 2016 rpg

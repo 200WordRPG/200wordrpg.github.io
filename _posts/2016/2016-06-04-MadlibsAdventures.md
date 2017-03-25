@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Madlibs Adventures"
-date: 2016-06-04T22:34:55
+date: 2016-06-04 22:34:55
 author: "Orion Gates"
 link: "http://z-toast.blogspot.com/"
 categories: 2016 rpg

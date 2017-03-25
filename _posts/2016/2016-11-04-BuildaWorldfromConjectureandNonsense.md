@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build a World from Conjecture and Nonsense"
-date: 2016-11-04T14:26:25
+date: 2016-11-04 14:26:25
 author: "Dan Phipps"
 link: "itsdanphipps.tumblr.com/games"
 categories: 2016 supplement

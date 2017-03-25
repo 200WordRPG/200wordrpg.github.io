@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viking Age: Ragnarok"
-date: 2016-13-04T21:20:02
+date: 2016-13-04 21:20:02
 author: "Tanner Barker"
 link: "http://www.worthyofpublishing.com/author.asp?author_ID=8670"
 categories: 2016 rpg

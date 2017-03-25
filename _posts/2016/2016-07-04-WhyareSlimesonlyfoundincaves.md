@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why are Slimes only found in caves?"
-date: 2016-07-04T6:27:39
+date: 2016-07-04 6:27:39
 author: "Daniel Charlton"
 link: "rpg.reiversolutions.co.uk"
 categories: 2016 supplement

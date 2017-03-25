@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chaos Theory"
-date: 2016-06-04T5:16:49
+date: 2016-06-04 5:16:49
 author: "David Stark"
 link: "http://dhmstark.co.uk"
 categories: 2016 rpg

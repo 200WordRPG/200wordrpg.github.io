@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Of Blood and Shadows"
-date: 2016-13-04T12:40:04
+date: 2016-13-04 12:40:04
 author: "Nicholas Fowler"
 link: "offthetablepodcast.com"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testimony"
-date: 2016-14-04T22:50:28
+date: 2016-14-04 22:50:28
 author: "Caitlynn Belle"
 link: "caitlynnbelle.com"
 categories: 2016 rpg

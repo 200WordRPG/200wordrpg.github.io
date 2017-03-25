@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fencing Duel"
-date: 2016-13-04T15:15:52
+date: 2016-13-04 15:15:52
 author: "Kyle"
 link: "no link"
 categories: 2016 rpg

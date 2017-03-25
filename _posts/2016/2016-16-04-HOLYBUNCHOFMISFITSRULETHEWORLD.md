@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HOLY BUNCH OF MISFITS RULE THE WORLD"
-date: 2016-16-04T11:17:42
+date: 2016-16-04 11:17:42
 author: "Enrico Pasi"
 link: "no link"
 categories: 2016 rpg

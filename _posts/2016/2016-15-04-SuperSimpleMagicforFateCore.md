@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Super Simple Magic for Fate Core"
-date: 2016-15-04T20:52:42
+date: 2016-15-04 20:52:42
 author: "Stoo"
 link: "http://www.stoogoff.com/"
 categories: 2016 supplement

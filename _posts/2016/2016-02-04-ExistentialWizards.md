@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Existential Wizards"
-date: 2016-02-04T21:04:11
+date: 2016-02-04 21:04:11
 author: "Edward Lockhart"
 link: "www.violentmediarpg.blogspot.com"
 categories: 2016 rpg

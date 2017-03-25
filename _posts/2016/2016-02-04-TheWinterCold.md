@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Winter Cold"
-date: 2016-02-04T16:36:53
+date: 2016-02-04 16:36:53
 author: "Tim Jablonski"
 link: "https://twitter.com/TimJabs"
 categories: 2016 rpg

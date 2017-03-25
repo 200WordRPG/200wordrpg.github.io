@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Word-Eater"
-date: 2016-08-04T5:43:01
+date: 2016-08-04 5:43:01
 author: "Benjamin Jimenez"
 link: "no link"
 categories: 2016 rpg

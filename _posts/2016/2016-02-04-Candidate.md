@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Candidate"
-date: 2016-02-04T16:43:25
+date: 2016-02-04 16:43:25
 author: "Dale Elvy"
 link: "imaginaryempiregames.blogspot.com"
 categories: 2016 rpg

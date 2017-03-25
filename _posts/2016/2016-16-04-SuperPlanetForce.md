@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Super Planet Force"
-date: 2016-16-04T19:53:49
+date: 2016-16-04 19:53:49
 author: "Selene Tan"
 link: "http://games.nightstaff.net"
 categories: 2016 rpg

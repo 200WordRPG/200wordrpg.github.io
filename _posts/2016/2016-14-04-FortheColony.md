@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "For the Colony"
-date: 2016-14-04T9:05:58
+date: 2016-14-04 9:05:58
 author: "Marek J. Kolcun"
 link: "http://jocho.sk"
 categories: 2016 rpg

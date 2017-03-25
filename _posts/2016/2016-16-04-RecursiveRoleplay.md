@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recursive Roleplay"
-date: 2016-16-04T23:55:44
+date: 2016-16-04 23:55:44
 author: "Joshua Sherwood"
 link: "no link"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Assassin’s Guild Annual Awards Banquet "
-date: 2016-08-04T1:34:53
+date: 2016-08-04 1:34:53
 author: "Lewis Istok"
 link: "no link"
 categories: 2016 rpg

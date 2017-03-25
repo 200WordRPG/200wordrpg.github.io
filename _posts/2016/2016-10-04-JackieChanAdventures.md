@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jackie Chan Adventures"
-date: 2016-10-04T11:29:37
+date: 2016-10-04 11:29:37
 author: "Jay Shaffstall"
 link: "https://plus.google.com/u/0/+JayShaffstall/"
 categories: 2016 rpg

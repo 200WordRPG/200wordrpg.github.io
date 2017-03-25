@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tyranny of Law"
-date: 2016-12-04T13:41:21
+date: 2016-12-04 13:41:21
 author: "Drake Williams"
 link: "no link"
 categories: 2016 supplement

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Chamber"
-date: 2016-14-04T16:10:31
+date: 2016-14-04 16:10:31
 author: "John Achterkirchen"
 link: "no link"
 categories: 2016 rpg

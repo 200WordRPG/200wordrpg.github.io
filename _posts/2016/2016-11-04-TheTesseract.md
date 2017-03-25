@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Tesseract"
-date: 2016-11-04T16:44:05
+date: 2016-11-04 16:44:05
 author: "Mack Marcotte"
 link: "no link"
 categories: 2016 supplement

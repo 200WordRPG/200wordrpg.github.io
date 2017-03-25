@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Just A Moment"
-date: 2016-11-04T10:20:53
+date: 2016-11-04 10:20:53
 author: "Jonathan Zimmerman"
 link: "http://craftygames.drivethrurpg.com/browse/pub/9496/Alchemic-Games"
 categories: 2016 rpg

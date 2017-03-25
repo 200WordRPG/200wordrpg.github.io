@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Political Friction Generator"
-date: 2016-17-04T0:02:41
+date: 2016-17-04 0:02:41
 author: "Robert Mahoney"
 link: "no link"
 categories: 2016 supplement

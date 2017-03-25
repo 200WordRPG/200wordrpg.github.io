@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Something Wrong"
-date: 2016-15-04T4:10:45
+date: 2016-15-04 4:10:45
 author: "Riccardo Rossi"
 link: "https://danieltravis.wordpress.com/"
 categories: 2016 rpg

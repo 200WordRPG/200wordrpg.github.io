@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rock Gods: Go Big, or Die Hard"
-date: 2016-08-04T17:17:14
+date: 2016-08-04 17:17:14
 author: "Justen Stahl"
 link: "no link"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Philosoraptor Advisors: NPCs for FAE"
-date: 2016-12-04T6:32:20
+date: 2016-12-04 6:32:20
 author: "Bruce ES Warner"
 link: "no link"
 categories: 2016 supplement

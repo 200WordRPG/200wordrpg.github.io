@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Demon Hamster Necromancers of the Abyss"
-date: 2016-06-04T4:10:12
+date: 2016-06-04 4:10:12
 author: "Daniel Charlton"
 link: "rpg.reiversolutions.co.uk"
 categories: 2016 rpg

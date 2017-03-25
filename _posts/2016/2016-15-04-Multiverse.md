@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiverse"
-date: 2016-15-04T18:52:26
+date: 2016-15-04 18:52:26
 author: "Daniel Thoreson"
 link: "http://twitter.com/thoresz"
 categories: 2016 rpg

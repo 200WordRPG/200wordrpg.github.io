@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Death, at last"
-date: 2016-11-04T17:26:37
+date: 2016-11-04 17:26:37
 author: "Guillaume St-Pierre"
 link: "no link"
 categories: 2016 rpg

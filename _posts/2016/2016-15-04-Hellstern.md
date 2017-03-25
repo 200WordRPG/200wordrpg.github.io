@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hellstern"
-date: 2016-15-04T18:41:07
+date: 2016-15-04 18:41:07
 author: "Alberto Tronchi & Francesco Zani"
 link: "no link"
 categories: 2016 supplement

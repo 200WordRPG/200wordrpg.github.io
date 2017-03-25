@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FaSt: Fate's a Bitch Edition"
-date: 2016-13-04T12:54:20
+date: 2016-13-04 12:54:20
 author: "Daniel de Filippis"
 link: "www.nerd2.org"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bluebeard's Bride's Daughter's Psychiatrist"
-date: 2016-12-04T22:10:06
+date: 2016-12-04 22:10:06
 author: "John Kipling Lewis"
 link: "https://plus.google.com/u/0/103416921442200060388"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Story motivations"
-date: 2016-16-04T16:04:26
+date: 2016-16-04 16:04:26
 author: "Marek Golonka"
 link: "planplot.wordpress.com (Polish)"
 categories: 2016 supplement

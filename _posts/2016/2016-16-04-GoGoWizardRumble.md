@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Go Go Wizard Rumble"
-date: 2016-16-04T7:33:27
+date: 2016-16-04 7:33:27
 author: "Carl Denham"
 link: "carldenham.wordpress.com"
 categories: 2016 rpg

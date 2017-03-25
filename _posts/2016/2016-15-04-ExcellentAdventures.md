@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Excellent Adventures"
-date: 2016-15-04T12:37:28
+date: 2016-15-04 12:37:28
 author: "Nathan Milner"
 link: "no link"
 categories: 2016 rpg

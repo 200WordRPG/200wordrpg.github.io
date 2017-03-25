@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Augurs"
-date: 2016-13-04T10:37:19
+date: 2016-13-04 10:37:19
 author: "Neal Ryan Shaw"
 link: "nealryanshaw.com"
 categories: 2016 rpg

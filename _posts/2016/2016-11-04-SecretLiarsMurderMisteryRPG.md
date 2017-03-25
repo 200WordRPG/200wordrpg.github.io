@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Secret Liars - Murder Mistery RPG"
-date: 2016-11-04T18:39:15
+date: 2016-11-04 18:39:15
 author: "Gabriele Manganello"
 link: "no link"
 categories: 2016 rpg

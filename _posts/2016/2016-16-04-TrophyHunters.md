@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trophy Hunters"
-date: 2016-16-04T6:18:56
+date: 2016-16-04 6:18:56
 author: "ivan nevill"
 link: "no link"
 categories: 2016 supplement

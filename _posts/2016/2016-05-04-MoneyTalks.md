@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Money Talks"
-date: 2016-05-04T14:32:39
+date: 2016-05-04 14:32:39
 author: "Kelly Berger"
 link: "https://www.facebook.com/kelly.j.berger"
 categories: 2016 rpg

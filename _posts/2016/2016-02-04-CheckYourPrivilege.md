@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Check Your Privilege"
-date: 2016-02-04T11:55:06
+date: 2016-02-04 11:55:06
 author: "Joe Rooney"
 link: "http://wickedproblems.co.uk"
 categories: 2016 rpg

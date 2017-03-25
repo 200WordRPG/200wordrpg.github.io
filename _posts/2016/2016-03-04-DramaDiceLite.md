@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drama & Dice Lite"
-date: 2016-03-04T5:54:19
+date: 2016-03-04 5:54:19
 author: "Jo Lindsay Walton"
 link: "http://www.sadpressgames.com"
 categories: 2016 rpg

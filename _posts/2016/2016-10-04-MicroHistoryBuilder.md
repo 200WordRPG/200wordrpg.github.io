@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Micro-History Builder"
-date: 2016-10-04T22:50:37
+date: 2016-10-04 22:50:37
 author: "Christopher L. Drake"
 link: "Http://worldbuilder.dungeoncouture.com/"
 categories: 2016 supplement

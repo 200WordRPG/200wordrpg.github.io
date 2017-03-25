@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Become the Media"
-date: 2016-09-04T13:26:49
+date: 2016-09-04 13:26:49
 author: "mutant"
 link: "www.8427.fr"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Voyage of the Pursuivant Challenger"
-date: 2016-14-04T15:26:58
+date: 2016-14-04 15:26:58
 author: "Caroline Berg"
 link: "https://worldsofcarolineberg.wordpress.com/"
 categories: 2016 rpg

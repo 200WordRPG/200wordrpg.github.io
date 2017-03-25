@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Peregrination"
-date: 2016-16-04T20:31:31
+date: 2016-16-04 20:31:31
 author: "Christopher N Corradini"
 link: "owlbearunderwear.tumblr.com"
 categories: 2016 rpg

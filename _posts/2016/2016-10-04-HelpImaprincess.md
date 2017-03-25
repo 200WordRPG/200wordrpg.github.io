@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Help!,I'm a princess!"
-date: 2016-10-04T22:45:34
+date: 2016-10-04 22:45:34
 author: "Mark Snyder & Kyle Dilks"
 link: "monsterchest.com"
 categories: 2016 rpg

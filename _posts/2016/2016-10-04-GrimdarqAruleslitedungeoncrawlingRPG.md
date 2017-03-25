@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grimdarq: A rules-lite dungeon-crawling RPG"
-date: 2016-10-04T15:53:34
+date: 2016-10-04 15:53:34
 author: "Hunter Bond"
 link: "twitter.com/bondhunterbond"
 categories: 2016 rpg

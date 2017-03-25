@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Strikes: Really conclude in one session"
-date: 2016-16-04T17:38:14
+date: 2016-16-04 17:38:14
 author: "Johannes Oppermann"
 link: "http://www.meetup.com/de-DE/Story-Games-Vienna/"
 categories: 2016 supplement

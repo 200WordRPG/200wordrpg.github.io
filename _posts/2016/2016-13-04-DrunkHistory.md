@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drunk History"
-date: 2016-13-04T1:23:53
+date: 2016-13-04 1:23:53
 author: "Alexander Yakovlev"
 link: "https://en.oreolek.ru"
 categories: 2016 rpg

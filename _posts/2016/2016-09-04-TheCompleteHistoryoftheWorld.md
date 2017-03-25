@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Complete History of the World"
-date: 2016-09-04T14:38:24
+date: 2016-09-04 14:38:24
 author: "Dan Phipps"
 link: "itsdanphipps.tumblr.com/games"
 categories: 2016 rpg

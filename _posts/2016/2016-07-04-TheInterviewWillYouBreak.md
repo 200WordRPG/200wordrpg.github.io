@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Interview - Will You Break?"
-date: 2016-07-04T11:43:24
+date: 2016-07-04 11:43:24
 author: "Chad Wattler"
 link: "www.morningskye.com"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die, Nirûth, Die!"
-date: 2016-15-04T4:50:10
+date: 2016-15-04 4:50:10
 author: "Daniele Di Rubbo"
 link: "http://geeckoonthewall.blogspot.com/"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ashes in the Rain"
-date: 2016-16-04T17:53:20
+date: 2016-16-04 17:53:20
 author: "Davide Cavalli"
 link: "no link"
 categories: 2016 rpg

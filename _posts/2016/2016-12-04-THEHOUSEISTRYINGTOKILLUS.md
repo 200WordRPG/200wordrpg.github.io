@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE HOUSE IS TRYING TO KILL US!"
-date: 2016-12-04T10:56:26
+date: 2016-12-04 10:56:26
 author: "Lon Prater"
 link: "www.LonPrater.com"
 categories: 2016 rpg

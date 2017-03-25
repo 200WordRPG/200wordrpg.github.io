@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A GM's Guide to Session Prep and Play"
-date: 2016-07-04T6:18:44
+date: 2016-07-04 6:18:44
 author: "Ole Peder Giæver"
 link: "http://snarglebarf.com"
 categories: 2016 supplement

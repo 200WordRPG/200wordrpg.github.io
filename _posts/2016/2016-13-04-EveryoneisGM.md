@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Everyone is GM"
-date: 2016-13-04T19:36:24
+date: 2016-13-04 19:36:24
 author: "Jason Sackett"
 link: "no link"
 categories: 2016 supplement

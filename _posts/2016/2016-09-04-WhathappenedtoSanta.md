@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What happened to Santa?"
-date: 2016-09-04T18:56:17
+date: 2016-09-04 18:56:17
 author: "Andreas Sölvebring"
 link: "http://solvebring.com/"
 categories: 2016 rpg

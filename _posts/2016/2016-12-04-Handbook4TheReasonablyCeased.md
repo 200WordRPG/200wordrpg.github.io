@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Handbook 4: The Reasonably Ceased"
-date: 2016-12-04T21:52:03
+date: 2016-12-04 21:52:03
 author: "Ross Fulton"
 link: "https://www.facebook.com/rossfulton"
 categories: 2016 rpg

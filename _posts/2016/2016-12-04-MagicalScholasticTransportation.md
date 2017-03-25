@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magical Scholastic Transportation "
-date: 2016-12-04T20:25:17
+date: 2016-12-04 20:25:17
 author: "Aaron Clayvoll "
 link: "no link"
 categories: 2016 rpg

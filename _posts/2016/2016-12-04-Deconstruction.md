@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deconstruction"
-date: 2016-12-04T6:06:51
+date: 2016-12-04 6:06:51
 author: "Abstract Machine"
 link: "https://akingdomis.wordpress.com/"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Talking Pillow"
-date: 2016-16-04T14:13:17
+date: 2016-16-04 14:13:17
 author: "Chris Krueger"
 link: "chriskrueger.net"
 categories: 2016 rpg

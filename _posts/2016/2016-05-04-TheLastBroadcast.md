@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Last Broadcast"
-date: 2016-05-04T8:45:45
+date: 2016-05-04 8:45:45
 author: "Scott Slomiany"
 link: "meeplespeak.com"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Soluble Sahuagin"
-date: 2016-14-04T11:25:58
+date: 2016-14-04 11:25:58
 author: "Kirt Dankmyer"
 link: "http://www.rpgnow.com/browse/pub/682/Ivanhoe-Unbound"
 categories: 2016 supplement

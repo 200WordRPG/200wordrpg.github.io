@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Walk among the Dead"
-date: 2016-16-04T17:53:15
+date: 2016-16-04 17:53:15
 author: "Johannes Oppermann"
 link: "http://www.meetup.com/de-DE/Story-Games-Vienna/"
 categories: 2016 rpg

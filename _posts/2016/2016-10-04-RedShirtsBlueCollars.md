@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red Shirts, Blue Collars"
-date: 2016-10-04T22:36:57
+date: 2016-10-04 22:36:57
 author: "Patrick Reill"
 link: "no link"
 categories: 2016 rpg

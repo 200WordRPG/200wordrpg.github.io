@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Steps - Adventuring Workshop"
-date: 2016-17-04T8:01:54
+date: 2016-17-04 8:01:54
 author: "Jonathan Jung Johansen"
 link: "https://www.patreon.com/3xj"
 categories: 2016 supplement

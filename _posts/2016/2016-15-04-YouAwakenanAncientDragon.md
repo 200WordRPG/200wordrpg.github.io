@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You Awaken an Ancient Dragon..."
-date: 2016-15-04T15:21:49
+date: 2016-15-04 15:21:49
 author: "Monte Lin"
 link: "www.monte-lin.com"
 categories: 2016 rpg

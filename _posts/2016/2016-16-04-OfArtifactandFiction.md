@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Of Artifact and Fiction"
-date: 2016-16-04T14:47:58
+date: 2016-16-04 14:47:58
 author: "Duncan Gibbs"
 link: "duncangibbs.com"
 categories: 2016 rpg

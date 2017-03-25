@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Miss the Start, Miss the End"
-date: 2016-02-04T14:35:23
+date: 2016-02-04 14:35:23
 author: "Arthur Boff"
 link: "refereeingandreflection.wordpress.com"
 categories: 2016 rpg

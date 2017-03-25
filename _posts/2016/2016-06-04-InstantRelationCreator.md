@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instant Relation Creator"
-date: 2016-06-04T5:56:40
+date: 2016-06-04 5:56:40
 author: "Mika-Petri Lauronen"
 link: "no link"
 categories: 2016 supplement

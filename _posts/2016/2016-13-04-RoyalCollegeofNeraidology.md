@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Royal College of Neraidology"
-date: 2016-13-04T3:19:36
+date: 2016-13-04 3:19:36
 author: "Ivan Nevill"
 link: "roleplaygreenroom.blogspot.com.au"
 categories: 2016 rpg

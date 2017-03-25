@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Principia Magicka"
-date: 2016-03-04T17:51:38
+date: 2016-03-04 17:51:38
 author: "john melesky"
 link: "http://phaedrusdeinus.org/"
 categories: 2016 rpg

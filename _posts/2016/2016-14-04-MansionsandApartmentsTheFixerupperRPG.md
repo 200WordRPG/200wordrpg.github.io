@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mansions and Apartments - The Fixer-upper RPG"
-date: 2016-14-04T15:26:42
+date: 2016-14-04 15:26:42
 author: "Kristian Groenseth"
 link: "no link"
 categories: 2016 rpg

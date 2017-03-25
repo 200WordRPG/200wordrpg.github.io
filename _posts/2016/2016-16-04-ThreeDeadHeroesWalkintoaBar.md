@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Dead Heroes Walk into a Bar..."
-date: 2016-16-04T6:15:54
+date: 2016-16-04 6:15:54
 author: "David Ariye Harrison"
 link: "WeChat ID: Hegar23"
 categories: 2016 rpg

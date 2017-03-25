@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Otherkind Mass Combat"
-date: 2016-08-04T18:33:15
+date: 2016-08-04 18:33:15
 author: "Guy Srinivasan"
 link: "no link"
 categories: 2016 supplement

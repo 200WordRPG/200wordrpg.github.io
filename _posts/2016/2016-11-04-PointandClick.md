@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Point and Click"
-date: 2016-11-04T13:16:05
+date: 2016-11-04 13:16:05
 author: "Christopher Dean "
 link: "http://ilovethecorps.com/"
 categories: 2016 rpg

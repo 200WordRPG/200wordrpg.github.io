@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seven Days to Die"
-date: 2016-16-04T12:07:30
+date: 2016-16-04 12:07:30
 author: "James E. Shields, dba Jeshields"
 link: "www.patreon.com/jeshields"
 categories: 2016 rpg

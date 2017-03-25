@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Space pirates, All aboard!"
-date: 2016-11-04T5:45:52
+date: 2016-11-04 5:45:52
 author: "Vincent Carluer"
 link: "http://www.gamersassociate.com"
 categories: 2016 rpg

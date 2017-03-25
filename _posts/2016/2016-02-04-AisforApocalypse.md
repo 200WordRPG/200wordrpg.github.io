@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A is for Apocalypse"
-date: 2016-02-04T19:10:03
+date: 2016-02-04 19:10:03
 author: "Steve Dee"
 link: "dconstructions.wordpress.com"
 categories: 2016 rpg

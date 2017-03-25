@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hunter's Wild"
-date: 2016-07-04T16:36:43
+date: 2016-07-04 16:36:43
 author: "Jacob Randolph"
 link: "http://www.drivethrurpg.com/browse/pub/4996/Jacob-Randolph"
 categories: 2016 rpg

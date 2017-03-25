@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Awakening"
-date: 2016-16-04T13:58:11
+date: 2016-16-04 13:58:11
 author: "Lorenzo Muro"
 link: "https://twitter.com/LorenzoMuro"
 categories: 2016 rpg

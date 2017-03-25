@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dr Sisyphus and his Super-villain friends"
-date: 2016-15-04T23:35:33
+date: 2016-15-04 23:35:33
 author: "John Corey"
 link: "no link"
 categories: 2016 rpg

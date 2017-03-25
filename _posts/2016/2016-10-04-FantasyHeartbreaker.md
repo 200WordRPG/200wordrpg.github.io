@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fantasy Heartbreaker"
-date: 2016-10-04T15:26:18
+date: 2016-10-04 15:26:18
 author: "Joe Chirelli"
 link: "no link"
 categories: 2016 rpg

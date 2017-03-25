@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "As Jochebed Did"
-date: 2016-13-04T23:10:36
+date: 2016-13-04 23:10:36
 author: "Clark B. Timmins"
 link: "https://rpggeek.com/user/ctimmins"
 categories: 2016 rpg

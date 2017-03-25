@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minimalist Urban Rentpunk"
-date: 2016-14-04T3:49:00
+date: 2016-14-04 3:49:00
 author: "Michael Wenman"
 link: "vulpinoid.blogspot.com"
 categories: 2016 rpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Relics of Merimna"
-date: 2016-16-04T17:14:19
+date: 2016-16-04 17:14:19
 author: "Francesco Ferrari"
 link: "no link"
 categories: 2016 rpg

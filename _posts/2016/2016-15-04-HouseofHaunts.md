@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "House of Haunts"
-date: 2016-15-04T18:46:18
+date: 2016-15-04 18:46:18
 author: "James Hron"
 link: "no link"
 categories: 2016 rpg

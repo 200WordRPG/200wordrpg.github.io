@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Time Travel Thaw"
-date: 2016-14-04T18:38:31
+date: 2016-14-04 18:38:31
 author: "Armand Kossayan"
 link: "https://theyoungandthebrave.wordpress.com/"
 categories: 2016 rpg

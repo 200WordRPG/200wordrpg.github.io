@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Perilous Time"
-date: 2016-17-04T1:44:02
+date: 2016-17-04 1:44:02
 author: "Darrell Thomas"
 link: "no link"
 categories: 2016 rpg
