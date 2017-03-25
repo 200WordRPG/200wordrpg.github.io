@@ -7,4 +7,5 @@ link: "http://www.mortaine.com/blog"
 categories: 2015 rpg winner
 ---
 
+![]({{site.url}}2015images/0004.jpg")
 
