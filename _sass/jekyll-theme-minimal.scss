@@ -106,7 +106,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:25%;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -172,7 +172,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:70%;
   float:right;
   padding-bottom:50px;
 }
@@ -189,10 +189,10 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:25%;
   float:left;
   position:fixed;
-  bottom:50px;
+  bottom:20px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -210,7 +210,7 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    padding-right:25%;
   }
 
   section {
@@ -226,8 +226,8 @@ footer {
 
   header ul {
     position:absolute;
-    right:50px;
-    top:52px;
+    right:20px;
+    top:20px;
   }
 }
 
