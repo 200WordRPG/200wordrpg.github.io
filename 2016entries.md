@@ -7,9 +7,10 @@ layout: default
 All of the entries from the 2016 Challenge. Enjoy!
 
 <p>
-  {% for post in site.categories.2016 %}
-      <a href="{{ post.url }}">
+{% assign sorted_pages = (site.categories.2016 | sort: 'title') %}
+  {% for post in sorted_pages %}
+      <strong><a href="{{ post.url }}">
         {{ post.title }}
-      </a> • 
+      </a> •</strong>
   {% endfor %}
 </p>

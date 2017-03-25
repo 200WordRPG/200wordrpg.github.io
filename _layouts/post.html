@@ -16,9 +16,6 @@
 	<meta property="og:image" content="{{site.baseurl}}/logo.gif" />
 	<meta property="og:image:type" content="image/gif">
 
-
-</script>
-	
   </head>
   <body>
     <div class="wrapper">
@@ -26,19 +23,19 @@
         <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
 		<a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/logo.gif" style="width:315px"></a>
 		
-        <h3><a href="{{site.baseurl}}/">Home</a></h3>
-	    <h3><a href="{{site.baseurl}}/winners">Winners</a></h3>
-	    <h3><a href="{{site.baseurl}}/2017entries">2017 Entries</a><br>
+        <h3><a href="{{site.baseurl}}/">Home</a><br>
+	    <a href="{{site.baseurl}}/winners">Winners</a><br>
+	    <a href="{{site.baseurl}}/2017entries">2017 Entries</a><br>
 	    <a href="{{site.baseurl}}/2016entries">2016 Entries</a><br>
-	    <a href="{{site.baseurl}}/2015entries">2015 Entries</a></h3>
-	    <h3><a href="{{site.baseurl}}/judges">Judges</a> • <a href="{{site.baseurl}}/prizes">Prizes</a><br>
+	    <a href="{{site.baseurl}}/2015entries">2015 Entries</a><br>
+	    <a href="{{site.baseurl}}/judges">Judges</a> • <a href="{{site.baseurl}}/prizes">Prizes</a><br>
 	    <a href="{{site.baseurl}}/downloads">Downloads</a></h3>
        
       </header>
       <section>
 	  
-	  <h1>{{ page.title }}</h1>
-	  <h3>{{ page.author }} • {{ page.link }} • {{ page.categories }}</h3>
+	  <h1>{{ page.title }} • {{ page.categories }}</h1>
+	  <h3>{{ page.author }} • {{ page.link }}</h3>
 
       {{ content }}
 
@@ -48,13 +45,10 @@
 	  	  <p>Organized by <a href="http://schirduans.com/david/">David Schirduan</a> and by<br>
 		  <a href="http://www.finemessgames.com/">Marshall Miller</a>, <a href="https://twitter.com/fray">Matt Widmann</a>, <a href="https://plus.google.com/u/0/116235159947041206206/posts">Rickard Elimää</a></p>
 	 
-	<div>
-	
-	  <a rel="license" href="{{site.baseurl}}/licensing"><img align="middle" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All entries are protected under the <a rel="license" href="{{site.baseurl}}/licensing">Creative Commons Attribution 4.0 International License</a>.
-	  </div>
+	<p>
+	  <a rel="license" href="{{site.baseurl}}/licensing"><img align="center" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All entries  protected under the <a rel="license" href="{{site.baseurl}}/licensing">CC-BY-4.0 License</a>.
+	  </p>
 	  
-	  
-       
         <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
       </footer>
     </div>
