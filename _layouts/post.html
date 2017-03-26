@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 	
-    <title itemprop="name">{{ site.title | default: site.github.repository_name }}</title>
+    <title>{{ page.title }} | default: site.github.repository_name }}</title>
 	
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	
@@ -52,7 +52,7 @@
       </header>
       <section>
 	  
-	  <h1>{{ page.title }} • {{ page.categories }}</h1>
+	  <h1 itemprop="name">{{ page.title }} • {{ page.categories }}</h1>
 	  <h3>{{ page.author }} • {{ page.link }}</h3>
 
       {{ content }}
