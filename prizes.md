@@ -20,7 +20,7 @@ These incredible prizes were offered during the 2016 Challenge.
 <a href="http://bullypulpitgames.com/games/the-warren/"><img align="left" src="http://schirduans.com/david/wp-content/uploads/2016/02/photo-original-1-150x150.jpg"></a>
 <a href="https://www.kickstarter.com/projects/tregenza/age-of-legends-epic-adventures-small-rules-tableto"><img align="left" src="http://schirduans.com/david/wp-content/uploads/2016/02/photo-original-150x150.jpg"></a>
 <a href="http://www.drivethrurpg.com/product/170182/The-sky-is-gray-and-you-are-distressed?src=slider_view"><img align="left" src="http://schirduans.com/david/wp-content/uploads/2016/02/Screenshot-from-2016-04-01-120946-150x150.png"></a>
-
+<br><br>
 
 <hr>
 ## 2015 Prizes
