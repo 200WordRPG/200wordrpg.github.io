@@ -7,5 +7,5 @@ link: "https://plus.google.com/106085289040588109286"
 categories: 2015 rpg winner
 ---
 
-![]({{site.url}}/2015images/0006.jpg)
+![]({{site.url}}/2015images/AllFallDown.jpg)
 
