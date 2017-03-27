@@ -5,36 +5,38 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 	
-    <title itemprop="name">{{ site.title | default: site.github.repository_name }}</title>
+    <title>{{ page.title }} | default: site.github.repository_name }}</title>
 	
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
 	
 	<link href='https://200wordrpg.github.io/feed.xml' rel='alternate' type='application/atom+xml'>
-
+	
+    <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 	
 	<meta property="og:image" content="{{site.baseurl}}/logo.gif" />
 	<meta property="og:image:type" content="image/gif">
-    <meta property="og:title" content="200 Word RPG Challenge" />
-	<meta property="og:description" content="What can you do with 200 words?" />
+    <meta property="og:title" content="{{ page.title }}" />
+	<meta property="og:description" content="{{ page.author }}" />
 
 
 		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 
 	<script type="text/javascript">
 
-    function randomButton()
+    function generateRandomPost()
     {
         $.getJSON("/allposts.json", function(data) {
-            console.log("[allposts.json loaded]");
+            console.log("[allposts.json loaded for random winners]");
 
+            var postsCount = data.length;
             var posts = data;
+
 			
-            var divRandomPost = $("#random_post");
-        
+            var divRandomButton = $("#random_button");
+
                 var randomIndex = Math.floor(Math.random() * postsCount);
 
                 if (randomIndexUsed.indexOf(randomIndex) == "-1")
@@ -42,24 +44,24 @@
                     var postHREF = posts[randomIndex].href;
                     var postTitle = posts[randomIndex].title;
 					
-					divRandomPost.append('<form action="' + postHREF + '"><input id="random_button" type="submit" value="Random Entry" /></form>'); 
+					divRandomButton.append('<form action="' + postHREF + '"><input type="submit" value="Random Entry" /></form>');
+
                 }
+            
         });
     }
-
-    $(document).ready(function() {
-        randomButton();
+	
+	    $(document).ready(function() {
+        generateRandomPost();
     });
 
 </script>
-
-
 	
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
+        <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->		
 		<a itemscope itemtype="http://schema.org/image" href="{{site.baseurl}}/"><img itemprop="image" src="{{site.baseurl}}/logo.gif" style="width:315px"/></a>
 		
         <h3><a href="{{site.baseurl}}/">Home</a><br>
@@ -92,7 +94,7 @@
       {{ content }}
 	  
 	  <hr>
-	  <div id="random_post"></div>
+	  <div id="random_button"></div>
 
       </section>
       <footer>

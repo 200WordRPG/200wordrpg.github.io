@@ -25,6 +25,17 @@ font-size: 1.2em;
 font-weight: bold;
 }
 
+#random_button {
+    background-color: #555555; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
 header {
 text-align: center;
 }
@@ -61,13 +72,3 @@ pre {
     word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
 
-#random_button {
-    background-color: #555555; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
-}

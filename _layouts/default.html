@@ -26,10 +26,10 @@
 
 	<script type="text/javascript">
 
-    function scanRandoms()
+    function generateRandomWinners()
     {
-        $.getJSON("/allposts.json", function(data) {
-            console.log("[allposts.json loaded]");
+        $.getJSON("/winners.json", function(data) {
+            console.log("[winners.json loaded for random winners]");
 
             var postsCount = data.length;
             var posts = data;
@@ -38,6 +38,37 @@
             var counter = 0;
 			
             var divRandomWinners = $("#random_winners");
+
+            while (counter < postsCount)
+            {
+                var randomIndex = Math.floor(Math.random() * postsCount);
+
+                if (randomIndexUsed.indexOf(randomIndex) == "-1")
+                {
+                    var postHREF = posts[randomIndex].href;
+                    var postTitle = posts[randomIndex].title;
+
+                    divRandomWinners.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
+
+                    randomIndexUsed.push(randomIndex);
+
+                    counter++;
+                }
+            }
+        });
+    }
+	
+	    function generateRandomFinalists()
+    {
+        $.getJSON("/finalists.json", function(data) {
+            console.log("[finalists.json loaded for random winners]");
+
+            var postsCount = data.length;
+            var posts = data;
+
+            var randomIndexUsed = [];
+            var counter = 0;
+			
             var divRandomWinners = $("#random_finalists");
 
             while (counter < postsCount)
@@ -48,14 +79,8 @@
                 {
                     var postHREF = posts[randomIndex].href;
                     var postTitle = posts[randomIndex].title;
-                    var postCategories = posts[randomIndex].categories;
-					
-					if (postCategories.includes("winner")){
-					    divRandomWinners.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
-						
-					} else if (postCategories.includes("finalist")){
-					    divRandomWinners.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
-					}
+
+                    divRandomWinners.append('<a href="' + postHREF + '">' + postTitle + '</a> • ');
 
                     randomIndexUsed.push(randomIndex);
 
@@ -66,7 +91,8 @@
     }
 
     $(document).ready(function() {
-        scanRandoms();
+        generateRandomWinners();
+        generateRandomFinalists();
     });
 
 </script>
