@@ -1,11 +1,11 @@
 ---
 ---
 [
-    {% for post in site %}
+    {% for post in site.posts %}
     {
       "title"    : "{{ post.title }}",
       "href"     : "{{ post.url }}"
-	  "categories"     : "{{ post.categories }}"
+	  "categories"  : "{{ post.categories }}"
 
     }
     {% unless forloop.last %},{% endunless %}
