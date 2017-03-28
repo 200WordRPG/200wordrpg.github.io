@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Winners
-The challenge winners from 2015 and 2016 have been mixed together below. Congratulations to the winners for making some incredible games under such tight constraints!
+The winning entries from 2015 and 2016 have been mixed together below. Congratulations to the winners for making some incredible games under such tight constraints!
 
 
 <div id="random_winners"></div>
