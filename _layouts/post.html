@@ -22,7 +22,7 @@
 	<meta property="og:description" content="{{ page.author }}" />
 
 
-		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 
 	<script type="text/javascript">
 
@@ -33,20 +33,12 @@
 
             var postsCount = data.length;
             var posts = data;
-
-			
             var divRandomButton = $("#random_button");
-
-                var randomIndex = Math.floor(Math.random() * postsCount);
-
-                if (randomIndexUsed.indexOf(randomIndex) == "-1")
-                {
-                    var postHREF = posts[randomIndex].href;
-                    var postTitle = posts[randomIndex].title;
-					
-					divRandomButton.append('<form action="' + postHREF + '"><input type="submit" value="Random Entry" /></form>');
-
-                }
+            var randomIndex = Math.floor(Math.random() * postsCount);
+          
+			var postHREF = posts[randomIndex].href;
+			var postTitle = posts[randomIndex].title;	
+			divRandomButton.append('<form id="random_button" action="' + postHREF + '"><input type="submit" value="Random Entry" /></form>');
             
         });
     }
