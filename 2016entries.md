@@ -11,6 +11,6 @@ All of the entries from the 2016 Challenge. Enjoy!
   {% for post in sorted_pages %}
       <strong><a href="{{ post.url }}">
         {{ post.title }}
-      </a> •</strong>
+      </a>&emsp;•&emsp;</strong>
   {% endfor %}
 </p>
