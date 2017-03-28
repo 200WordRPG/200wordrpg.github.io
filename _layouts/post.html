@@ -38,7 +38,7 @@
           
 			var postHREF = posts[randomIndex].href;
 			var postTitle = posts[randomIndex].title;	
-			divRandomButton.append('<form id="random_button" action="' + postHREF + '"><input type="submit" value="Random Entry" /></form>');
+			divRandomButton.append('<a id="random_button" href="' + postHREF + '" class="button">Random Entry</a>');
             
         });
     }
