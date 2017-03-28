@@ -10,6 +10,6 @@ The 2015 Challenge allowed pictures and fancy layouts, so all of these entries a
   {% for post in sorted_pages %}
       <strong><a href="{{ post.url }}">
         {{ post.title }}
-      </a> •</strong>
+      </a>&emsp;•&emsp;</strong>
   {% endfor %}
 </p>
