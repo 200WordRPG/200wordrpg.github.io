@@ -6,4 +6,5 @@ author: "Vance Atkins"
 link: "http://leicestersramble.blogspot.com/"
 categories: 2015 rpg
 ---
-![]({{site.url}}/2015images/MutantWrasslin.jpg)
+![]({{site.url}}/2015images/MutantWrasslin1.jpg)
+![]({{site.url}}/2015images/MutantWrasslin2.jpg)

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Relinquary"
+title: "Reliquary"
 date: 2015-04-01
 author: "Michael Wenman"
 link: "none"
 categories: 2015 rpg
 ---
-![]({{site.url}}/2015images/Relinquary.jpg)
+![]({{site.url}}/2015images/Reliquary.jpg)
