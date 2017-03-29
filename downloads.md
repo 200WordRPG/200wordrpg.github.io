@@ -12,7 +12,7 @@ In fact, this whole website is protected under the Creative Commons License; so 
 
 ## 2016 Challenge
 
-Originally sold for charity, the PDF can be **[downloaded here](https://drive.google.com/file/d/0B80n8S8QrXvYdjZ1TjdYa2ZZcFk/view?usp=sharing)** for free!
+[Matt Widmann](https://about.me/mattwidmann) collected the entries into a PDF originally sold for charity. Now the PDF can be **[downloaded here](https://drive.google.com/file/d/0B80n8S8QrXvYdjZ1TjdYa2ZZcFk/view?usp=sharing)** for free!
 
 ## 2015 Challenge
 
