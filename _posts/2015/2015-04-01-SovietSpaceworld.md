@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Soviet Spaceworld"
+date: 2015-04-01
+author: "William Maldonado"
+link: "https://williammaldonadowrites.wordpress.com/"
+categories: 2015 rpg
+---
+```
+![]({{site.url}}/2015images/SovietSpaceworld.jpg)
+```
