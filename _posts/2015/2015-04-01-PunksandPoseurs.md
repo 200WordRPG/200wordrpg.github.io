@@ -6,6 +6,4 @@ author: "Brian G. Johnston"
 link: "http://www.greenadder.com/"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/PunksandPoseurs.jpg)
-```

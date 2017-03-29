@@ -6,6 +6,4 @@ author: "Oscar Schoen"
 link: "Oscar Schoen"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/Planethappers.jpg)
-```

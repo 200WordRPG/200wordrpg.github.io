@@ -6,6 +6,4 @@ author: "Cyril Pasteau"
 link: "http://www.alphaeridani.com/"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/Youcrossadoorway.jpg)
-```

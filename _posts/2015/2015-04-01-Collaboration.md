@@ -6,6 +6,4 @@ author: "William H. Duryea "
 link: "http://miserytourism.com/"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/Collaboration.jpg)
-```

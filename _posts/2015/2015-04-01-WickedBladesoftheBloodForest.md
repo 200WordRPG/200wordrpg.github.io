@@ -6,6 +6,4 @@ author: "Ivan Vaghi"
 link: "https://plus.google.com/+IvanVaghi/posts"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/WickedBladesoftheBloodForest.jpg)
-```

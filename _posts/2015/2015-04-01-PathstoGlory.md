@@ -6,6 +6,4 @@ author: "Larry Spiel"
 link: "http://thetabletopsuperhighway.com/"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/PathstoGlory.jpg)
-```

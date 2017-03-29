@@ -6,6 +6,4 @@ author: "Christopher Stone-Bush "
 link: "https://plus.google.com/108053817066303198241/posts"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/JapaneseOffice.jpg)
-```

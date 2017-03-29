@@ -6,6 +6,4 @@ author: "Brian Ashford"
 link: "https://plus.google.com/103229822536025904707"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/FlameWithinMist.jpg)
-```

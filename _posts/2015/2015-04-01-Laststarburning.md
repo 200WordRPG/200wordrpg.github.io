@@ -6,6 +6,4 @@ author: "Jaye Foster"
 link: "https://plus.google.com/u/0/+JayeFoster"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/Laststarburning.jpg)
-```

@@ -6,6 +6,4 @@ author: "Are Riksaasen"
 link: "none"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/LostandFoundCentral.jpg)
-```

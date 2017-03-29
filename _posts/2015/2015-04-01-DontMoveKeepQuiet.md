@@ -6,6 +6,4 @@ author: "Christopher Lazenbatt"
 link: "Christopher Lazenbatt"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/DontMoveKeepQuiet.jpg)
-```

@@ -6,6 +6,4 @@ author: "Brendan Jones"
 link: "abcd_z"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/FudgeLadder.jpg)
-```

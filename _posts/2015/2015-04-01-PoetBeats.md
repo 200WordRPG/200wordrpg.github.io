@@ -6,6 +6,4 @@ author: "Paul Gregory"
 link: "https://twitter.com/timebat"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/PoetBeats.jpg)
-```

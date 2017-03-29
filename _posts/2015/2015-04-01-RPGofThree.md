@@ -6,6 +6,4 @@ author: "Tom Walker"
 link: "no link"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/RPGofThree.jpg)
-```

@@ -6,6 +6,4 @@ author: "Andrew Bailey"
 link: "https://ajbailey.wordpress.com/"
 categories: 2015 rpg
 ---
-```
 ![]({{site.url}}/2015images/VerySatiatedChrysalides.jpg)
-```
