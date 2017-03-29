@@ -4,22 +4,34 @@ layout: default
 
 # Creative Commons and You
 All entries are protected under the [Creative Commons Attribution 4.0 International license](
-https://creativecommons.org/licenses/by/4.0/). That means that anyone can remix, modify, expand, or build upon these entries, and even make money off of them! This can include hacks, expansions, adventures, re-skins, and more.
+https://creativecommons.org/licenses/by/4.0/). 
 
-Of course the license does offer some protection for the original creators:
+### Why?
 
-**1. The work must be attributed and it must provide a link back to the copyright holder.**
+The 200 Word Challenge exists to promote encouragement and collaberation. It is NOT a place to find the "best" games in the world. When you submit to the challenge you do so with the understanding that others may re-use your work however they choose, **even for monetary gain**. Don't submit anything you wouldn't want others to use or build upon.
 
-Not only does this ensure you get credit, but it also lets anyone know who purchases the work that you formed the basis of it. In this industry, name power goes a long way.
+However, there are some huge benefits to submitting your entry under Creative Commons:
+
+### The work must be attributed and it must provide a link back to the copyright holder.
+
+Not only does this ensure you get credit, but it also lets anyone know who purchases the work that you formed the basis of it. In this industry, name power and word of mouth is extremely important.
 
 For example, Dungeon World was written by Adam and Sage, but it was heavily inspired by Vincent’s game Apocalypse World. Adam and Sage gave Vincent credit for the original game, but they are not required to give him any money or fees for Dungeon World.
 
-**2. The license protects derivative works and adaptations, not direct copies.**
+### 200 Word RPGs are ideas, not products
 
-No one can download Dungeon World, change the name to Gungeon World, and then sell it online. The line between “original work” and “derivative work” can be fuzzy, but Creative Commons still protects against blatant plagiarism.
+The chance that your 200 Word Entry is worth thousands of dollars is quite slim. But the chance that someone will see your idea and want to work with or hire you is greatly increased under Creative Commons. Especially for something as small as a 200 Word Entry, the CC License is a great way to get your name out there and meet like-minded designers. 
 
-**3. You have the right to request removal of any content derived from your work. Failure to comply puts the reuse in violation of the license.**
+In fact, you can check out the [Stories]({{site.baseurl}}/stories) page to see those who have turned their entries into larger, marketable games.
 
-This means that at any time you may request that your submission be removed and stricken from the challenge page. You can do the same to anyone using your work for any reason.
+### You can build upon cool ideas
 
-**To the hackers and writers out there, play it safe, and contact the original creator to get their permission before you use their work. It keeps things clean and simple.**
+Say your entry doesn't generate much buzz. That is a huge bummer, but now you have the opportunity to build upon someone else's work! Go look at some of the incredible entries, reach out to the creator, and build something new from that idea! Just be sure t play it safe. **Contact the original creator to get their permission** before you use their work. It keeps things clean and opens up the possibility of collaberation. 
+
+### No Pressure
+
+If you have a darling idea that will pay the rent and feed your family, **do not** give up on that opportunity! Seriously, go make it big! I wish you all the luck.
+
+But if you are looking to throw a new idea out into the world and see what happens, the 200 Word RPG Challenge is a great place to start.
+
+
