@@ -118,20 +118,9 @@ MIT Licensed
 			posts = getPostsFromXml(node);
 		}
 		xmlhttp.send();
+		
+		toggleSearch();
 
-		// Toggle on ESC key
-		window.addEventListener('keyup', function onKeyPress(e) {
-			if (e.which === 27) {
-				toggleSearch();
-			}
-		});
-		/* Open on '/' key
-		window.addEventListener('keypress', function onKeyPress(e) {
-			if (e.which === 47 && !searchEl.classList.contains('is-active')) {
-				toggleSearch();
-			}
-		});
-		*/
 
 		searchInputEl.addEventListener('input', function onInputChange() {
 			handleInput();
