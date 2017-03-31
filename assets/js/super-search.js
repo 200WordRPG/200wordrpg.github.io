@@ -125,12 +125,13 @@ MIT Licensed
 				toggleSearch();
 			}
 		});
-		// Open on '/' key
+		/* Open on '/' key
 		window.addEventListener('keypress', function onKeyPress(e) {
 			if (e.which === 47 && !searchEl.classList.contains('is-active')) {
 				toggleSearch();
 			}
 		});
+		*/
 
 		searchInputEl.addEventListener('input', function onInputChange() {
 			handleInput();
