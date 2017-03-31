@@ -77,14 +77,16 @@ pre {
 Author: Kushagra Gour (http://kushagragour.in)
 MIT Licensed
 */
+
 .super-search-btn {
 	position: fixed;
 	right: 10px;
-	top: 15px;
+	top: 50px;
 	fill: #DDD;
 }
+
 .super-search-btn:hover {
-	fill: #BBB;
+	fill: #090909;
 }
 
 .super-search {
@@ -103,7 +105,7 @@ MIT Licensed
 	fill: #DDD;
 	position: absolute;
 	right: 10px;
-	top: 15px;
+	top: 50px;
 	z-index: 1;
 }
 .super-search__input {
@@ -138,13 +140,13 @@ MIT Licensed
 	display: block;
 	position: relative;
 	background-color: #f9f9f9;
-	color: #666;
+	color: #090909;
 	padding: 17px;
 	margin: 12px 14px;
 	box-shadow: 0 3px 4px rgba(0,0,0,0.1);
 }
 .super-search__result-date {
-	color: #BBB;
+	color: #090909;
 	position: absolute;
 	right: 12px;
 }
