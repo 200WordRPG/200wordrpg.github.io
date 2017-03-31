@@ -79,8 +79,9 @@ MIT Licensed
 */
 
 .super-search-btn {
+	position: relative;
 	right: 10px;
-	top: 50px;
+	top: 15px;
 	fill: #DDD;
 }
 
@@ -89,6 +90,7 @@ MIT Licensed
 }
 
 .super-search {
+	position: relative;
 	background-color: rgba(255, 255, 255, 0.85);
 	left: 0;
 	right: 0;
@@ -101,6 +103,7 @@ MIT Licensed
 }
 .super-search__close-btn {
 	fill: #DDD;
+	position: relative;
 	right: 10px;
 	top: 15px;
 	z-index: 1;
