@@ -16,7 +16,9 @@ However, there are some huge benefits to submitting your entry under Creative Co
 
 Not only does this ensure you get credit, but it also lets anyone know who purchases the work that you formed the basis of it. In this industry, name power and word of mouth is extremely important.
 
-For example, Dungeon World was written by Adam and Sage, but it was heavily inspired by Vincent’s game Apocalypse World. Adam and Sage gave Vincent credit for the original game, but they are not required to give him any money or fees for Dungeon World.
+For example, [Dungeon World](http://www.dungeon-world.com/) was written by [Adam](http://www.adam-koebel.com/) and [Sage](http://www.latorra.org), but it was jumpstarted by another project from [Tony](http://tonydowler.com/) which was in turn heavily inspired by [Vincent](http://www.lumpley.com/)’s [game](https://payhip.com/b/tACJ). Adam and Sage gave Vincent and Tony credit for their inspirations, but they are not required to share any money or fees for Dungeon World. However the success of Dungeon World helped spread news of Vincent's and Tony's other games far and wide. 
+
+With collaboration, success for one creator helps out other associated creators.
 
 ### 200 Word RPGs are ideas, not products
 
@@ -26,7 +28,7 @@ In fact, you can check out the [Stories]({{site.baseurl}}/stories) page to see t
 
 ### You can build upon cool ideas
 
-Say your entry doesn't generate much buzz. That is a huge bummer, but now you have the opportunity to build upon someone else's work! Go look at some of the incredible entries, reach out to the creator, and build something new from that idea! Just be sure t play it safe. **Contact the original creator to get their permission** before you use their work. It keeps things clean and opens up the possibility of collaberation. 
+Creators can reach out to one another and build something new, even if they didn't win. Always **contact the original creator to get their permission** before you use their work. It keeps things clean and opens up the possibility of collaberation. 
 
 ### No Pressure
 

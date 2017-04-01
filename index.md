@@ -18,4 +18,8 @@ Visual presentation can be a large and scary problem. Very few people are master
 
 ## Connect with Creators
 
-Making and sharing a game is a great way to showcase your ideas and connect with new and more experienced game designers. Do you see a game that inspires you? The 200 Word RPG Challenge is a forge for new collaborations! That’s why all submissions are protected under the [Creative Commons license]({{site.baseurl}}/licensing).
+Making and sharing a game is a great way to showcase your ideas and connect with new and more experienced game designers. Do you see a game that inspires you? The 200 Word RPG Challenge is a forge for new collaborations! 
+
+[Share and discuss entries with the community](https://plus.google.com/u/0/communities/117723893121798044489)! 
+
+All entries are protected under the [Creative Commons license]({{site.baseurl}}/licensing).
