@@ -18,7 +18,7 @@ Not only does this ensure you get credit, but it also lets anyone know who purch
 
 For example, [Dungeon World](http://www.dungeon-world.com/) was written by [Adam](http://www.adam-koebel.com/) and [Sage](http://www.latorra.org), but it was jumpstarted by another project from [Tony](http://tonydowler.com/) which was in turn heavily inspired by [Vincent](http://www.lumpley.com/)’s [game](https://payhip.com/b/tACJ). Adam and Sage gave Vincent and Tony credit for their inspirations, but they are not required to share any money or fees for Dungeon World. However the success of Dungeon World helped spread news of Vincent's and Tony's other games far and wide. 
 
-With collaboration, success for one creator helps out other associated creators.
+With collaboration success for one creator helps out other associated creators.
 
 ### 200 Word RPGs are ideas, not products
 
