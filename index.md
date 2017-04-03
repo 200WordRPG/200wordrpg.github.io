@@ -33,7 +33,7 @@ Making and sharing a game is a great way to showcase your ideas and connect with
 ### Submission Window
 Entries will be accepted from the beginning of **April 15th (00:01 EST) until the end of April 23rd (23:99 EST)**.
 
-### 200 Words or Less 
+### 200 Words or fewer 
 Each entry may not exceed 200 words.
 
 Judges will be using the Google Docs word-count tool. Anything above 200 words will be immediately disqualified. Entries cannot be corrected or changed once they are submitted, so be sure to double, triple, and quadruple check your submission!
@@ -66,7 +66,7 @@ An entry form will be posted at the bottom of this page and your entries will be
 
 Judges will be assigned a number of entries to read (so that each entry is read by at least 2 judges). Each judge will select their top 4 entries, writing a short spotlight about each one and why they chose it. 
 
-**Round 2** (May 5rd and May 6th)
+**Round 2** (May 5th and May 6th)
 
 Judges will read through the semi-finalists and give every entry a "yay" or "nay" based upon whether they think that game deserves to win. The entries with the most “yays” will be the finalists (might be 3, might be 7).
 
