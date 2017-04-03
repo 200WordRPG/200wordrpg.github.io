@@ -59,6 +59,9 @@ All entries will be submitted under the Creative Commons Attribution 4.0 Interna
 
 # Judging Process
 
+**Submissions Open** (April 15th - April 23rd)
+An entry form will be posted at the bottom of this page and your entries will be posted up on the site as they are submitted. Until then, feel free to start drafting and editing ideas!
+
 **Round 1** (April 26th - May 3rd)
 
 Judges will be assigned a number of entries to read (so that each entry is read by at least 2 judges). Each judge will select their top 4 entries, writing a short spotlight about each one and why they chose it. 
