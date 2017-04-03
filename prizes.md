@@ -3,7 +3,7 @@ layout: default
 ---
 # 2017 Prizes
 
-** The three winning entries will receive free graphic design, artwork, and layout funded by [The Gauntlet](http://www.gauntlet-rpg.com). The original creator will keep all ownership and selling rights.**
+**The three winning entries will receive free graphic design, artwork, and layout funded by [The Gauntlet](http://www.gauntlet-rpg.com).** **The original creator will keep all ownership and selling rights.**
 
 **The three winning entries will be featured on an episode of System Master and The Gauntlet Podcast.**
 
@@ -13,7 +13,7 @@ layout: default
 
 [![]({{site.baseurl}}/assets/images/codexZine.png)](http://www.gauntlet-rpg.com/codex.html)
 
-**The three winners will receive a **physical copies** of Monsterhearts2 and The Black Hack.** 
+**The three winners will receive a physical copies of Monsterhearts2 and The Black Hack.** 
 
 |[<img src="{{site.baseurl}}/assets/images/monsterhearts2.jpg">](https://www.kickstarter.com/projects/averyalder/monsterhearts-2)|[<img src="{{site.baseurl}}/assets/images/blackHack.jpg">](http://www.drivethrurpg.com/product/178359/The-Black-Hack)|
 
