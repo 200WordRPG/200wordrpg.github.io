@@ -1,10 +1,32 @@
 ---
 layout: default
 ---
-## 2017 Prizes
-The 2017 Challenge prizes have not been announced yet!
+# 2017 Prizes
 
-<hr>
+### The three winning entries will receive *free graphic design, artwork, and layout* funded by [The Gauntlet](http://www.gauntlet-rpg.com). The original creator will keep all ownership and selling rights.
+
+### The three winning entries will be featured on an episode of System Master and The Gauntlet Podcast.
+|[![]({{site.baseurl}}/assets/images/systemMastery.jpg)](https://systemmasterypodcast.com/)
+|[![]({{site.baseurl}}/assets/images/gauntlet.png)](http://www.gauntlet-rpg.com)
+|
+
+### The three winning entries will be featured in Codex, an monthly RPG fanzine.
+[![]({{site.baseurl}}/assets/images/codexZine.gif)](http://www.gauntlet-rpg.com/codex.html)
+
+### The three winners will receive a physical copies of Monsterhearts2 and The Black Hack. 
+|[![]({{site.baseurl}}/assets/images/monsterhearts2.jpg)](https://www.kickstarter.com/projects/averyalder/monsterhearts-2)
+|[![]({{site.baseurl}}/assets/images/blackHack.png)](http://www.drivethrurpg.com/product/178359/The-Black-Hack)
+|
+
+### The three winners also recieve PDF copies of Society of Dreamers and The Indie Hack
+|[![]({{site.baseurl}}/assets/images/societyofDreamers.jpg)](https://societyofdreamers.wordpress.com/)
+|[![]({{site.baseurl}}/assets/images/indieHack.jpg)](https://www.drivethrurpg.com/product/192215/The-Indie-Hack?)
+|
+
+### ALL finalists will receive a digital copy of The Black Hack
+[![]({{site.baseurl}}/assets/images/blackHack.png)](http://www.drivethrurpg.com/product/178359/The-Black-Hack)
+
+
 ## 2016 Prizes
 These incredible prizes were offered during the 2016 Challenge.
 
