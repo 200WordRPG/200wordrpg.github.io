@@ -5,38 +5,44 @@ layout: default
 
 <table>
   <tbody>
-    <col width="50%">
   <col width="25%">
     <col width="25%">
+	    <col width="50%">
+
     <tr>
-      <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="http://www.gauntlet-rpg.com">The Gauntlet</a>. The original creator will keep all ownership and selling rights!</strong></td>
+	        <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="http://www.gauntlet-rpg.com">The Gauntlet</a>. The original creator will keep all ownership and selling rights!</strong></td>
       <td></td>
-      <td></td>
+	        <td></td>
+
     </tr>
     <tr>
-      <td><strong>The three winning entries will be featured on an episode of System Master and The Gauntlet Podcast.</strong></td>
       <td><a href="https://systemmasterypodcast.com/"><img src="/assets/images/systemMastery.jpg" /></a></td>
       <td><a href="http://www.gauntlet-rpg.com"><img src="/assets/images/gauntlet.png" /></a></td>
+	  <td><strong>The three winning entries will be featured on an episode of System Master and The Gauntlet Podcast.</strong></td>
     </tr>
     <tr>
-      <td><strong>The three winning entries will be featured in Codex, an monthly RPG fanzine.</strong></td>
+      
       <td><a href="http://www.gauntlet-rpg.com/codex.html"><img src="/assets/images/codexZine.png" alt="" /></a></td>
       <td> </td>
+	  <td><strong>The three winning entries will be featured in Codex, an monthly RPG fanzine.</strong></td>
     </tr>
     <tr>
-      <td><strong>The three winners will receive a physical copies of Monsterhearts2 and The Black Hack.</strong></td>
       <td><a href="https://www.kickstarter.com/projects/averyalder/monsterhearts-2"><img src="/assets/images/monsterhearts2.jpg" /></a></td>
       <td><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" /></a></td>
+	  <td><strong>The three winners will receive a physical copies of Monsterhearts2 and The Black Hack.</strong></td>
+
     </tr>
     <tr>
-      <td><strong>The three winners also recieve <em>PDF copies</em> of Society of Dreamers and The Indie Hack</strong></td>
       <td><a href="https://societyofdreamers.wordpress.com/"><img src="/assets/images/societyofDreamers.jpg" /></a></td>
       <td><a href="https://www.drivethrurpg.com/product/192215/The-Indie-Hack?"><img src="/assets/images/indieHack.jpg" /></a></td>
+	        <td><strong>The three winners also recieve <em>PDF copies</em> of Society of Dreamers and The Indie Hack</strong></td>
+
     </tr>
     <tr>
-      <td><strong>ALL finalists will receive a digital copy of The Black Hack</strong></td>
       <td><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" alt="" /></a></td>
       <td> </td>
+	        <td><strong>ALL finalists will receive a digital copy of The Black Hack</strong></td>
+
     </tr>
   </tbody>
 </table>
