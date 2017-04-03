@@ -12,7 +12,7 @@ layout: default
     <tr>
 	  <td><img src="/assets/images/palette.png" /></td>
       <td> </td>
-      <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="https://www.patreon.com/gauntlet">The Gauntlet</a> and their incredible patrons!</strong></td>
+      <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="https://www.patreon.com/gauntlet">The Gauntlet</a> and their incredible patrons!</strong> The Gauntlet will help arrange and pay for your game's layout, but you will keep all the rights to it. The original 200 word plaintext entry will stay on the site so future readers can enjoy it, but the art-filled version is all yours!</td>
 
     </tr>
     <tr>
