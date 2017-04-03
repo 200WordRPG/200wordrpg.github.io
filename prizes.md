@@ -49,6 +49,7 @@ layout: default
   </tbody>
 </table>
 
+*paint image from [game-icons.net](http://game-icons.net/).*
 <hr>
 
 ## 2016 Prizes
