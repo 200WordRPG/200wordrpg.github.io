@@ -12,7 +12,7 @@ layout: default
     <tr>
 	  <td><img src="/assets/images/palette.png" /></td>
       <td> </td>
-      <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="https://www.patreon.com/gauntlet">The Gauntlet</a> and their incredible patrons. The original creator will keep all ownership and selling rights!</strong></td>
+      <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="https://www.patreon.com/gauntlet">The Gauntlet</a> and their incredible patrons!</strong></td>
 
     </tr>
     <tr>
