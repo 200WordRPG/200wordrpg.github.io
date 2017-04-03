@@ -31,7 +31,7 @@ Making and sharing a game is a great way to showcase your ideas and connect with
 # Challenge Rules
 
 ### Submission Window
-Entries will be accepted from the beginning of April 15th (00:01 EST) until the end of April 23rd (23:99 EST).
+Entries will be accepted from the beginning of **April 15th (00:01 EST) until the end of April 23rd (23:99 EST)**.
 
 ### 200 Words or Less 
 Each entry may not exceed 200 words.
