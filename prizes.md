@@ -3,12 +3,12 @@ layout: default
 ---
 # 2017 Prizes
 
-|**The three winning entries will receive _free graphic design, artwork, and layout_ funded by [The Gauntlet](http://www.gauntlet-rpg.com). The original creator will keep all ownership and selling rights!**|[<img src="{{site.baseurl}}/assets/images/gauntlet.png">](http://www.gauntlet-rpg.com)|
-|**The three winning entries will be featured on an episode of System Master and The Gauntlet Podcast.**|[<img src="{{site.baseurl}}/assets/images/systemMastery.jpg">](https://systemmasterypodcast.com/)[<img src="{{site.baseurl}}/assets/images/gauntlet.png">](http://www.gauntlet-rpg.com)|
-|**The three winning entries will be featured in Codex, an monthly RPG fanzine.**|[![]({{site.baseurl}}/assets/images/codexZine.png)](http://www.gauntlet-rpg.com/codex.html)|
-|**The three winners will receive a physical copies of Monsterhearts2 and The Black Hack.**|[<img src="{{site.baseurl}}/assets/images/monsterhearts2.jpg">](https://www.kickstarter.com/projects/averyalder/monsterhearts-2)[<img src="{{site.baseurl}}/assets/images/blackHack.jpg">](http://www.drivethrurpg.com/product/178359/The-Black-Hack)|
-|**The three winners also recieve *PDF copies* of Society of Dreamers and The Indie Hack**|[<img src="{{site.baseurl}}/assets/images/societyofDreamers.jpg">](https://societyofdreamers.wordpress.com/)[<img src="{{site.baseurl}}/assets/images/indieHack.jpg">](https://www.drivethrurpg.com/product/192215/The-Indie-Hack?)|
-|**ALL finalists will receive a digital copy of The Black Hack**|[![]({{site.baseurl}}/assets/images/blackHack.jpg)](http://www.drivethrurpg.com/product/178359/The-Black-Hack)|
+||**The three winning entries will receive _free graphic design, artwork, and layout_ funded by [The Gauntlet](http://www.gauntlet-rpg.com). The original creator will keep all ownership and selling rights!**|[<img src="{{site.baseurl}}/assets/images/gauntlet.png">](http://www.gauntlet-rpg.com)|
+|**The three winning entries will be featured on an episode of System Master and The Gauntlet Podcast.**|[<img src="{{site.baseurl}}/assets/images/systemMastery.jpg">](https://systemmasterypodcast.com/)|[<img src="{{site.baseurl}}/assets/images/gauntlet.png">](http://www.gauntlet-rpg.com)|
+||**The three winning entries will be featured in Codex, an monthly RPG fanzine.**||[![]({{site.baseurl}}/assets/images/codexZine.png)](http://www.gauntlet-rpg.com/codex.html)|
+|**The three winners will receive a physical copies of Monsterhearts2 and The Black Hack.**|[<img src="{{site.baseurl}}/assets/images/monsterhearts2.jpg">](https://www.kickstarter.com/projects/averyalder/monsterhearts-2)|[<img src="{{site.baseurl}}/assets/images/blackHack.jpg">](http://www.drivethrurpg.com/product/178359/The-Black-Hack)|
+|**The three winners also recieve *PDF copies* of Society of Dreamers and The Indie Hack**|[<img src="{{site.baseurl}}/assets/images/societyofDreamers.jpg">](https://societyofdreamers.wordpress.com/)|[<img src="{{site.baseurl}}/assets/images/indieHack.jpg">](https://www.drivethrurpg.com/product/192215/The-Indie-Hack?)|
+||**ALL finalists will receive a digital copy of The Black Hack**|[![]({{site.baseurl}}/assets/images/blackHack.jpg)](http://www.drivethrurpg.com/product/178359/The-Black-Hack)|
 
 <hr>
 
