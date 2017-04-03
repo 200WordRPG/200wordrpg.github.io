@@ -6,7 +6,7 @@ layout: default
 
 ## Design a role-playing game using 200 words or less.
 
-Submissions will open April 15th. Until then, read the rules below and get started drafting ideas!
+**Submissions will open April 15th.** Until then, read the rules below and get started drafting ideas!
 
 Entries will be reviewed by a panel of judges to determine the top 3 winners. Submissions will be evaluated by their Creativity and Engagement. The game doesn’t necessarily have to be "fun", but it should grab our attention and draw us in.
 
@@ -51,15 +51,17 @@ Each entry will be publicly posted on <this page>. We reserve the right to rejec
 All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. That means that anyone can remix, modify, expand, or build upon these entries, and even make money off of them! [More info here]({{site.baseurl}}/licensing).
 
 
-|## [Judges]({{site.baseurl}}/judges)|## [Prizes]({{site.baseurl}}/prizes)|
+## [View our awesome Judges]({{site.baseurl}}/judges)
 
-Judging Process
+## [Checkout the cool Prizes]({{site.baseurl}}/prizes)
 
-*Round 1* (April 26th - May 3rd)
+# Judging Process
+
+**Round 1** (April 26th - May 3rd)
 Judges will be assigned a number of entries to read (so that each entry is read by at least 2 judges). Each judge will select their top 4 entries, writing a short spotlight about each one and why they chose it. 
 
-*Round 2* (May 5rd and May 6th)
+**Round 2** (May 5rd and May 6th)
 Judges will read through the semi-finalists and give every entry a "yay" or "nay" based upon whether they think that game deserves to win. The entries with the most “yays” will be the finalists (might be 3, might be 7).
 
-*Round 3* (May 7th)
+**Round 3** (May 7th)
 All judges will have a face-to-face meeting and unanimously agree on the top 3 winners. The winners will be announced and rewarded on May 8th, Monday morning!
