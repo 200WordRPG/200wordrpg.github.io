@@ -26,24 +26,25 @@ Making and sharing a game is a great way to showcase your ideas and connect with
 
 [Share and discuss entries with the community](https://plus.google.com/u/0/communities/117723893121798044489)! All entries are protected under the [Creative Commons license]({{site.baseurl}}/licensing).
 
+<hr>
 
 # Challenge Rules
 
 ### Submission Window
 Entries will be accepted from the beginning of April 15th (00:01 EST) until the end of April 23rd (23:99 EST).
 
-### Word Limit 
+### 200 Words or Less 
 Each entry may not exceed 200 words.
 
 Judges will be using the Google Docs word-count tool. Anything above 200 words will be immediately disqualified. Entries cannot be corrected or changed once they are submitted, so be sure to double, triple, and quadruple check your submission!
 
-### Number of Entries
+### One or Two Entries
 Each participant may submit up to two different entries.
 
 Don't feel pressured to submit more than one game; it is better to have a single, polished game than two half-finished ones. 
 
 ### Publicly Posted
-Each entry will be publicly posted on <this page>. We reserve the right to reject entries that we consider to be inappropriate or offensive. 
+Each entry will be publicly posted [on this page]({{site.baseurl}}/2017entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. 
 
 ### Licensing
 All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. That means that anyone can remix, modify, expand, or build upon these entries, and even make money off of them! [More info here]({{site.baseurl}}/licensing).
@@ -56,10 +57,13 @@ All entries will be submitted under the Creative Commons Attribution 4.0 Interna
 # Judging Process
 
 **Round 1** (April 26th - May 3rd)
+
 Judges will be assigned a number of entries to read (so that each entry is read by at least 2 judges). Each judge will select their top 4 entries, writing a short spotlight about each one and why they chose it. 
 
 **Round 2** (May 5rd and May 6th)
+
 Judges will read through the semi-finalists and give every entry a "yay" or "nay" based upon whether they think that game deserves to win. The entries with the most “yays” will be the finalists (might be 3, might be 7).
 
 **Round 3** (May 7th)
+
 All judges will have a face-to-face meeting and unanimously agree on the top 3 winners. The winners will be announced and rewarded on May 8th, Monday morning!
