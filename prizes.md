@@ -3,7 +3,7 @@ layout: default
 ---
 # 2017 Prizes
 
-|**The three winning entries will receive free graphic design, artwork, and layout funded by [The Gauntlet](http://www.gauntlet-rpg.com).**|**The original creator will keep all ownership and selling rights.**|
+|**The three winning entries will receive free graphic design, artwork, and layout funded by [The Gauntlet](http://www.gauntlet-rpg.com).**|**The original creator will keep all ownership and selling rights!**|
 
 |**The three winning entries will be featured on an episode of System Master and The Gauntlet Podcast.**|[<img src="{{site.baseurl}}/assets/images/systemMastery.jpg">](https://systemmasterypodcast.com/)|[<img src="{{site.baseurl}}/assets/images/gauntlet.png">](http://www.gauntlet-rpg.com)|
 
