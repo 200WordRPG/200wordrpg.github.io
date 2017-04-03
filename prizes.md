@@ -10,8 +10,8 @@ layout: default
     <col width="25%">
     <tr>
       <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="http://www.gauntlet-rpg.com">The Gauntlet</a>. The original creator will keep all ownership and selling rights!</strong></td>
-      <td><a href="http://www.gauntlet-rpg.com"><img src="/assets/images/gauntlet.png" /></a></td>
-      <td> </td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><strong>The three winning entries will be featured on an episode of System Master and The Gauntlet Podcast.</strong></td>
