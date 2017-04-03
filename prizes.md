@@ -10,8 +10,10 @@ layout: default
 	    <col width="50%">
 
     <tr>
-	    <td colspan=3>    
-      <strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="http://www.gauntlet-rpg.com">The Gauntlet</a>. The original creator will keep all ownership and selling rights!</strong></td>
+	            <td><a href="https://systemmasterypodcast.com/"><img src="/assets/images/palette.png" /></td>
+      <td> </td>
+
+      <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="http://www.gauntlet-rpg.com">The Gauntlet</a>. The original creator will keep all ownership and selling rights!</strong></td>
 
     </tr>
     <tr>
