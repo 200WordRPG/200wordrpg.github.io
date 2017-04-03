@@ -8,7 +8,7 @@ layout: default
 
 **Submissions will open April 15th.** Until then, read the rules below and get started drafting ideas!
 
-Entries will be reviewed by a panel of judges to determine the top 3 winners. Submissions will be evaluated by their Creativity and Engagement. The game doesn’t necessarily have to be "fun", but it should grab our attention and draw us in.
+Entries will be reviewed by a panel of judges to determine the top 3 winners. Submissions will be evaluated by their **Creativity** and **Engagement**. The game doesn’t necessarily have to be "fun", but it should grab our attention and draw us in.
 
 ## Why 200 Words?
 
@@ -50,9 +50,12 @@ Each entry will be publicly posted [on this page]({{site.baseurl}}/2017entries).
 All entries will be submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. That means that anyone can remix, modify, expand, or build upon these entries, and even make money off of them! [More info here]({{site.baseurl}}/licensing).
 
 
-## [View our awesome Judges]({{site.baseurl}}/judges)
-
-## [Checkout the cool Prizes]({{site.baseurl}}/prizes)
+<table>
+  <tr>
+    <td><h2><a href="{{site.baseurl}}/judges">View our awesome Judges</a></h2></td>
+    <td><h2><a href="{{site.baseurl}}/prizes">Checkout the cool Prizes</a></h2></td>
+  </tr>
+</table>
 
 # Judging Process
 

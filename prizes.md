@@ -12,7 +12,7 @@ layout: default
     <tr>
 	  <td><img src="/assets/images/palette.png" /></td>
       <td> </td>
-      <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="http://www.gauntlet-rpg.com">The Gauntlet</a>. The original creator will keep all ownership and selling rights!</strong></td>
+      <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="https://www.patreon.com/gauntlet">The Gauntlet</a> and their incredible patrons. The original creator will keep all ownership and selling rights!</strong></td>
 
     </tr>
     <tr>
@@ -30,14 +30,14 @@ layout: default
 
       <td><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" /></a></td>
 	        <td><a href="https://www.kickstarter.com/projects/averyalder/monsterhearts-2"><img src="/assets/images/monsterhearts2.jpg" /></a></td>
-	  <td><strong>The three winners will receive a physical copies of Monsterhearts2 and The Black Hack.</strong></td>
+	  <td><strong>The three winners will receive physical copies of Monsterhearts 2 and The Black Hack.</strong></td>
 
     </tr>
     <tr>
       <td><a href="https://www.drivethrurpg.com/product/192215/The-Indie-Hack?"><img src="/assets/images/indieHack.jpg" /></a></td>
 	        <td><a href="https://societyofdreamers.wordpress.com/"><img src="/assets/images/societyofDreamers.jpg" /></a></td>
 
-	        <td><strong>The three winners also recieve <em>PDF copies</em> of Society of Dreamers and The Indie Hack</strong></td>
+	        <td><strong>The three winners also recieve PDF copies of Society of Dreamers and The Indie Hack</strong></td>
 
     </tr>
     <tr>
