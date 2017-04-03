@@ -10,8 +10,8 @@ layout: default
     <col width="25%">
     <tr>
       <td><strong>The three winning entries will receive free graphic design, artwork, and layout funded by <a href="http://www.gauntlet-rpg.com">The Gauntlet</a>. The original creator will keep all ownership and selling rights!</strong></td>
-      <td  rowspan="2"><a href="http://www.gauntlet-rpg.com"><img src="/assets/images/gauntlet.png" /></a></td>
-      
+      <td><a href="http://www.gauntlet-rpg.com"><img src="/assets/images/gauntlet.png" /></a></td>
+      <td> </td>
     </tr>
     <tr>
       <td><strong>The three winning entries will be featured on an episode of System Master and The Gauntlet Podcast.</strong></td>
@@ -20,8 +20,8 @@ layout: default
     </tr>
     <tr>
       <td><strong>The three winning entries will be featured in Codex, an monthly RPG fanzine.</strong></td>
-      <td  rowspan="2"><a href="http://www.gauntlet-rpg.com/codex.html"><img src="/assets/images/codexZine.png" alt="" /></a></td>
- 
+      <td><a href="http://www.gauntlet-rpg.com/codex.html"><img src="/assets/images/codexZine.png" alt="" /></a></td>
+      <td> </td>
     </tr>
     <tr>
       <td><strong>The three winners will receive a physical copies of Monsterhearts2 and The Black Hack.</strong></td>
@@ -35,8 +35,8 @@ layout: default
     </tr>
     <tr>
       <td><strong>ALL finalists will receive a digital copy of The Black Hack</strong></td>
-      <td  rowspan="2"><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" alt="" /></a></td>
-    
+      <td><a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack"><img src="/assets/images/blackHack.jpg" alt="" /></a></td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
