@@ -34,11 +34,11 @@ Making and sharing a game is a great way to showcase your ideas and connect with
 Entries will be accepted from the beginning of **April 15th (00:01 EST) until the end of April 23rd (23:99 EST)**.
 
 ### 200 Words or fewer 
-Each entry may not exceed 200 words. Judges will be using the Google Docs word-count tool. Anything above 200 words will be immediately disqualified. Entries cannot be corrected or changed once they are submitted, so be sure to double, triple, and quadruple check your submission!
+Each entry may not exceed 200 words. Judges will be using the [Google Docs word-count tool](https://support.google.com/docs/answer/39003). Anything above 200 words will be immediately disqualified. Entries cannot be corrected or changed once they are submitted, so be sure to double, triple, and quadruple check your submission!
 
 The title will NOT count towards that limit, but will itself be limited to 30-40 characters. 
 
-Author name, author link, and additional comments will also not count towards that limit and will NOT be seen by the judges. Don't put anything in the comments that is required for your game. The comments is a great place to thank other developers, talk about your inspirations, or give some additional insight to your entry. See [2016 entries]({{site.baseurl}}/2016entries) for examples.
+Author name, author link, and additional comments will also not count towards the word limit, but will NOT be seen by the judges. Don't put anything in the comments that is required for your game. The comments section is a great place to thank other developers, talk about your inspirations, or give some additional insight to your entry. See [2016 entries]({{site.baseurl}}/2016entries) for examples.
 
 ### One or Two Entries
 Each participant may submit up to two different entries.
