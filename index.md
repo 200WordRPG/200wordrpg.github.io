@@ -10,6 +10,14 @@ layout: default
 
 Entries will be reviewed by a panel of judges to determine the top 3 winners. Submissions will be evaluated by their **Creativity** and **Engagement**. The game doesn’t necessarily have to be "fun", but it should grab our attention and draw us in.
 
+<table>
+    <tr>
+      <td><a href="{{site.baseurl}}/feed.xml"><img src="/assets/images/rss.png"/></a></td>
+      <td><a href="{{site.baseurl}}/feed.xml">Subscribe for new posts and challenge updates</a></td>
+    </tr>
+</table>
+<hr>
+
 ## Why 200 Words?
 
 A 200 word limit encourages creativity and demands the very best of your editing and writing abilities. While making a game in 200 words can be difficult, it’s less of a daunting commitment than editing and proofing 85 pages of rules, complete with art and layout.
