@@ -50,7 +50,7 @@ The title will NOT count towards that limit, but will itself be limited to 45 ch
 Author name, author link, and additional comments will also not count towards the word limit, but will NOT be seen by the judges. Don't put anything in the comments that is required for your game. The comments section is a great place to thank other developers, talk about your inspirations, or give some additional insight to your entry. See the [2016 entries]({{site.baseurl}}/2016entries) for examples.
 
 ### Plaintext
-Entries will be submitted entirely in plaintext (UTF8). There will be no formatting of any kind, however all spacing will be preserved with a mono-space font (so ascii art or tables will still show). Word wrap is enabled and any hyperlinks will be ignored by the judges. See the [2016 entries]({{site.baseurl}}/2016entries) for examples. 
+Entries will be submitted entirely in plaintext (UTF8). There will be no formatting of any kind, however all entries will be displayed with a mono-space font (so all spacing or ascii art will be preserved). Word wrap is enabled and any hyperlinks will be ignored by the judges. See the [2016 entries]({{site.baseurl}}/2016entries) for examples. 
 
 ### One or Two Entries
 Each participant may submit up to two different entries.
