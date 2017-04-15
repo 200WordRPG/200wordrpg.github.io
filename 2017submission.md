@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Submission Form
-
-## For the 2017 Challenge
+# 2017 Submission Form
 
 Be sure to double and triple check the [challenge rules]({{site.baseurl}}/) before you submit your entry. **Once your entry is submitted you cannot change it or alter it in any way!** [Here's any example]({{site.baseurl}}/2017example) of how your entry will look.
 
