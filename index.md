@@ -39,6 +39,9 @@ Post your ideas, get feedback, and help others work on their entries:
 
 # Challenge Rules
 
+### Submission Window
+Entries will be accepted from the beginning of **April 15th (00:01 EST) until the end of April 23rd (23:99 EST)**.
+
 ### 200 Words or fewer 
 Each entry may not exceed 200 words. Judges will be using the [Google Docs word-count tool](https://support.google.com/docs/answer/39003). Anything above 200 words will be immediately disqualified. Entries cannot be corrected or changed once they are submitted, so be sure to double, triple, and quadruple check your submission!
 
