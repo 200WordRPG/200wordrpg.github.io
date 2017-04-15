@@ -7,7 +7,7 @@ link: "http://www.miserytourism.com/"
 categories: 2017 rpg
 ---
 ```
-{} + () () () ...
+<pre>{} + () () () ...<pre>
 
 The youngest player is Fatimah.  
 
