@@ -4,6 +4,7 @@ title: "Entry Title"
 date: 2017-04-12 22:38:14
 author: "My Name Goes Here"
 link: "www.website.com" 
+categories: 2017 rpg
 ---
 ```
 This is main text of my entry, and THIS is the part that must be 200 words or less. 
