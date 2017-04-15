@@ -6,7 +6,7 @@ layout: default
 
 ## Design a role-playing game using 200 words or less.
 
-**Submissions will open April 15th.** Until then, read the rules below and get started drafting ideas!
+**Submissions are open until the end of April 23rd, (23:59 EST)**
 
 Entries will be reviewed by a panel of judges to determine the top 3 winners. Submissions will be evaluated by their **Creativity** and **Engagement**. The game doesn’t necessarily have to be "fun", but it should grab our attention and draw us in.
 
@@ -74,6 +74,7 @@ All entries will be submitted under the Creative Commons Attribution 4.0 Interna
 # Judging Process
 
 **Submissions Open** (April 15th - April 23rd)
+
 An entry form will be posted at the bottom of this page and your entries will be posted up on the site as they are submitted. Until then, feel free to start drafting and editing ideas!
 
 **Round 1** (April 26th - May 3rd)
@@ -87,3 +88,5 @@ Judges will read through the semi-finalists and give every entry a "yay" or "nay
 **Round 3** (May 7th)
 
 All judges will have a face-to-face meeting and unanimously agree on the top 3 winners. The winners will be announced and rewarded on May 8th, Monday morning!
+
+# [Click for Submission Form]({{site.baseurl}}/2017submission)
