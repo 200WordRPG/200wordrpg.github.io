@@ -25,7 +25,7 @@ layout: default
 	  <td><strong>The three winning entries will be featured in Codex, an monthly RPG fanzine.</strong></td>
     </tr>
     <tr>
-      <td colspan="2"><a href="http://www.dungeonographer.com/"><img src="/assets/images/dungeon.jpg" /></a></td>
+      <td colspan="2"><a href="http://www.dungeonographer.com/"><img src="/assets/images/dungeon.png" /></a></td>
 	  <td><strong>The three winners will receive copy of Dungeonographer Pro.</strong></td>
 
     </tr>
