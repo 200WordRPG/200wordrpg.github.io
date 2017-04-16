@@ -6,9 +6,9 @@ author: "E.E. COLI"
 link: "http://www.miserytourism.com/"
 categories: 2017 rpg
 ---
-
-<pre>{} + () () () ...<pre>
 ```
+{} + () () () ...
+
 The youngest player is Fatimah.  
 
 Others play her anthropomorphic burqa, Amir.  
