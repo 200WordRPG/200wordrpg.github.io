@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What The #@*$ Happened Last Night?"
+title: ""What The #@*$ Happened Last Night?""
 date: 2017-04-15 16:46:28
 author: "Paolo Jose Cruz"
 link: "sites.google.com/site/paolojcruz"

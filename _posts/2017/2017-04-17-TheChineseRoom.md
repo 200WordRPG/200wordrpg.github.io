@@ -20,7 +20,6 @@ Booting-up, you become sentient in a room decorated with incomprehensible symbol
 	Search Engine		Ping
 	Windows95			ScanDisk
 	Ad Blocker			MalWareN008Z
-	Ad Blocker			MalWareN008Z
 	Phone				Geotrack84
 	etc.				
 
