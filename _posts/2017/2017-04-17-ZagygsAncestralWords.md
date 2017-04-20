@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Zagyg's Ancestral Words"
-date: 2017-04-17 23:38:09
+date: 2017-04-17 23:30:09
 author: "Vincent Quigley"
-link: "no link"
+link: "https://plus.google.com/+VincentQuigley"
 categories: 2017 rpg
 ---
 ```
@@ -31,4 +31,4 @@ When one of your words apply to a situation, roll 2 white and 1 red. The Gygaxia
 ```
 ## Author Comments 
 
-Author did not add any comments.
+I decided to go back to the roots of the words we are using in our games. I took the OD&D little brown books and processed them through a wordlist website to see which words resonated closely to me. Then the game kinda wrote itself. 

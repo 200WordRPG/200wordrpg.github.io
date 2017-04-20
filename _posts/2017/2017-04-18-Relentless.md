@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Relentless"
-date: 2017-04-18 08:25:19
+date: 2017-04-18 08:06:22
 author: "Sidney Icarus"
 link: "action-economy.com"
 categories: 2017 rpg
@@ -18,11 +18,10 @@ Slaves cannot own anything, even dice. They use a communal Pile of d6s equal to 
 In 10th Scene (10d6), conflicts represent the Slave attaining their final step toward Hope. Once only one Slave remains to take part in conflicts, the stakes are Hope itself. Failure will introduce a twist and a new opportunity to reach for Hope. 
 
 Once Hope is attained, allow each player an epilogue, describing their Slave’s future. This serves to both decompress and reward them for their endurance. 
-
 ```
 ## Author Comments 
 
 “Well, I’m going to tell you the best and the worst thing you’ve ever heard. Heroes aren’t born. You just go out there and grind it out. You fail and you look foolish and you just keep grinding. There is nothing else. There is no ‘chosen one,’ there is no destiny, nobody wakes up one day and finds out they’re amazing at something. There’s just slamming your head into the wall, refusing to take no for an answer. Being relentless, until either the wall or your head breaks. You want to be a hero? You don’t have to make some grand decision. There’s no inspirational music, there’s no montage. You just don’t quit.” 
 ― David Wong, Futuristic Violence and Fancy Suits
 
-This game is inspired by the above quote, and the gameplay of Ten Candles. But while Ten Candles represents the inevitable slide into darkness for those struggling against things greater than them, Relentless represents the inevitable climb toward success for those who will not accept failure.
+This is inspired by the Ten Candles system, but where Ten Candles represents the inevitable drop into darkness, Relentless represents the inevitable success from those who simply won't accept failure. 

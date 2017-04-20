@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Ladies Night - a game of supernatural romance"
-date: 2017-04-15 11:13:51
-author: "Katarzyna Kuczynska"
+date: 2017-04-15 11:03:22
+author: "Katarzyna Kuczyńska"
 link: "no link"
 categories: 2017 rpg
 ---
@@ -25,6 +25,7 @@ The GM makes:
 - supernaturals hungry, unforgiving, attractive.
 
 Together tell the story about romance, sex, mystery, politics and violence.
+
 ```
 ## Author Comments 
 
