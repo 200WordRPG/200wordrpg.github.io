@@ -2,7 +2,7 @@
 layout: post
 title: "Doused Flames of Magic; Matchsticks of Power"
 date: 2017-04-20 10:45:22
-author: "Piotr "Królik" Król"
+author: "Piotr Królik Król"
 link: "no link"
 categories: 2017 rpg
 ---
