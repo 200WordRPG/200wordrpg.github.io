@@ -49,4 +49,4 @@ The game ends if:
 ```
 ## Author Comments 
 
-Author did not add any comments.
+Thanks to Odward Frenry and the rest of the Crate & Crowbar #tabletalk channel for all their great advice and encouragement.
