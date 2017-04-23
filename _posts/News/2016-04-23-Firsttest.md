@@ -1,7 +1,9 @@
 ---
 layout: default
-categories: 2017 news
-title: first
+title: "first"
+date: 2017-04-22
+author: "David Schirduan"
+categories: news
 ---
 
 # Testing the news functions first

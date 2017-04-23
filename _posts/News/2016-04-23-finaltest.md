@@ -1,7 +1,9 @@
 ---
 layout: default
-categories: 2017 news
-title: final
+title: "Final"
+date: 2017-04-23
+author: "David Schirduan"
+categories: news
 ---
 
 # Testing the news functions final
