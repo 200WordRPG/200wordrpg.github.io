@@ -9,19 +9,13 @@ Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly
 Winners will be announced **May 8th**!
 
 ## 2016 RPGs
- * ### [Deconstruction]({{site.baseurl}}{% post_url 2016-04-12-Deconstruction %})
- * ### [Stardust]({{site.baseurl}}{% post_url 2016-04-09-Stardust %})
- * ### [Time Travel Thaw]({{site.baseurl}}{% post_url 2016-04-14-TimeTravelThaw %})
+### [Deconstruction]({{site.baseurl}}{% post_url 2016-04-12-Deconstruction %}) • [Stardust]({{site.baseurl}}{% post_url 2016-04-09-Stardust %}) • [Time Travel Thaw]({{site.baseurl}}{% post_url 2016-04-14-TimeTravelThaw %})
  
 ## 2016 Supplements
-* ### [The College Animalia]({{site.baseurl}}{% post_url 2016-04-06-TheCollegeAnimalia %})
-* ### [First Steps]({{site.baseurl}}{% post_url 2016-04-17-FirstStepsAdventuringWorkshop %})
-* ### [Foam Dart RPG]({{site.baseurl}}{% post_url 2016-04-07-FoamDartRPG %})
+### [The College Animalia]({{site.baseurl}}{% post_url 2016-04-06-TheCollegeAnimalia %}) • [First Steps]({{site.baseurl}}{% post_url 2016-04-17-FirstStepsAdventuringWorkshop %}) • [Foam Dart RPG]({{site.baseurl}}{% post_url 2016-04-07-FoamDartRPG %})
 
 ## 2015
-* ### [All Fall Down]({{site.baseurl}}{% post_url 2015-04-01-AllFallDown %})
-* ### [Escape Pod One]({{site.baseurl}}{% post_url 2015-04-01-EscapePodOne %})
-* ### [LOVEINT]({{site.baseurl}}{% post_url /2015/2015-04-01-LOVEINT %})
+### [All Fall Down]({{site.baseurl}}{% post_url 2015-04-01-AllFallDown %}) • [Escape Pod One]({{site.baseurl}}{% post_url 2015-04-01-EscapePodOne %}) • [LOVEINT]({{site.baseurl}}{% post_url /2015/2015-04-01-LOVEINT %})
 
 # Finalists 
 Finalists from the 2015 and 2016 challenges have been mixed together below.
