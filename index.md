@@ -19,14 +19,13 @@ Making and sharing a game is a great way to showcase your ideas and connect with
 
 <hr>
 
-# News
+# News and Updates
 
-<ul>
 {% assign sorted_pages = (site.categories.news | sort: 'date') | reverse %}
   {% for post in sorted_pages %}
-      <li><h2><strong><a href="{{ post.url }}">
+      <h2><strong><a href="{{ post.url }}">
         {{ post.title }}
-      </a></strong></h2></li>
+      </a></strong></h2>
   {% endfor %}
-</ul>
+
 
