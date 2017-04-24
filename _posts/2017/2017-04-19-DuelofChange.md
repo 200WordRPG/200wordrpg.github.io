@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Duel of Change "
+title: "Duel of Change"
 date: 2017-04-19 01:26:29
 author: "Stuart Hodge"
 link: "https://twitter.com/redartifice"

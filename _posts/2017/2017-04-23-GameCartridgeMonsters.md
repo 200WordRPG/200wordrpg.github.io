@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Game Cartridge Monsters "
-date: 2017-04-23 13:45:24
+title: "Game Cartridge Monsters"
+date: 2017-04-23 13:43:28
 author: "@Spohntaneous"
-link: "AmusementSparks.com/games"
+link: "AmusementSparks.com/games "
 categories: 2017 rpg
 ---
 ```
@@ -41,4 +41,4 @@ Catch a monster and you can plug its cartridge in to power up your suit! Track y
 ```
 ## Author Comments 
 
-I would love to hear ideas on how to turn this into a story! 
+I would love help developing a story set in this world! I'm interested in telling stories here. AmusementSparks.com/games 

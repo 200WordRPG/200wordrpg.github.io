@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All it takes…. "
+title: "All it takes…."
 date: 2017-04-15 20:27:51
 author: "saint"
 link: "no link"

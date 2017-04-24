@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Domino's Delivery Crew RP(za)G "
+title: "The Domino's Delivery Crew RP(za)G"
 date: 2017-04-18 19:56:24
 author: "Tai Klein"
 link: "https://github.com/etaiklein/"

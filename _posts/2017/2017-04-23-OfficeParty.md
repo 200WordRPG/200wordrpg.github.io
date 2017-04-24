@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Office Party "
+title: "Office Party"
 date: 2017-04-23 05:57:09
 author: "Jesse Wells"
 link: "https://www.facebook.com/The.Mad.Viking"

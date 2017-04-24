@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The awakening of Asrya "
+title: "The awakening of Asrya"
 date: 2017-04-20 10:04:34
 author: "Alex Haines"
 link: "no link"

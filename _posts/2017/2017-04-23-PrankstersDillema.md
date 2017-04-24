@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prankster's Dillema "
+title: "Prankster's Dillema"
 date: 2017-04-23 12:49:21
 author: "Matt Fantastic"
 link: "PrettiestPrincessGames.com"

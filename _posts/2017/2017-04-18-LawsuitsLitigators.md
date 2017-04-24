@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lawsuits & Litigators "
+title: "Lawsuits & Litigators"
 date: 2017-04-18 10:15:17
 author: "Da Loki"
 link: "no link"

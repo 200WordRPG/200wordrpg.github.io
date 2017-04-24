@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Love Language "
+title: "Love Language"
 date: 2017-04-23 18:21:26
 author: "Michael Owen"
 link: "https://twitter.com/MtoAllpro"

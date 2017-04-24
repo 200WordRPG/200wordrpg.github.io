@@ -2,7 +2,7 @@
 layout: post
 title: "Pantheon: A Game for Narcissists"
 date: 2017-04-20 18:49:49
-author: "Nora Blake "
+author: "Nora Blake"
 link: "Twitter.com/NeitherNora "
 categories: 2017 rpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Manic pixie dream girl "
+title: "Manic pixie dream girl"
 date: 2017-04-21 18:21:50
 author: "Jenni Sands"
 link: " Jennitalula.wordpress.com"

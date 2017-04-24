@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eternal Rivals "
+title: "Eternal Rivals"
 date: 2017-04-15 09:12:36
 author: "Michele Corona"
 link: "no link"

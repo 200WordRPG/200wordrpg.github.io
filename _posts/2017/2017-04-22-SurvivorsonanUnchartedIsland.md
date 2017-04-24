@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Survivors on an Uncharted Island "
+title: "Survivors on an Uncharted Island"
 date: 2017-04-22 18:55:54
 author: "Steve Hickey"
 link: "https://plus.google.com/+SteveHickey"

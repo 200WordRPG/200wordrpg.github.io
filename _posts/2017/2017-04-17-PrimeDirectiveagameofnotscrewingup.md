@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prime Directive: a game of not screwing up "
+title: "Prime Directive: a game of not screwing up"
 date: 2017-04-17 22:23:18
 author: "Calum Stranack"
 link: "no link"

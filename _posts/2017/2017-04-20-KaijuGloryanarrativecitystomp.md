@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Kaiju Glory: a narrative citystomp "
+title: "Kaiju Glory: a narrative citystomp"
 date: 2017-04-20 22:39:52
-author: "Scott Slater "
+author: "Scott Slater"
 link: "@ninthcircle"
 categories: 2017 rpg
 ---

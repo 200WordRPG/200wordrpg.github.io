@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "What You Carry
-"
+title: "What You Carry"
 date: 2017-04-22 23:23:14
 author: "Evey Lockhart"
 link: "violentmediarpg.blogspot.com"
