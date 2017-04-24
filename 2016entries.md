@@ -4,7 +4,7 @@ layout: default
 
 # 2016 Entries
 
-All of the entries from the 2016 Challenge. Enjoy!
+The 2016 challenge featured two categories: **Supplements** and **rpgs**. There were some incredible submissions in both categories, all of which are listed below.
 
 <p>
 {% assign sorted_pages = (site.categories.2016 | sort: 'title') %}
