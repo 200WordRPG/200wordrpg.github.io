@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sonder BY Eduardo Caetano"
+title: "Sonder"
 date: 2017-04-21 08:30:16
 author: "Eduardo Caetano"
 link: "https://www.patreon.com/EduardoCaetano"

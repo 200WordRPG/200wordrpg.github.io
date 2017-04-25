@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Caltrops BY Jordan"
+title: "Caltrops"
 date: 2017-04-21 00:22:59
 author: "Jordan"
 link: "no link"
