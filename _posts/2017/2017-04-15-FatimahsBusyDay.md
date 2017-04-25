@@ -7,8 +7,6 @@ link: "http://www.miserytourism.com/"
 categories: 2017 rpg
 ---
 ```
-{} + () () () ...
-
 The youngest player is Fatimah.  
 
 Others play her anthropomorphic burqa, Amir.  
