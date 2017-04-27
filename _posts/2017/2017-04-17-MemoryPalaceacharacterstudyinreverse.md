@@ -3,7 +3,7 @@ layout: post
 title: "Memory Palace: a character study in reverse"
 date: 2017-04-17 02:05:15
 author: "Syrh Griffith"
-link: "no link"
+link: " http://www.hammerandanchor.com/"
 categories: 2017 rpg
 ---
 ```
