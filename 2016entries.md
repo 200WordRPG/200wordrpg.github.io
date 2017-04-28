@@ -9,8 +9,8 @@ The 2016 challenge featured two categories: **Supplements** and **rpgs**. There 
 <p>
 {% assign sorted_pages = (site.categories.2016 | sort: 'title') %}
   {% for post in sorted_pages %}
-      <strong><a href="{{ post.url }}">
+      <strong>&emsp;•&emsp;<a href="{{ post.url }}">
         {{ post.title }}
-      </a>&emsp;•&emsp;</strong>
+      </a></strong>
   {% endfor %}
 </p>
