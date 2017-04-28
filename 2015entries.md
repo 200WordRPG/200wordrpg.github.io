@@ -8,8 +8,8 @@ The 2015 Challenge was the first year! We allowed pictures and fancy layouts, so
 <p>
 {% assign sorted_pages = (site.categories.2015 | sort: 'title') %}
   {% for post in sorted_pages %}
-      <strong><a href="{{ post.url }}">
+      <strong>&emsp;•&emsp;<a href="{{ post.url }}">
         {{ post.title }}
-      </a>&emsp;•&emsp;</strong>
+      </a></strong>
   {% endfor %}
 </p>
