@@ -28,6 +28,6 @@ At the end of a session you can reallocate your H/B/S based on the events of the
 Inspired by "The World, The Flesh and The Devil" by Paul Czege, "Force Blade Punk" by Grant Howitt. 
 
 ## Judge Comments
-I feel like this captures the gritty Vampire-horror genre that a lot of gamers really enjoy, without a lot of overly complex mechanics. It's more complicated than rock-paper-scissors, but it fits in 200 words. _- [Stephanie Bryant]_({{site.baseurl}}/judges)
+I feel like this captures the gritty Vampire-horror genre that a lot of gamers really enjoy, without a lot of overly complex mechanics. It's more complicated than rock-paper-scissors, but it fits in 200 words. - [_Stephanie Bryant_]({{site.baseurl}}/judges)
 
 Come on, it's called Rad Hacker Vampires! It's ticking all my boxes - I like the theme, I like the stakes and the stats, and it really engages me. Out of all of the entries, this is the one that I'd like to play the most. - [_Grant Howitt_]({{site.baseurl}}/judges)
