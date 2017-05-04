@@ -4,7 +4,7 @@ title: "Poet Glorious"
 date: 2017-04-17 12:20:25
 author: "Kimberley Lam"
 link: "https://plus.google.com/+KimberleyLam"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 3-5 players
@@ -68,3 +68,7 @@ From soup springs haiku.
 Brie Sheldon slashed
 his sword-like pen and my craft
 was honed by his strikes.
+
+## Judge Comments
+
+Competitive haiku writing? Sign me up! To me this game is reminiscent of epic films of great warriors such as "Hero", "The House of Flying Daggers", or "Crouching Tiger, Hidden Dragon". It is a story about real people who have an incredible gift that stand in the face of great danger. I have noticed two broad categories of 200 word RPGs: those that provide flavor text and add the rules to that text, and those games that incorporate the rules into the flavor. This game is a clear example of the latter. There is very little time given to fluff and description, and I can tell that the author very specifically included a few choice words that really spice up the game. Well-written, clear rules, and a wonderful combination of theme and explanation. - [*Daniel Adams*]({{site.baseurl}}/judges)

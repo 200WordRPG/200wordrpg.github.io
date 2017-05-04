@@ -4,7 +4,7 @@ title: "Might Makes Right: Muscle Marines in Space"
 date: 2017-04-15 16:45:50
 author: "Chris"
 link: "http://www.letthronesbeware.com"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 You are Muscle Marines, charged with keeping the universe awesome.
@@ -27,3 +27,7 @@ Muscle Missions
 ## Author Comments 
 
 Author did not add any comments.
+
+## Judge Comments
+
+Finally a game for the middle of the Nerd/Jock Venn Diagram. An RPG where everyone is musclebound and everything is resolved through feats of strength. Not only a funny and novel way to resolve conflict but one where player interaction is heightened through the fact that you are all trying to work (out) together. Hits all the great notes for a micro RPG: Creativity, simplicity, but still recognizably a role playing game. - [*Jef and Jon*]({{site.baseurl}}/judges)

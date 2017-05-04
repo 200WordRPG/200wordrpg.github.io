@@ -4,7 +4,7 @@ title: "Fatimah's Busy Day"
 date: 2017-04-15 00:21:21
 author: "E.E. COLI"
 link: "http://www.miserytourism.com/"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 The youngest player is Fatimah.  
@@ -34,3 +34,7 @@ End play when Fatimah leaves for her trip.
 ## Author Comments 
 
 Inspired by Hayao Miyazaki, the Quran, and life in general.
+
+## Judge Comments
+
+Beautiful set-up for a game: “anthropomorphic burqa” is a masterclass in domesticating something that has been mistrusted, and perhaps demonised, by certain forms of Western discourse. The phenomenology of what Fatimah sees and hears and chooses is great too and I love the dramatization of the relationship between Fatimah’s inner world and her outer reality. I also admire the way the author has put the larger truths front and centre without being heavy-handed. I did wonder if everyone taking part should get a go at playing Fatimah, as some of the truth of those experiences may more evident to the person playing Fatimah than to everyone else. - [*Abstract Machine*]({{site.baseurl}}/judges)

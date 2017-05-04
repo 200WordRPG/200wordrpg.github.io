@@ -4,7 +4,7 @@ title: "So You're Becoming A Dragon:"
 date: 2017-04-21 18:42:47
 author: "Wendy Gorman"
 link: "https://www.patreon.com/glassfreegames"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 So You're Becoming A Dragon: A How-To Guide for Young Tenderwings on Their Transition from Weak Flesh-Sacks into Powerful and Sexy Masters of the Sky
@@ -24,3 +24,7 @@ Bring your follow-up questions! Delve deeper into their answers- pursue every im
 ## Author Comments 
 
 Yay dragons! This game was totally inspired by The Interview, by David Hertz, which you should totally check out!
+
+## Judge Comments
+
+This entry made me smile really wide. It’s a perfect little two-player LARP, full of comedy and joy. It’s well-written, fun to read, and a perfect narrative scope for a contest like this. - [*Jason Cordova*]({{site.baseurl}}/judges)

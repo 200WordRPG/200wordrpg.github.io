@@ -4,7 +4,7 @@ title: "The Last Day"
 date: 2017-04-19 13:13:28
 author: "Andrew J. Young"
 link: "tinyurl.com/ThatOneDropbox"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 They are coming. They are endless. They will destroy everything and everyone.
@@ -70,3 +70,7 @@ Hide (4d6): hours you remained hidden
 ## Author Comments 
 
 There is less "game" to this than I am used to, but there's a greater emphasis on storytelling and world building. I have definitely been inspired by some of this year's and last year's entries, though I don't know that I am drawing inspiration from any one single piece.
+
+## Judge Comments
+
+This game is really elegant. It’s about some sort of apocalyptic invasion, but rather than the rules being about combat and resource management, they explore the characters’ backstories and desires, their successes and failures, and how it all turns out for them in the end. This is a lot of rich storytelling potential inside of 200 words. Genius. - [*Jason Cordova*]({{site.baseurl}}/judges)

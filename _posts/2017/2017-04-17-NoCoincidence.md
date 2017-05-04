@@ -4,7 +4,7 @@ title: "No Coincidence"
 date: 2017-04-17 18:15:14
 author: "Matt Mortellaro"
 link: "https://www.reddit.com/user/mm1491/"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 Years ago, the world ended. You tell us how.
@@ -23,3 +23,7 @@ If we both chose Heads, I tell us why we'll meet again.
 ## Author Comments 
 
 The contributors over at https://www.reddit.com/r/RPGdesign/ were immensely helpful to me in working on this challenge and designing roleplaying games generally - it's a great community for designers.
+
+## Judge Comments
+
+I. Love. This. Game! I can see under the surface of "No Coincidence" the author's clear vision and their uncompromising adherence to it. Everything about this game feels tight and deliberate and valuable. This is a game of shared memory and fleeting encounters, where the players of the game know less about themselves than the characters do. Beautiful, evocative writing paired with the simplest mechanics combine to make a stunning experience of a game, and one that I cannot wait to play over and over. - [*Daniel Adams*]({{site.baseurl}}/judges)

@@ -4,7 +4,7 @@ title: "One-Night Stand"
 date: 2017-04-22 17:54:23
 author: "Stefano Burchi"
 link: "no link"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 You are two lovers. Think of a name; describe three good qualities you have and two you see in the other. They’ll be tested through play!
@@ -43,3 +43,9 @@ After last flashback: describe how sex ends. If both lovers still have one of th
 ## Author Comments 
 
 Sources of inspiration: Showdown by Seth Ben-Ezra and the song "L'Odore" ("The Smell") by Italian band 'Subsonica'
+
+## Judge Comments
+
+This may be the perfect subject for a 200 Word RPG: intensity, sex and dramatic misunderstanding, all turned up to eleven in the space of two hundred words.
+
+I love how it includes the truths and delusions of sex and how playful it is about how either truth or delusion might improve the experience or make it worse. The anxiety and expectation of the moment are present too and the game does a good job of communicating how those emotions might transmute into either disappointment or ecstasy. Or both. - [*Abstract Machine*]({{site.baseurl}}/judges)

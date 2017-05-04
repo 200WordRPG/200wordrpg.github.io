@@ -4,7 +4,7 @@ title: "Nightblind"
 date: 2017-04-18 06:07:27
 author: "Cadaeic"
 link: "no link"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 Night fell many years ago. It is the duty of the blinded to thrive, and thus show the sun that it is not needed. The sun is wicked and jealous, and sends monsters to corrupt and kill.
@@ -26,3 +26,7 @@ If the blinded is incorrect, they must replace the Sightseer in their cursed dut
 ## Author Comments 
 
 Inspired/blatantly ripped off from Polaris and WTF!
+
+## Judge Comments
+
+I love a game where the mechanics also inform gameplay. The players' blindness is not only a disadvantage; it's a disadvantage that another player can actively take advantage of. Even better, the game should encourage players to take on the "GM" role of the sun, to feel what it's like to be able to lie to the players. - [*Brent Newhall*]({{site.baseurl}}/judges)

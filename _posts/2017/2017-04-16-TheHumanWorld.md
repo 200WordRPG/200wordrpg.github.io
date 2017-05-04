@@ -4,7 +4,7 @@ title: "The Human World"
 date: 2017-04-16 11:54:09
 author: "Clio Yun-su Davis"
 link: "http://www.cysdavis.com/"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 For five people, played inside a shopping mall. 
@@ -26,3 +26,7 @@ The mall exists in virtual reality. The Child approaches a store or object and t
 ## Author Comments 
 
 This game can be adapted for different locations and experiences - a museum, wandering around a city, or a road trip if you're going to be driving past tourist traps.
+
+## Judge Comments
+
+I’m a fan of LARPs that require you to go out into the real world and interact with things. The way you transform the environment of a real-world shopping mall into your play space to tell the story of a group of broken androids and the human child they are trying to teach is really fascinating. - [*Jason Cordova*]({{site.baseurl}}/judges)

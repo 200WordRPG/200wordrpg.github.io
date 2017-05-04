@@ -4,7 +4,7 @@ title: "29 Days to Spring"
 date: 2017-04-18 10:12:17
 author: "Da Loki"
 link: "no link"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 An attempt to understand the perspective of the men in the battle for Iwo Jima
@@ -29,3 +29,8 @@ CE: You rush the enemy as commanded. Home. Family. Honor.  He shoots back into y
 ## Author Comments 
 
 Author did not add any comments.
+
+## Judge Comments
+
+As difficult as it was for me to pick only four finalists out of the many fantastic games I read, 29 Days to Spring was one game about which I had no doubts. Just reading the text gave me shivers and left me feeling weighed down by its narrative. 29 Days to Spring is a simple and elegant game that eschews traditional mechanics in favor of an emotional exploration of soldiers in war. And while this sort of game is not always easily categorized as an RPG, it is at the very least a great tool for character exploration and development. It’s also a great example of how games can be used for more than just entertainment, instead encroaching into the territory of fine art. Even if you never play 29 Days to Spring, it’s worthy of reading and contemplation. - [*Armand Kossayan*]({{site.baseurl}}/judges)
+

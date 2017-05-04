@@ -4,7 +4,7 @@ title: "Happily Ever Maybe"
 date: 2017-04-18 12:39:54
 author: "Drew Mierzejewski"
 link: "https://twitter.com/worldstoforge"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 You are a magic fairy! Describe your looks, name, temperament, and your one simple magic ability. 
@@ -25,6 +25,9 @@ At the end of the story, have each fairy give one part of an epilogue describing
 ```
 ## Author Comments 
 
-
 Playtesters: Cameron Evesque Davis, Eli Kurtz, Laura Jewell, Andrea Jones, Justin Blankenship 
 A Special Thanks to Alyson Mierzejewski, who made my Happily Ever After a reality. 
+
+## Judge Comments
+
+This fairy based game is unique! Fun and creative enough for a family to play together and open enough for a group of adults to get carried away with naughtiness. - [*Satine Phoenix*]({{site.baseurl}}/judges)

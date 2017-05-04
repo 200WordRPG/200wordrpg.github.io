@@ -4,7 +4,7 @@ title: "Masters of the universe"
 date: 2017-04-21 02:30:02
 author: "Alex White"
 link: "Www.starguildrpg.com"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 You are all investment bankers. You each start with 3 coins, and you choose one of those coins and place it under your hand, with either heads or tails showing.
@@ -22,3 +22,7 @@ The last player with all the coins is declared the Master of the Universe.
 ## Author Comments 
 
 The concept is that much of the stock market success people enjoy and get feted for is actually luck. The setup here is that random chance is going to make one player get wealthy, and everyone gets to praise them for their 'skill' and have fun with their own demise. 
+
+## Judge Comments
+
+Masters of the Universe is not a He-Man RPG. It is instead a parody game about banking and economics. The mechanics for the game are purely luck based, a literal flip of a coin, used as commentary on the seemingly random and often lunatic world of the ultra-wealthy Wall Street elite. Not being a part of that world, I have no idea how representative this game actually is, but it was a delight to read an excellent example of a game as social and political satire. I loved the humorous writing and despite the lack of a “real” game, it stuck out as what I believe this contest is all about. - [*Armand Kossayan*]({{site.baseurl}}/judges)

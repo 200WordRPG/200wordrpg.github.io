@@ -4,7 +4,7 @@ title: "All For One, the flipped RPG"
 date: 2017-04-21 09:08:48
 author: "Ben Rolfe"
 link: "@ecoludologist"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 One player plays the hero. The rest are storytellers, who distribute these roles between themselves:
@@ -24,3 +24,7 @@ Play begins!
 ## Author Comments 
 
 Author did not add any comments.
+
+## Judge Comments
+
+An amazing twist on your usual RPG idea. Having one player the hero and the other players the GMs who build the story makes this a game always interesting! Creative twist that I would actually play with my friends. Inventive. Impressive. - [*Satine Phoenix*]({{site.baseurl}}/judges)

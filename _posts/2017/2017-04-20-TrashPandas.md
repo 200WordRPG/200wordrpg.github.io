@@ -4,7 +4,7 @@ title: "Trash Pandas"
 date: 2017-04-20 07:44:26
 author: "Eric Farmer"
 link: "@ericmfarmer"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 A heist game starring raccoons.
@@ -41,3 +41,7 @@ Scenarios:
 ## Author Comments 
 
 Author did not add any comments.
+
+## Judge Comments
+
+At the confluence of what we were looking for in a roleplaying game sits Trash Pandas. It has an immediately appealing personality that grabs attention and holds it, simple mechanics that exist in the service of the story, and enough room left in the margins for creative storytelling and gameplay. We wanted to tell stories about the Trash Pandas team as soon as we read about them. - [*Jef and Jon*]({{site.baseurl}}/judges)

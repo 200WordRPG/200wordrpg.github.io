@@ -4,7 +4,7 @@ title: "Route Clearance"
 date: 2017-04-22 02:29:30
 author: "Andrew Millar"
 link: "www.highambitionlowskill.blogspot.co.nz"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 You are US Army soldiers tasked with clearing the road between Kabul to Kandahar of IEDs during the invasion of Afghanistan. 
@@ -40,3 +40,7 @@ It also draws on both 'The Quiet Year' and 'The Fall of Magic'.
 I'm working on an expanded version to publish in the near future.
 
 A special thanks to Dale Elvy for all his feedback and encouragement. 
+
+## Judge Comments
+
+Playing soldiers in Afghanistan is quite original. I like the idea of the physical layout of the cards representing the road to Kandahar; it’s a neat marriage of mechanics and theme. It seems like the stories that come out of this one could be really intense and emotional. - [*Jason Cordova*]({{site.baseurl}}/judges)

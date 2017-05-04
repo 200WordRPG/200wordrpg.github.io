@@ -15,12 +15,25 @@ Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly
 
 <hr>
 
-# 2017 Finalists [Will be announced soon!](https://200wordrpg.github.io/news/2017/04/24/submissionsclosed.html)
+# 2017 Finalists
+Out of nearly 700 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2017:
+
+<p>
+{% assign sorted_pages = (site.categories.finalist | sort: 'title') %}
+  {% for post in sorted_pages %}
+    {% if post.categories contains '2017' %}
+      <strong>&emsp;•&emsp;<a href="{{ post.url }}">
+        {{ post.title }}
+      </a></strong>
+        {% endif %}
+  {% endfor %}
+</p>
 
 <hr>
 
 # 2016 Finalists
-These entries did not win, but each one was handpicked by a judge to be an exceptional game, and includes special judge commentary and feedback.
+Out of over 300 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2016:
+
 <p>
 {% assign sorted_pages = (site.categories.finalist | sort: 'title') %}
   {% for post in sorted_pages %}
@@ -35,7 +48,8 @@ These entries did not win, but each one was handpicked by a judge to be an excep
 <hr>
 
 # 2015 Finalists
-These entries did not win, but each one was handpicked by a judge to be an exceptional game, and includes special judge commentary and feedback.
+Out of nearly 250 entries, these were chosen by a [panel of judges]({{site.baseurl}}/judges) to be among the best of 2015:
+
 <p>
 {% assign sorted_pages = (site.categories.finalist | sort: 'title') %}
   {% for post in sorted_pages %}

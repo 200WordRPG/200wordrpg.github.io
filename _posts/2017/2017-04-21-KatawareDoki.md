@@ -4,7 +4,7 @@ title: "Kataware Doki"
 date: 2017-04-21 17:05:13
 author: "Joseph Le May"
 link: "https://twitter.com/the_gill_man1"
-categories: 2017 rpg
+categories: 2017 rpg finalist
 ---
 ```
 For two players. 
@@ -36,3 +36,7 @@ Finally, thank one another.
 ## Author Comments 
 
 Special thanks to Jenn Martin, who DEMANDED I see the film which inspired this game, and made helpful suggestions for clarity.
+
+## Judge Comments
+
+I love a good emotional gut-punch. I happen to know the work this game's based on, and the rules adapt the concept to an RPG perfectly, in a way that makes it powerful to the players. Even better, it's a short game (play time should only last half an hour or so), so even though it's for 2 players more can absolutely watch without getting bored. - [*Brent Newhall*]({{site.baseurl}}/judges)
