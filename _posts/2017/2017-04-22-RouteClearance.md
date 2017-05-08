@@ -4,7 +4,7 @@ title: "Route Clearance"
 date: 2017-04-22 02:29:30
 author: "Andrew Millar"
 link: "www.highambitionlowskill.blogspot.co.nz"
-categories: 2017 rpg finalist
+categories: 2017 rpg winner
 ---
 ```
 You are US Army soldiers tasked with clearing the road between Kabul to Kandahar of IEDs during the invasion of Afghanistan. 

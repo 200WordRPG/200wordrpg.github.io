@@ -4,7 +4,7 @@ title: "MECHANICAL ORYX"
 date: 2017-04-15 16:18:45
 author: "Grant Howitt"
 link: "lookrobot.com/games"
-categories: 2017 rpg finalist
+categories: 2017 rpg winner
 ---
 ```
 You have many whirring eyes and strong, beautiful coiled-steel legs and were made long ago when the cities still stood. 

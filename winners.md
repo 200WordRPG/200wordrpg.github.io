@@ -5,7 +5,7 @@ layout: default
 # Winners
 Chosen by the [Judges]({{site.baseurl}}/judges), these entries were particularly creative and engaging! There are no 1st, 2nd, or 3rd places, only top three winners in no particular order.
 
-### **2017**:&emsp;Winners will be announced [May 8th](https://200wordrpg.github.io/news/2017/04/24/submissionsclosed.html)!
+### **2017** :&emsp;[MECHANICAL ORYX]({{site.baseurl}}{% post_url 2017-04-15-MECHANICALORYX %})&emsp;•&emsp;[Memories]({{site.baseurl}}{% post_url 2017-04-21-Memories %})&emsp;•&emsp;[Route Clearance]({{site.baseurl}}{% post_url 2017-04-22-RouteClearance %})
 
 ### **2016** RPGs:&emsp;[Deconstruction]({{site.baseurl}}{% post_url 2016-04-12-Deconstruction %})&emsp;•&emsp;[Stardust]({{site.baseurl}}{% post_url 2016-04-09-Stardust %})&emsp;•&emsp;[Time Travel Thaw]({{site.baseurl}}{% post_url 2016-04-14-TimeTravelThaw %})
  
