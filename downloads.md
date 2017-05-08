@@ -14,14 +14,14 @@ In fact, this whole website is protected under the Creative Commons License; so 
 These PDFs include ALL of the entries from that year's challenge. Enjoy!
 <table>
 <tr>
-<td id="downloads"><a href="https://drive.google.com/open?id=0B80n8S8QrXvYaE5OX01aR0h0Y2c"><h2>2015 PDF</h2></a></td>
-<td id="downloads"><a href="https://drive.google.com/file/d/0B80n8S8QrXvYdjZ1TjdYa2ZZcFk/view?usp=sharing"><h2>2016 PDF</h2></a></td>
+<td id="downloads"><a href="https://200wordrpg.github.io/assets/2015_AllEntries"><h2>2015 PDF</h2></a></td>
+<td id="downloads"><a href="https://200wordrpg.github.io/assets/2016_AllEntries"><h2>2016 PDF</h2></a></td>
 <td id="downloads"><a href="https://200wordrpg.github.io/assets/2017_AllEntries"><h2>2017 PDF</h2></a></td>
 </tr>
 <tr>
-<td><a href="https://drive.google.com/open?id=0B80n8S8QrXvYaE5OX01aR0h0Y2c"><img src="/assets/images/papers.png" /></a></td>
-<td><a href="https://drive.google.com/file/d/0B80n8S8QrXvYdjZ1TjdYa2ZZcFk/view?usp=sharing"><img src="/assets/images/papers.png" /></a></td>
-<td><a href="https://200wordrpg.github.io/assets/2017_AllEntries" /><img src="/assets/images/papers.png" /></a></td>
+<td><a href="https://200wordrpg.github.io/assets/2015_AllEntries"><img src="/assets/images/papers.png"/></a></td>
+<td><a href="https://200wordrpg.github.io/assets/2016_AllEntries"><img src="/assets/images/papers.png"/></a></td>
+<td><a href="https://200wordrpg.github.io/assets/2017_AllEntries"><img src="/assets/images/papers.png"/></a></td>
 </tr>
 <tr>
 <td id="downloads">designed by <a href="https://about.me/mattwidmann">Matt Widmann</a></td>
