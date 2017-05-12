@@ -52,4 +52,4 @@ Read more entries! Work with other designers! Make more stuff! I'm so excited to
 
 P.S. Marshall and I both agreed we wouldn't use the challenge to advertise our own games. However if for some reason you haven't found what you're looking for among the thousands of 200 word games we both make some cool stuff as well.
 
-[**Marshall's games**](http://www.finemessgames.com/), and [**David's games**](http://schirduans.com/david/category/creations).
+[Marshall's games](http://www.finemessgames.com/), and [David's games](http://schirduans.com/david/category/creations).
