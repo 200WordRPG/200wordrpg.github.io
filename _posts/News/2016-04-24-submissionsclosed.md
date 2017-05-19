@@ -8,7 +8,7 @@ categories: news
 
 # Submissions Closed! Now What?
 
-Now we will double and triple check all entries to make sure everything looks good before we hand it off to the [judges]({{site.baseurl}}/judges)! They will review and rank the entries so that each entry is read by two judges. Good luck!
+Now we will double and triple check all entries to make sure everything looks good before we hand it off to the [judges]({{site.baseurl}}/judges)! They will review and rank the entries so that each entry is read by at least two judges. Good luck!
 
 A rough schedule is posted below. Until then, check out some of the incredible [2017 entries]({{site.baseurl}}/2017entries), play them, hack them, discuss them, or just enjoy reading them!
 
