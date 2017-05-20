@@ -67,7 +67,7 @@
       <section>
 	  
 	  <h1 itemprop="name">{{ page.title }} • {{ page.categories }}</h1>
-	  <h3>{{ page.author }} • {{ page.link }}</h3>
+	  <h3>{{ page.author }} • <span id="entry-link">{{ page.link }}</span></h3>
 
       {{ content }}
 	  
@@ -87,6 +87,8 @@
 	<div>
 	All entries under <a rel="license" href="{{site.baseurl}}/licensing">CC-BY-4.0 License</a><br>Hosted on <a href="https://github.com/200WordRPG/200wordrpg.github.io">GitHub</a> • Theme by <a href="https://github.com/orderedlist">orderedlist</a>
 	  </div>
+
+    <script async src="/assets/js/add-links.js"></script>
 	      
 	      <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
