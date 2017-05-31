@@ -4,7 +4,7 @@
     {% for post in site.posts %}
     {
       "title"    : "{{ post.title }}",
-      "href"     : "{{ post.url }}"
+      "href"     : "{{ post.url }}",
       "author"   : "{{ post.author }}"
     }
     {% unless forloop.last %},{% endunless %}
