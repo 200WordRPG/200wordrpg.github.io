@@ -5,7 +5,7 @@
     {
       "title"    : "{{ post.title }}",
       "href"     : "{{ post.url }}"
-
+      "author"   : "{{ post.author }}"
     }
     {% unless forloop.last %},{% endunless %}
     {% endfor %}
