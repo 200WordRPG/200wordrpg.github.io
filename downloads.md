@@ -39,7 +39,7 @@ Beautifully laid out by <a href="http://thomas-novosel.com/">Thomas Novosel</a>,
 <td id="downloads" colspan="2"><a href="http://www.lulu.com/shop/many-contributors/200-word-rpg-challenge-2017-vol2-of-2/paperback/product-23195064.html"><h2>2017 Volume 2</h2></a></td>
 </tr>
 <tr>
-<td id="downloads" colspan="2"><a href="http://www.lulu.com/shop/many-contributors/200-word-rpg-challenge-2017-vol2-of-2/paperback/product-23195064.html">Entries "52" through "Jury Duty"</a></td>
+<td id="downloads" colspan="2"><a href="http://www.lulu.com/shop/many-contributors/200-word-rpg-challenge-2017-vol1-of-2/paperback/product-23195071.html">Entries "52" through "Jury Duty"</a></td>
 <td id="downloads" colspan="2"><a href="http://www.lulu.com/shop/many-contributors/200-word-rpg-challenge-2017-vol2-of-2/paperback/product-23195064.html">Entries "Just One Wish Away" through "Zone Side Picnic"</a></td>
 </tr>
 <tr>
