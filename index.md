@@ -19,6 +19,11 @@ Making and sharing a game is a great way to showcase your ideas and connect with
 
 <hr>
 
+# Random Entry of the Day
+  
+<a class="twitter-timeline" data-tweet-limit="1" href="https://twitter.com/200WordRPG">Tweets by 200WordRPG</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<hr>
 # News and Updates
 
 <ul>

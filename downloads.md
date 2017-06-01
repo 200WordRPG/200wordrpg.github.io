@@ -29,3 +29,21 @@ These PDFs include ALL of the entries from that year's challenge. Enjoy!
 <td id="downloads">designed by <a href="http://thomas-novosel.com/">Thomas Novosel</a></td>
 </tr>
 </table>
+
+## Print Collections
+Beautifully laid out by <a href="http://thomas-novosel.com/">Thomas Novosel</a>, each  300+ page softcover copy costs $11 (not including shipping). A lot of hard work went into making these slick and affordable. Major props to <a href="http://thomas-novosel.com/">Thomas</a> for all of his hard work!
+
+<table>
+<tr>
+<td id="downloads"><a href="http://www.lulu.com/shop/many-contributors/200-word-rpg-challenge-2017-vol1-of-2/paperback/product-23195071.html"><h2>2017 Volume 1</h2></a></td>
+<td id="downloads"><a href="http://www.lulu.com/shop/many-contributors/200-word-rpg-challenge-2017-vol2-of-2/paperback/product-23195064.html"><h2>2017 Volume 2</h2></a></td>
+</tr>
+<tr>
+<td><a href="{{site.baseurl}}/assets/images/print1.png"><img src="/assets/images/print1.png"/></a><a href="{{site.baseurl}}/assets/images/print2.png"><img src="/assets/images/print2.png"/></a></td>
+<td><a href="{{site.baseurl}}/assets/images/print3.png"><img src="/assets/images/print3.png"/></a><a href="{{site.baseurl}}/assets/images/print4.png"><img src="/assets/images/print4.png"/></a></td>
+</tr>
+<tr>
+<td id="downloads">Entries "52" through "Jury Duty"</td>
+<td id="downloads">Entries "Just One Wish Away" through "Zone Side Picnic"</td>
+</tr>
+</table>
