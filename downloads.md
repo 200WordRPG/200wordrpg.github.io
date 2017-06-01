@@ -31,7 +31,7 @@ These PDFs include ALL of the entries from that year's challenge. Enjoy!
 </table>
 
 ## Print Collections
-Beautifully laid out by <a href="http://thomas-novosel.com/">Thomas Novosel</a>, each  300+ page softcover copy costs $11 (not including shipping). $11 is basically the bare-minimum printing cost with Thomas making about $2 profit on each one sold (which is WAY less than he deserves).  A lot of hard work went into making these slick and affordable. We hope you enjoy them!
+Beautifully laid out by <a href="http://thomas-novosel.com/">Thomas Novosel</a>, each  300+ page softcover copy costs $11 (not including shipping). $11 is basically the bare-minimum printing cost with Thomas making about $2 profit on each one sold (which is WAY less than he deserves).  A lot of hard work went into making these slick and affordable. Check out the [2017 PDF](https://200wordrpg.github.io/assets/2017_AllEntries.pdf) to get an idea of how the books will look. We hope you enjoy them!
 
 <table>
 <tr>
