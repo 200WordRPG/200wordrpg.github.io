@@ -35,15 +35,16 @@ Beautifully laid out by <a href="http://thomas-novosel.com/">Thomas Novosel</a>,
 
 <table>
 <tr>
+<td><a href="{{site.baseurl}}/assets/images/print1.jpg"><img src="/assets/images/print1.jpg"/></a><a href="{{site.baseurl}}/assets/images/print2.jpg"><img src="/assets/images/print2.jpg"/></a></td>
+<td><a href="{{site.baseurl}}/assets/images/print3.jpg"><img src="/assets/images/print3.jpg"/></a><a href="{{site.baseurl}}/assets/images/print4.jpg"><img src="/assets/images/print4.jpg"/></a></td>
+</tr>
+<tr>
 <td id="downloads"><a href="http://www.lulu.com/shop/many-contributors/200-word-rpg-challenge-2017-vol1-of-2/paperback/product-23195071.html"><h2>2017 Volume 1</h2></a></td>
 <td id="downloads"><a href="http://www.lulu.com/shop/many-contributors/200-word-rpg-challenge-2017-vol2-of-2/paperback/product-23195064.html"><h2>2017 Volume 2</h2></a></td>
 </tr>
+
 <tr>
-<td><a href="{{site.baseurl}}/assets/images/print1.png"><img src="/assets/images/print1.png"/></a><a href="{{site.baseurl}}/assets/images/print2.png"><img src="/assets/images/print2.png"/></a></td>
-<td><a href="{{site.baseurl}}/assets/images/print3.png"><img src="/assets/images/print3.png"/></a><a href="{{site.baseurl}}/assets/images/print4.png"><img src="/assets/images/print4.png"/></a></td>
-</tr>
-<tr>
-<td id="downloads">Entries "52" through "Jury Duty"</td>
-<td id="downloads">Entries "Just One Wish Away" through "Zone Side Picnic"</td>
+<td id="downloads"><a href="http://www.lulu.com/shop/many-contributors/200-word-rpg-challenge-2017-vol2-of-2/paperback/product-23195064.html">Entries "52" through "Jury Duty"</a></td>
+<td id="downloads"><a href="http://www.lulu.com/shop/many-contributors/200-word-rpg-challenge-2017-vol2-of-2/paperback/product-23195064.html">Entries "Just One Wish Away" through "Zone Side Picnic"</a></td>
 </tr>
 </table>
