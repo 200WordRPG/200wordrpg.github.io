@@ -3,7 +3,7 @@ layout: post
 title: "Greedy Devils"
 date: 2017-04-23 16:56:06
 author: "Chris Gathercole"
-link: "@upthebuzzard"
+link: "https://twitter.com/upthebuzzard"
 categories: 2017 rpg
 ---
 ```
