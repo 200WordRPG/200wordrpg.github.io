@@ -10,6 +10,12 @@ This small tabletop game design challenge exists for two primary reasons:
 
 **2) To provide a collection of ideas that the community may build upon.** These entries are released under the [Creative Commons license]({{site.baseurl}}/licensing) to promote collaboration and innovation. It is our hope that new designers and old pros alike will use these interesting ideas and work together to expand them into something greater.
 
+## Entry of the Day
+
+<a class="twitter-timeline" data-show-replies="false" data-tweet-limit="1" data-chrome="noheader nofooter noscrollbar" data-dnt="true" href="https://twitter.com/200WordRPG">Entry of the Day</a>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## The Challenge will not happen in 2021
 
 Many of the organizers are taking the year off to work on other projects and remain sane during the pandemic. We hope to resume the challenge at some point in the future. Thanks for your interest! Stay safe, everyone.
