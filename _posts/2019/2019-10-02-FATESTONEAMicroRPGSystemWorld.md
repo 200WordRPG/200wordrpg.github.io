@@ -9,7 +9,7 @@ categories: 2019 rpg
 <div id="warning"><div id="content"><h3><strong>! Content Warning: Natural disasters !</strong></h3><i>Continue scrolling to read the entry.</i></div></div>
  
 <pre>
-<code style="white-space:pre">
+<code style="white-space:pre; max-width:100%;">
                                         ___      ___  ___  __  ___  __        ___                                       
     _ _ _ ___________________/////     |__   /\   |  |__  /__`  |  /  \ |\ | |__      \\\\\___________________ _ _ _    
                              \\\\\     |    /--\  |  |___ .__/  |  \__/ | \| |___     /////                             
