@@ -3,6 +3,12 @@
 
 @import "jekyll-theme-minimal";
 
+/*For the fitty ascii*/
+.fit {
+  display: inline-block;
+  white-space: nowrap;
+}
+
 #warning {
   display: flex;
   flex-flow: column;
