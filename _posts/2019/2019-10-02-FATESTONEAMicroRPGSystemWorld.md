@@ -190,7 +190,7 @@ categories: 2019 rpg
  |____________________________________________________________________________________________________________________| 
 /                                                                                                                      \
 \______________________________________________________________________________________________________________________/
-<code></pre>
+</code></pre>
 
 ## Author Comments
 FATESTONE was designed to push the rules of the 200 Word RPG Challenge to its limits. While there are word limits, there are no character limits. Keeping that in mind, I wanted to create the most comprehensive and true to form "Traditional RPG" possible within that rule set. 
