@@ -3,6 +3,14 @@
 
 @import "jekyll-theme-minimal";
 
+/*For Random button*/@at-root
+#random_button{
+border-top: 2px solid #00008B;
+border-bottom: 2px solid #00008B;
+min-width: 75%;
+display: inline-block;
+}
+
 /*Reading Size*/
 p, pre, h2, h3 {
   width: 100%;
