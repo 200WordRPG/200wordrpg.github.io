@@ -9,7 +9,7 @@
     <meta property="og:description" content="{{ page.author }}" />
     <title>{{ page.title }}</title>
 
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         function generateRandomPost() {
             $.getJSON("/allposts.json", function (data) {
                 console.log("[allposts.json loaded for random entries]");
@@ -40,7 +40,7 @@
         $(document).ready(function () {
             generateRandomPost();
         });
-    </script>
+    </script>-->
 
 </head>
 
@@ -58,6 +58,8 @@
 
             {{ content }}
             
+            <hr>
+
             <div align="middle" style="vertical-align:middle;display:block;">
 
                 <a href="//www.reddit.com/submit" class="button" id="discuss" onclick="window.location = '//www.reddit.com/r/200wordrpg/submit?title={{page.title}}&url=' + encodeURIComponent(window.location); return false"
@@ -68,9 +70,9 @@
                 </a>
             </div>
 
-            <hr>
-           <h2>Read another Entry</h2>
-            <div id="random_button" align="middle"></div>
+            
+           <!--<h2>Read another Entry</h2>
+            <div id="random_button" align="middle"></div>-->
 
         </section>
 

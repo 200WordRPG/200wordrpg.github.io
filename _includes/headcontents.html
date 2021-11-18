@@ -15,3 +15,23 @@
 
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 
+<script>
+function generateRandomPost() {
+    $.getJSON("/allposts.json", function (data) {
+        console.log("[allposts.json loaded for random entries]");
+
+        var postsCount = data.length;
+        var posts = data;
+        var divRandomButton = $("#random_button");
+        var randomIndex = Math.floor(Math.random() * postsCount);
+
+        divRandomButton.append('<a href="' + posts[randomIndex].href +
+                    '"> Read a Random Entry </a>');
+                });
+        }
+
+    $(document).ready(function () {
+            generateRandomPost();
+        });
+</script>
+
