@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Design a role-playing game using 200 words or less.
+# Design a role-playing game using 200 words.
 
 This small tabletop game design challenge exists for two primary reasons:
 
@@ -12,7 +12,7 @@ This small tabletop game design challenge exists for two primary reasons:
 
 ## Entry of the Day
 
-<a class="twitter-timeline" data-show-replies="false" data-tweet-limit="1" data-chrome="noheader nofooter noscrollbar" data-dnt="true" href="https://twitter.com/200WordRPG">Entry of the Day</a>
+<a class="twitter-timeline" data-show-replies="false" data-tweet-limit="1" data-chrome="noheader nofooter noscrollbar" data-width="500px" data-align="center" data-conversation="none" data-dnt="true" href="https://twitter.com/200WordRPG">Entry of the Day</a>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
