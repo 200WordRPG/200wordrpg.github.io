@@ -16,9 +16,9 @@ This small tabletop game design challenge exists for two primary reasons:
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## The Challenge will not happen in 2021
+## Stay Tuned for Updates about 2022
 
-Many of the organizers are taking the year off to work on other projects and remain sane during the pandemic. We hope to resume the challenge at some point in the future. Thanks for your interest! Stay safe, everyone.
+We hope to revive the challenge this year. Thanks for your interest! Stay safe, everyone.
 
 ## Why 200 Words?
 
@@ -33,6 +33,7 @@ Got a neat idea? Use our **[Wordcounter]({{site.baseurl}}/wordcount)** to check 
 Visual presentation can be a large and scary problem. Very few people are masters of writing, editing, art direction, graphic design, layout, and marketing. It usually takes a village to make a game. We want participants to focus solely on the challenge of creative writing and brutal editing.
 
 ## Licensing and Ownership
+
 All entries are publicly posted [on this page]({{site.baseurl}}/2019entries). We reserve the right to reject entries that we consider to be inappropriate or offensive. All entries have been submitted under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. [More info here]({{site.baseurl}}/licensing).
 
 ## Ethics & Inclusivity
