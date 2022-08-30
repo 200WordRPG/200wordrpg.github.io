@@ -10,15 +10,15 @@ This small tabletop game design challenge exists for two primary reasons:
 
 **2) To provide a collection of ideas that the community may build upon.** These entries are released under the [Creative Commons license]({{site.baseurl}}/licensing) to promote collaboration and innovation. It is our hope that new designers and old pros alike will use these interesting ideas and work together to expand them into something greater.
 
+## No Future Plans
+
+We have no planned events or announcements at this time. Please enjoy the entries archived on this site and we hope you'll continue to create even without the encouragement of the 200 Word RPG Challenge.
+
 ## Entry of the Day
 
 <a class="twitter-timeline" data-show-replies="false" data-tweet-limit="1" data-chrome="noheader nofooter noscrollbar" data-width="500px" data-align="center" data-conversation="none" data-dnt="true" href="https://twitter.com/200WordRPG">Entry of the Day</a>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Stay Tuned for Updates about 2022
-
-We hope to revive the challenge this year. Thanks for your interest! Stay safe, everyone.
 
 ## Why 200 Words?
 
@@ -41,8 +41,6 @@ All entries are publicly posted [on this page]({{site.baseurl}}/2019entries). We
 The 200 Word RPG Challenge is a small contest with small stakes where you design small games to win small prizes. It's an inclusive contest that welcomes the submissions of game designers from all walks of life and designers from marginalized communities are especially encouraged to participate! We want to make this a space that is safe for first-time designers, marginalized designers, and designers who struggle in structural and personal ways. Whoever you are, wherever you come from, we're happy to have you.
 
 Helping everyone to feel welcome means working together to help everyone feel safe and treating others with consideration and respect. Harassment, intimidation, and hate speech are not acceptable. We will not tolerate discrimination based on race, religion, sex, gender identity, sexual preference, mental health and ability, physical health and ability, size, ethnicity, nationality, or refugee status. The organizers reserve the right to refuse contest submissions, prize donations, and service offers based on these values. 
-
-Also for the first time this year we allow entries to include Content Warnings. We hope this will make the challenge safer for everyone to enjoy.
 
 ### Connect with other Creators
 
