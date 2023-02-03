@@ -14,12 +14,6 @@ This small tabletop game design challenge exists for two primary reasons:
 
 We have no planned events or announcements at this time. Please enjoy the entries archived on this site and we hope you'll continue to create even without the encouragement of the 200 Word RPG Challenge.
 
-## Entry of the Day
-
-<a class="twitter-timeline" data-show-replies="false" data-tweet-limit="1" data-chrome="noheader nofooter noscrollbar" data-width="500px" data-align="center" data-conversation="none" data-dnt="true" href="https://twitter.com/200WordRPG">Entry of the Day</a>
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Why 200 Words?
 
 A 200 word limit encourages creativity and demands the very best of your editing and writing abilities. While making a game in 200 words can be difficult, it’s less of a daunting commitment than editing and proofing 285 pages of rules, complete with art and layout.
